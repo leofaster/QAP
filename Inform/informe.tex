@@ -1,0 +1,104 @@
+\documentclass{ci5652}
+\usepackage{graphicx,amssymb,amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{subfigure}
+\usepackage{paralist}
+\usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+
+%----------------------- Macros and Definitions --------------------------
+
+% Add all additional macros here, do NOT include any additional files.
+
+% The environments theorem (Theorem), invar (Invariant), lemma (Lemma),
+% cor (Corollary), obs (Observation), conj (Conjecture), and prop
+% (Proposition) are already defined in the ci5652.cls file.
+
+%----------------------- Title -------------------------------------------
+
+\title{QAP una introducción en Busqueda Local}
+
+\author{Leopoldo Pimentel}
+
+%------------------------------ Text -------------------------------------
+
+\begin{document}
+\thispagestyle{empty}
+\maketitle
+
+
+\begin{abstract}
+QAP (Quadratic assignment problem) es un problema NP-Hard. Que se basa en minimizar el costo de la distancia y flujo entre las asignaciones. En este trabajo, intentaremos, a traves de varias meta Heuristicas de resolucion de problemas, encontrar una nueva vision del problema y por consiguiente aumentar el nivel de conocimiento en el problema. 
+\end{abstract}
+
+\section{Origen}
+\vspace*{0.2cm}'El problema de la asignación cuadrática, que se denota por sus siglas en inglés QAP (Quadratic assignment problem), fue planteado por Koopmans y Beckmann en 1957 como un modelo matemático para un conjunto de actividades económicas indivisibles. Posteriormente Sahni y Gonzales demostraron que QAP pertenece a los problemas no polinomiales duros , lo que sumado a que es un problema aplicable a un sinnúmero de situaciones, lo hacen un problema de gran interés para el estudio.'~\cite{so2005}.
+
+\section{Definición}
+\vspace*{0.2cm} QAP es un problema en la teoria de localización. En este se trata de asignar N instalaciones a una cantidad de N sitios en donde existe un costo asociado a cada asignación. Este costo, dependerá de las distancias y flujo entre las instalaciones. De este modo, se buca que el costo en funcion de la distancia y el flujo sea el minímo. 
+Este tipo de problemas busca soliciones en un gran numero de instancias como:
+\begin{itemize}
+\item Diseño de centros comerciales donde se quiere que el público recorra la menor cantidad de distancia para llegar a tiendas de intereses comunes para un sector del público.
+\item Diseño de terminales en aeropuertos, en donde se quiere que los pasajeros que deban hacer un transbordo recorran la distancia mínima entre una y otra terminal teniendo en cuenta el flujo de personas entre ellas.
+\item Procesos de comunicaciones.
+\item Diseño de teclados de computadora, en donde se quiere por ejemplo ubicar las teclas de una forma tal en que el desplazamientos de los dedos para escribir textos regulares sea el mínimo.
+\item Diseño de circuitos eléctricos, en donde es de relevante importancia dónde se ubican ciertas partes o chips con el fin de minimizar la distancia entre ellos, ya que las conexiones son de alto costo.
+\end{itemize}
+\section{Solución Planteada }
+Para esta primera entrega, el trabajo se baso en realizar una busqueda local de soluciones. Se plantearon 3 tipos de instancias.
+\begin{enumerate}
+\item Una busqueda por fuerza bruta que fuese probando todas las posibles soluciones
+\item Una busqueda, donde una vez obtenido un minimo, se hacen cambios en la vecindad de forma aleatoria entre los indices.
+\item Una busqueda, donde una vez obtenido un minimo, este se respeta y se hacen cambios en los vecinos de su vecindad.
+\end{enumerate}
+
+\begin{algorithm}
+ \DontPrintSemicolon
+ \vspace*{0.1cm}
+ \KwIn{De entrada, se toman los casos expuestos en la biblioteca QAPLIB~\cite{QAPLIB2005}.}
+ \KwOut{La salida de nuestro algoritmo, muestra por consola, el resultado obtenido de la primera seleccion y el resultado final de haber aplicado el algoritmo}
+ Obtener\_Vecindad\_Random()\;
+ Preguntar\_Heuristica()\;
+ 
+ \KwRet{Valor obtenido después de procesar}
+ \vspace*{0.1cm}
+ \caption{Primera Fase, Busqueda Local}
+\end{algorithm}
+
+
+\section{Conclusiones}
+Despues de realizar números experimentos, hemos observado que una busqueda aleatoria no presenta los mejores resultados promedios, así mismo, tambien observamos que es necesario un mejor método de busqueda dentro de la vecindad, para no caer en mínimos locales. Tambien se recomienda la realización de una huristica inicial para la creación de la primera vecindad. Esto para facilitar las lecturas de los resultados de las pruebas y al mismo tiempo, tener resultados más estables y fáciles de comparar
+
+
+%---------------------------- Bibliography -------------------------------
+
+% Please add the contents of the .bbl file that you generate,  or add bibitem entries manually if you like.
+% The entries should be in alphabetical order
+\small
+\bibliographystyle{abbrv}
+
+\begin{thebibliography}{99}
+
+\bibitem{so2005}
+Wikipedia.
+\newblock Problema de la asignación cuadrática.
+\newblock {\em Wikipedia},  2010.
+
+\bibitem{QAPLIB2005}
+QAPLIB.
+\newblock A Quadratic Assignment Problem Library.
+\newblock {\em R.E. BURKARD, E. ÇELA, S.E. KARISCH and F. RENDL},  2010.
+
+\end{thebibliography}
+
+
+\newpage
+\section*{Indice}
+\tableofcontents
+
+%\tableofcontents
+%\input{chapters/appendix}%
+
+
+\end{document}
