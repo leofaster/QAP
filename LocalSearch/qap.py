@@ -2,12 +2,14 @@
 import sys
 import random
 import time
+import itertools
 
 
 def val(size, vicinity, flow, distance):
     value = 0
     for i in range(size):
         for j in range(size):
+            # print i, j
             value += int(flow[i][j]) * int(distance[vicinity[i]][vicinity[j]])
 
     return value
@@ -109,11 +111,14 @@ def obtain_min_random_next(
 def obtain_min_force(
     vicinity, vicinityValue, size, flow, distance, maxtime
 ):
+    # allVicinity = list(itertools.permutations(vicinity))
     i = 0
     j = size-1
     laps = 0
+    # counter = 0
     while time.clock() < maxtime and j > 0 and i < size:
         laps += 1
+        # newVicinity = allVicinity[counter]  #(vicinity, i, j)
         newVicinity = permute_vicinity(vicinity, i, j)
         newVicinityValue = val(size, newVicinity, flow, distance)
         if vicinityValue > newVicinityValue:
@@ -124,6 +129,7 @@ def obtain_min_force(
             j = size - 1
         else:
             j -= 1
+        # counter += 1
 
     print "Mejor valor: ", vicinityValue
     print "Tiempo de corrida: ", time.clock()

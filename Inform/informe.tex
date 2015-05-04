@@ -19,7 +19,7 @@
 
 \title{QAP una introducción en Busqueda Local}
 
-\author{Leopoldo Pimentel}
+\author{Leopoldo Pimentel (leopoldo@pimentel.com.ve)}
 
 %------------------------------ Text -------------------------------------
 
@@ -52,6 +52,14 @@ Para esta primera entrega, el trabajo se baso en realizar una busqueda local de 
 \item Una busqueda, donde una vez obtenido un minimo, se hacen cambios en la vecindad de forma aleatoria entre los indices.
 \item Una busqueda, donde una vez obtenido un minimo, este se respeta y se hacen cambios en los vecinos de su vecindad.
 \end{enumerate}
+\section{Función Objectivo}
+\vspace*{0.2cm} Para este tipo de problemas, es necesario tener una funcion evaluadora de las soluciones. Es decir, es necesario saber si una solución puede ser mejor que otra. Aquí es donde entra en juego la función objetivo. En el caso de QAP, la función objectivo es una sumatoria doble de cada uno de los elementos de la tabla de distancia por su equivalente en la tabla de flujos.
+La sumatoria viene dada por la siguiente formula
+
+
+\[F =  min \sum_{i=0}^{n} \sum_{j=0}^{n}  Flujo(i,j) * Distancia(x[i],x[j]) \]
+Donde:
+X es el vector solución que se esta probando
 
 \begin{algorithm}
  \DontPrintSemicolon
@@ -88,7 +96,7 @@ Wikipedia.
 \bibitem{QAPLIB2005}
 QAPLIB.
 \newblock A Quadratic Assignment Problem Library.
-\newblock {\em R.E. BURKARD, E. ÇELA, S.E. KARISCH and F. RENDL},  2010.
+\newblock {\em R.E. BURKARD, E. ÇELA, S.E. KARISCH and F. RENDL},  2012.
 
 \end{thebibliography}
 
