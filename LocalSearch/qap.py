@@ -1,21 +1,57 @@
 #! /usr/bin/python
 import sys
 import random
-import time
+import time, timing
 import itertools
+from math import factorial
 
 
-def val(size, vicinity, flow, distance):
+def val(size, vector, flow, distance):
     value = 0
     for i in range(size):
         for j in range(size):
             # print i, j
-            value += int(flow[i][j]) * int(distance[vicinity[i]][vicinity[j]])
+            value += int(flow[i][j]) * int(distance[vector[i]][vector[j]])
 
     return value
 
 
-def generate_vicinity_random(size):
+def swap_positions(vector, first, second):
+    temp = vector[first]
+    vector[first] = vector[second]
+    vector[second] = temp
+
+    return vector
+
+
+# Se evalua el vector solucion y se le aplica el operador de vecindad.
+# Se guarda la vecindad en una lista de pares.
+def operator1_vecinity(value, vector, size, flow, distance):
+    lista = []
+    lista.append((value, vector))
+    for i, k in enumerate(vector):
+        tmp = []
+        if (i+1 < len(vector)):
+            tmp = swap_positions(vector, i, i+1)
+        else:
+            tmp = swap_positions(vector, i, 0)
+        lista.append(
+            (
+                val(
+                    size=size,
+                    vector=tmp,
+                    flow=flow,
+                    distance=distance
+                ),
+                tmp
+            )
+        )
+    return lista
+
+
+
+
+def generate_first_solution_random(size):
     v = list(set(range(0, size)))
     for i in range(size):
         rand = random.choice(v)
@@ -42,28 +78,38 @@ def permute_min_local_next(vicinity, position, swich):
     return vicinity
 
 
-def permute_vicinity(vicinity, first, second):
-    temp = vicinity[first]
-    vicinity[first] = vicinity[second]
-    vicinity[second] = temp
-
-    return vicinity
-
-
-def obtain_min_random(vicinity, vicinityValue, size, flow, distance, maxtime):
-    position = 0
+def obtain_min_random(vector, vectorValue, size, flow, distance, maxtime):
+    maxlaps = factorial(size)
     laps = 0
-    while time.clock() < maxtime:
-        laps += 1
-        newVicinity = permute_min_local_random(vicinity, position)
-        newVicinityValue = val(size, newVicinity, flow, distance)
-        if vicinityValue > newVicinityValue:
-            vicinity = newVicinity
-            vicinityValue = newVicinityValue
-            position += 1
+    newVector = vector
+    newValue = vectorValue
+    timming.start()
+    while laps < maxlaps:
+        lista = operator1_vecinity(
+            value=newValue,
+            vector=newVector,
+            size=size,
+            flow=flow,
+            distance=distance
+        )
+        newValue = min(lista)[0]
+        newVector = min(lista)[1]
+
+
+
+    # position = 0
+    # laps = 0
+    # while time.clock() < maxtime:
+    #     laps += 1
+    #     newvector = permute_min_local_random(vector, position)
+    #     newvectorValue = val(size, newvector, flow, distance)
+    #     if vectorValue > newvectorValue:
+    #         vector = newVicinity
+    #         vicinityValue = newVicinityValue
+    #         position += 1
 
     print "Mejor valor: ", vicinityValue
-    print "Tiempo de corrida: ", time.clock()
+    print "Tiempo de corrida: ", 
     print "Iteraciones: ", laps
 
 
@@ -108,34 +154,6 @@ def obtain_min_random_next(
     print "Iteraciones: ", laps
 
 
-def obtain_min_force(
-    vicinity, vicinityValue, size, flow, distance, maxtime
-):
-    # allVicinity = list(itertools.permutations(vicinity))
-    i = 0
-    j = size-1
-    laps = 0
-    # counter = 0
-    while time.clock() < maxtime and j > 0 and i < size:
-        laps += 1
-        # newVicinity = allVicinity[counter]  #(vicinity, i, j)
-        newVicinity = permute_vicinity(vicinity, i, j)
-        newVicinityValue = val(size, newVicinity, flow, distance)
-        if vicinityValue > newVicinityValue:
-            vicinity = newVicinity
-            vicinityValue = newVicinityValue
-        if j <= 1:
-            i += 1
-            j = size - 1
-        else:
-            j -= 1
-        # counter += 1
-
-    print "Mejor valor: ", vicinityValue
-    print "Tiempo de corrida: ", time.clock()
-    print "Iteraciones: ", laps
-
-
 def main(argv):
     if len(argv) > 1:
         f = open(sys.argv[1], 'r')
@@ -167,9 +185,9 @@ def main(argv):
     flow = matrix[:size]
     distance = matrix[size:]
 
-    vicinity = generate_vicinity_random(size)
-    vicinityValue = val(size, vicinity, flow, distance)
-    vicinityValueOLD = vicinityValue
+    first_solution = generate_first_solution_random(size)
+    first_solutionValue = val(size, first_solution, flow, distance)
+    ValueOLD = first_solutionValue
     print "Cual de las siguientes heuristicas quiere probar?"
     print "0) Brute Force"
     print "1) Local Search, random switch"
@@ -184,12 +202,18 @@ def main(argv):
             print 'Por favor un numero'
 
     options = {
-        0: obtain_min_force,
         1: obtain_min_random,
         2: obtain_min_random_next,
     }
-    print "Empezamos con valor: ", vicinityValueOLD
-    options[num](vicinity, vicinityValue, size, flow, distance, maxtime)
+    print "Empezamos con valor: ", ValueOLD
+    options[num](
+        first_solution,
+        first_solutionValue,
+        size,
+        flow,
+        distance,
+        maxtime
+    )
 
 
 if __name__ == "__main__":
