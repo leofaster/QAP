@@ -6,6 +6,19 @@ from itertools import permutations
 from math import factorial
 
 
+# FUNCIONES CORE
+
+# GENERAMOS LA PRIMERA SOLUCION DE FORMA RANDOM
+def generate_first_solution_random(size):
+    v = list(set(range(0, size)))
+    for i in range(size):
+        rand = random.choice(v)
+        v.remove(rand)
+        v.append(rand)
+
+    return v
+
+# Evaluamos un vector
 def val(size, vector, flow, distance):
     value = 0
     for i in range(size):
@@ -22,7 +35,27 @@ def swap_positions(vector, first, second):
     newVector[first] = newVector[second]
     newVector[second] = temp
     return newVector
+# FIN FUNCIONES CORE
 
+
+def valGreedy(size, flow, distance):
+    values = []
+    for i in range(size):
+        for j in range(size):
+            if i == j:
+                pass
+            else:
+                values.append(
+                    (
+                        int(flow[i][j]) * int(distance[i][j]),
+                        (i, j)
+                    )
+                )
+    values.sort()
+    return values
+
+
+# OPERADORES DE VECINDAD
 
 # Se evalua el vector solucion y se le aplica el operador de vecindad.
 # Se guarda la vecindad en una lista de pares.
@@ -109,16 +142,7 @@ def operator_vecinity3(value, vector, size, flow, distance):
         )
     return lista
 
-
-# GENERAMOS LA PRIMERA SOLUCION DE FORMA RANDOM
-def generate_first_solution_random(size):
-    v = list(set(range(0, size)))
-    for i in range(size):
-        rand = random.choice(v)
-        v.remove(rand)
-        v.append(rand)
-
-    return v
+# FIN OPERADORES DE VECINDAD
 
 
 def localSearch(vector, vectorValue, size, flow, distance, maxtime, operator):
@@ -155,12 +179,6 @@ def localSearch(vector, vectorValue, size, flow, distance, maxtime, operator):
                 min_local_counter = 0
 
         laps += 1
-    # print "Vector inicial: ", vector
-    # print "Vector final", newVector
-    # print "Empezamos con valor: ", vectorValue
-    # print "Mejor valor: ", newValue
-    # print "Tiempo de corrida: %s" % (time.time() - start_time)
-    # print "Iteraciones: ", laps
     return newVector, newValue
 
 
@@ -228,7 +246,6 @@ def ILS(vector, vectorValue, size, flow, distance, maxtime):
                 maxtime,
                 3
             )
-        # print min_loca_value_value > new_min_value
         new_local = min(
             (new_min_value, new_min_local),
             (min_loca_value_value, min_local)
@@ -241,16 +258,138 @@ def ILS(vector, vectorValue, size, flow, distance, maxtime):
 
         else:
             min_local_counter += 1
-            # print "parao"
-
 
     print "Vector inicial: ", vector
     print "Vector final", newVector
     print "Empezamos con valor: ", vectorValue
     print "Mejor valor: ", newValue
     print "Tiempo de corrida: %s" % (time.time() - start_time)
+    print "Tiempo de ejecucion: %s" % (time.time() - maxtime)
     print "Iteraciones: ", laps
 
+
+def VNS(vector, vectorValue, size, flow, distance, maxtime):
+    max_iterations = factorial(size)
+    laps = 0
+    newVector = vector[:]
+    newValue = vectorValue
+    min_local_counter = 0
+    start_time = time.time()
+    k = 1
+    while laps < max_iterations and min_local_counter < 500:
+        k = 1
+        while k < 4:
+            laps += 1
+            sol_inicial_per = pertubation_ils(newVector[:])
+            val_sol_inic_per = val(size, sol_inicial_per, flow, distance)
+            min_local_sol_inicial, min_loca_value_value = localSearch(
+                sol_inicial_per[:],
+                newValue,
+                size,
+                flow,
+                distance,
+                maxtime,
+                k
+            )
+            if min_loca_value_value < val_sol_inic_per:
+                newVector = min_local_sol_inicial
+                newValue = min_loca_value_value
+                min_local_counter = 1
+                k = 1
+                print "Mejora"
+            else:
+                k += 1
+                min_local_counter += 1
+
+    print "Vector inicial: ", vector
+    print "Vector final", newVector
+    print "Empezamos con valor: ", vectorValue
+    print "Mejor valor: ", newValue
+    print "Tiempo de corrida: %s" % (time.time() - start_time)
+    print "Tiempo de ejecucion: %s" % (time.time() - maxtime)
+    print "Iteraciones: ", laps
+
+
+def generate_vector_greedy(size, flow, distance):
+    values = valGreedy(size, flow, distance)
+    primera_solucion = []
+    for val in values[:size]:
+        par = random.choice(values[:size])
+        values.remove(par)
+        primera_solucion.append(par[1])
+    vector_solucion = [0 for x in range(size)]
+    vector_x = []
+    vector_y = []
+    for val in primera_solucion:
+        vector_x.append(val[0])
+        vector_y.append(val[1])
+
+    while vector_x:
+        if vector_solucion[vector_x[0]] == 0:
+            tmp = vector_y[0]
+            vector_solucion[vector_x[0]] = tmp
+            vector_x.remove(vector_x[0])
+            vector_y.remove(vector_y[0])
+            while vector_y.count(tmp) > 0:
+                index = vector_y.index(tmp)
+                vector_y.pop(index)
+                vector_x.pop(index)
+        else:
+            vector_x.remove(vector_x[0])
+            vector_y.remove(vector_y[0])
+
+    resto = list(set(range(size)) - set(vector_solucion))
+    while resto:
+        val = random.choice(resto)
+        # print vector_solucion
+        vector_solucion[vector_solucion.index(0)] = val
+        resto.remove(val)
+
+    return vector_solucion
+
+
+def GRASP(vector, vectorValue, size, flow, distance, maxtime):
+    max_iterations = factorial(size)
+    laps = 0
+    newVector = generate_vector_greedy(size, flow, distance)
+    newValue = val(size,newVector, flow, distance)
+    min_local_counter = 0
+    start_time = time.time()
+
+    while laps < max_iterations and min_local_counter < 5000:
+        min_local, min_loca_value_value = localSearch(
+            newVector[:],
+            newValue,
+            size,
+            flow,
+            distance,
+            maxtime,
+            1
+        )
+        greydy_vec = generate_vector_greedy(size, flow, distance)
+        greedy_val = val(size, greydy_vec, flow, distance)
+
+        tuple_greedy = (greedy_val,greydy_vec)
+        tuple_LS = (min_loca_value_value,min_local )
+        min_par = min(tuple_greedy,tuple_LS)
+
+
+        if newValue > min_par[0]:
+            newValue = min_par[0]
+            newVector = min_par[1]
+            print "MEJORA"
+            min_local_counter = 1
+        else:
+            min_local_counter += 1
+        laps += 1
+
+    print "Vector inicial: ", vector
+    print "Vector final", newVector
+    print "Empezamos con valor: ", vectorValue
+    print "Mejor valor: ", newValue
+    print "Tiempo de corrida: %s" % (time.time() - start_time)
+    print "Tiempo de ejecucion: %s" % (time.time() - maxtime)
+    print "Iteraciones: ", laps
 
 
 def main(argv):
@@ -283,13 +422,11 @@ def main(argv):
     assert i == 2 * size * size
     flow = matrix[:size]
     distance = matrix[size:]
-
-    first_solution = generate_first_solution_random(size)
-    first_solutionValue = val(size, first_solution, flow, distance)
-    ValueOLD = first_solutionValue
+    # MENU seleccionador
     print "Cual de las siguientes meta-heuristicas quiere probar?"
-    print "0) VNS"
-    print "1) GRASP"
+    print "0) ILS"
+    print "1) VNS"
+    print "2) GRASP"
     num = ''
     while True:
         try:
@@ -299,9 +436,14 @@ def main(argv):
         except:
             print 'Por favor un numero'
 
+    first_solution = generate_first_solution_random(size)
+    first_solutionValue = val(size, first_solution, flow, distance)
+    # ValueOLD = first_solutionValue
+
     options = {
         0: ILS,
-        1: ILS,
+        1: VNS,
+        2: GRASP,
     }
 
     options[num](
@@ -310,7 +452,7 @@ def main(argv):
         size,
         flow,
         distance,
-        maxtime
+        time.time()
     )
 
 
