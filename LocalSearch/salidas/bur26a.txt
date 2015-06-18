@@ -1,0 +1,2707 @@
+Corrida ILS 
+
+Corrida # 0
+Vector inicial: [0, 5, 6, 15, 18, 19, 20, 24, 25, 12, 8, 7, 3, 14, 23, 11, 13, 2, 4, 1, 9, 22, 16, 10, 17, 21]
+Vector final: [9, 16, 2, 15, 1, 24, 22, 7, 21, 18, 20, 4, 8, 12, 25, 11, 17, 13, 0, 3, 14, 23, 6, 19, 10, 5]
+Empezamos con valor: 5713534
+Mejor valor: 5531992
+Tiempo de corrida: 19.6484849453
+Tiempo de ejecucion: 19.6485002041
+Iteraciones: 501
+
+Corrida # 1
+Vector inicial: [5, 7, 9, 10, 11, 15, 20, 22, 24, 25, 4, 14, 16, 0, 1, 17, 2, 13, 19, 8, 6, 18, 3, 23, 21, 12]
+Vector final: [5, 7, 9, 15, 10, 11, 20, 22, 24, 25, 4, 14, 0, 1, 16, 17, 2, 13, 8, 19, 6, 18, 3, 21, 23, 12]
+Empezamos con valor: 5747453
+Mejor valor: 5626164
+Tiempo de corrida: 18.8252489567
+Tiempo de ejecucion: 18.8252580166
+Iteraciones: 500
+
+Corrida # 2
+Vector inicial: [4, 5, 6, 7, 12, 15, 16, 23, 19, 10, 11, 2, 8, 24, 13, 1, 21, 18, 3, 22, 25, 20, 0, 14, 17, 9]
+Vector final: [1, 10, 7, 21, 2, 23, 24, 9, 14, 25, 3, 17, 6, 11, 5, 16, 0, 18, 4, 19, 22, 15, 12, 13, 8, 20]
+Empezamos con valor: 5976735
+Mejor valor: 5589627
+Tiempo de corrida: 19.0949101448
+Tiempo de ejecucion: 19.09491992
+Iteraciones: 501
+
+Corrida # 3
+Vector inicial: [1, 9, 10, 11, 12, 18, 20, 24, 15, 8, 4, 13, 21, 22, 5, 25, 16, 6, 2, 3, 7, 0, 17, 23, 19, 14]
+Vector final: [0, 12, 1, 24, 5, 15, 20, 17, 16, 8, 14, 6, 21, 4, 9, 22, 3, 11, 13, 2, 18, 19, 23, 25, 10, 7]
+Empezamos con valor: 5930565
+Mejor valor: 5668708
+Tiempo de corrida: 19.167222023
+Tiempo de ejecucion: 19.1672310829
+Iteraciones: 501
+
+Corrida # 4
+Vector inicial: [0, 1, 5, 6, 9, 10, 11, 15, 18, 21, 22, 23, 24, 25, 19, 17, 2, 12, 4, 13, 16, 20, 8, 7, 14, 3]
+Vector final: [1, 3, 6, 18, 17, 21, 15, 14, 24, 20, 25, 11, 8, 12, 10, 19, 13, 4, 0, 7, 5, 16, 23, 22, 2, 9]
+Empezamos con valor: 5924978
+Mejor valor: 5509165
+Tiempo de corrida: 29.3197700977
+Tiempo de ejecucion: 29.319778204
+Iteraciones: 772
+
+Corrida # 5
+Vector inicial: [0, 2, 6, 7, 9, 11, 14, 15, 19, 24, 18, 5, 17, 21, 10, 12, 25, 1, 8, 3, 22, 23, 4, 13, 16, 20]
+Vector final: [16, 10, 0, 6, 17, 19, 20, 23, 14, 25, 11, 13, 8, 5, 22, 9, 15, 18, 4, 7, 1, 24, 12, 21, 2, 3]
+Empezamos con valor: 5993304
+Mejor valor: 5600670
+Tiempo de corrida: 21.5501539707
+Tiempo de ejecucion: 21.5501627922
+Iteraciones: 571
+
+Corrida # 6
+Vector inicial: [1, 3, 7, 17, 20, 21, 23, 24, 25, 8, 9, 2, 6, 14, 13, 22, 10, 12, 16, 15, 19, 4, 18, 11, 5, 0]
+Vector final: [9, 23, 6, 10, 4, 11, 22, 12, 15, 1, 13, 20, 19, 5, 21, 7, 18, 17, 8, 25, 14, 2, 0, 24, 16, 3]
+Empezamos con valor: 6258197
+Mejor valor: 5607795
+Tiempo de corrida: 19.682792902
+Tiempo de ejecucion: 19.6828029156
+Iteraciones: 501
+
+Corrida # 7
+Vector inicial: [4, 5, 8, 12, 15, 18, 20, 21, 25, 13, 9, 17, 22, 23, 10, 7, 6, 11, 3, 16, 19, 0, 24, 1, 2, 14]
+Vector final: [21, 22, 8, 20, 25, 5, 12, 15, 18, 13, 9, 17, 23, 4, 14, 7, 6, 19, 3, 16, 11, 0, 24, 2, 1, 10]
+Empezamos con valor: 5888261
+Mejor valor: 5612988
+Tiempo de corrida: 19.2134549618
+Tiempo de ejecucion: 19.213463068
+Iteraciones: 502
+
+Corrida # 8
+Vector inicial: [0, 4, 5, 8, 13, 14, 17, 22, 25, 3, 16, 11, 1, 23, 6, 15, 2, 9, 20, 7, 18, 19, 24, 10, 21, 12]
+Vector final: [11, 3, 7, 10, 12, 22, 23, 14, 20, 25, 18, 19, 6, 1, 5, 24, 2, 4, 0, 16, 21, 15, 13, 17, 9, 8]
+Empezamos con valor: 6153979
+Mejor valor: 5576418
+Tiempo de corrida: 19.2612438202
+Tiempo de ejecucion: 19.2612528801
+Iteraciones: 501
+
+Corrida # 9
+Vector inicial: [9, 10, 12, 17, 18, 19, 22, 23, 1, 25, 7, 14, 0, 4, 6, 21, 24, 3, 13, 5, 8, 2, 11, 15, 16, 20]
+Vector final: [21, 18, 9, 13, 7, 3, 23, 14, 16, 0, 8, 11, 19, 22, 5, 24, 20, 4, 6, 15, 25, 17, 12, 1, 2, 10]
+Empezamos con valor: 5930857
+Mejor valor: 5554738
+Tiempo de corrida: 19.5518050194
+Tiempo de ejecucion: 19.5518140793
+Iteraciones: 502
+
+Corrida # 10
+Vector inicial: [3, 4, 10, 12, 17, 19, 25, 15, 18, 11, 23, 16, 13, 21, 24, 2, 22, 9, 6, 14, 7, 1, 20, 5, 0, 8]
+Vector final: [12, 7, 6, 24, 11, 1, 16, 14, 25, 20, 19, 18, 3, 17, 9, 15, 8, 4, 10, 23, 5, 21, 22, 13, 2, 0]
+Empezamos con valor: 6025311
+Mejor valor: 5506912
+Tiempo de corrida: 19.2278020382
+Tiempo de ejecucion: 19.2278120518
+Iteraciones: 501
+
+Corrida # 11
+Vector inicial: [1, 2, 4, 5, 7, 14, 15, 19, 22, 23, 24, 17, 13, 6, 10, 11, 9, 20, 3, 18, 0, 8, 16, 12, 21, 25]
+Vector final: [0, 1, 2, 9, 5, 11, 13, 14, 16, 17, 4, 19, 6, 18, 15, 24, 25, 8, 20, 22, 3, 12, 10, 21, 23, 7]
+Empezamos con valor: 6142164
+Mejor valor: 5595527
+Tiempo de corrida: 28.1440839767
+Tiempo de ejecucion: 28.144092083
+Iteraciones: 732
+
+Corrida # 12
+Vector inicial: [4, 8, 9, 11, 12, 13, 15, 16, 18, 21, 7, 2, 23, 10, 3, 25, 5, 24, 17, 19, 22, 6, 0, 1, 20, 14]
+Vector final: [6, 5, 3, 7, 8, 16, 9, 11, 13, 17, 0, 4, 19, 25, 10, 21, 22, 12, 2, 14, 23, 1, 24, 15, 20, 18]
+Empezamos con valor: 6135587
+Mejor valor: 5580400
+Tiempo de corrida: 21.1137371063
+Tiempo de ejecucion: 21.1137449741
+Iteraciones: 542
+
+Corrida # 13
+Vector inicial: [0, 1, 6, 7, 9, 21, 22, 24, 5, 25, 4, 17, 16, 15, 11, 18, 2, 8, 14, 10, 23, 12, 13, 3, 19, 20]
+Vector final: [20, 1, 6, 9, 7, 21, 22, 24, 25, 4, 18, 5, 11, 17, 16, 15, 2, 8, 14, 23, 10, 12, 13, 3, 19, 0]
+Empezamos con valor: 5814869
+Mejor valor: 5640411
+Tiempo de corrida: 19.0361011028
+Tiempo de ejecucion: 19.0361101627
+Iteraciones: 500
+
+Corrida # 14
+Vector inicial: [0, 6, 7, 8, 11, 16, 17, 21, 24, 23, 20, 10, 5, 15, 12, 13, 3, 18, 4, 9, 14, 22, 25, 1, 2, 19]
+Vector final: [2, 23, 1, 5, 3, 11, 22, 25, 10, 13, 4, 17, 12, 20, 14, 21, 7, 0, 8, 15, 16, 19, 6, 24, 18, 9]
+Empezamos con valor: 5814216
+Mejor valor: 5569942
+Tiempo de corrida: 19.2363119125
+Tiempo de ejecucion: 19.2363209724
+Iteraciones: 501
+
+Corrida # 15
+Vector inicial: [3, 6, 8, 12, 13, 14, 16, 19, 23, 25, 17, 11, 0, 18, 21, 4, 7, 20, 2, 5, 24, 9, 10, 15, 1, 22]
+Vector final: [22, 6, 8, 12, 13, 14, 16, 19, 23, 25, 17, 11, 0, 18, 21, 2, 4, 7, 20, 9, 5, 24, 10, 1, 15, 3]
+Empezamos con valor: 5690487
+Mejor valor: 5613435
+Tiempo de corrida: 19.1148869991
+Tiempo de ejecucion: 19.1148948669
+Iteraciones: 500
+
+Corrida # 16
+Vector inicial: [2, 3, 6, 10, 14, 20, 21, 24, 25, 4, 8, 17, 7, 0, 11, 1, 13, 18, 15, 19, 9, 22, 5, 23, 12, 16]
+Vector final: [2, 3, 6, 14, 10, 20, 21, 24, 25, 8, 4, 17, 7, 0, 1, 11, 19, 13, 18, 15, 9, 22, 5, 23, 12, 16]
+Empezamos con valor: 5693623
+Mejor valor: 5529101
+Tiempo de corrida: 19.0521991253
+Tiempo de ejecucion: 19.0522069931
+Iteraciones: 500
+
+Corrida # 17
+Vector inicial: [1, 5, 8, 9, 10, 11, 16, 18, 19, 21, 24, 25, 20, 0, 4, 17, 12, 7, 6, 22, 14, 15, 23, 3, 13, 2]
+Vector final: [2, 1, 8, 9, 10, 11, 16, 18, 21, 24, 19, 25, 20, 4, 0, 7, 12, 17, 6, 22, 15, 23, 14, 3, 13, 5]
+Empezamos con valor: 5714773
+Mejor valor: 5602552
+Tiempo de corrida: 18.9608550072
+Tiempo de ejecucion: 18.9608631134
+Iteraciones: 500
+
+Corrida # 18
+Vector inicial: [0, 11, 13, 14, 17, 19, 21, 22, 24, 3, 4, 2, 12, 9, 15, 18, 5, 20, 8, 25, 7, 1, 23, 10, 6, 16]
+Vector final: [0, 9, 2, 10, 4, 22, 16, 7, 24, 18, 19, 17, 14, 20, 21, 5, 1, 3, 8, 25, 11, 12, 23, 15, 6, 13]
+Empezamos con valor: 5847188
+Mejor valor: 5676222
+Tiempo de corrida: 19.2854471207
+Tiempo de ejecucion: 19.2854549885
+Iteraciones: 501
+
+Corrida # 19
+Vector inicial: [1, 4, 5, 6, 8, 9, 13, 14, 19, 22, 24, 25, 11, 2, 18, 0, 10, 17, 12, 16, 21, 15, 23, 20, 7, 3]
+Vector final: [11, 8, 6, 5, 1, 9, 14, 24, 19, 3, 13, 22, 10, 18, 25, 0, 4, 17, 12, 16, 20, 7, 23, 21, 15, 2]
+Empezamos con valor: 5877048
+Mejor valor: 5563578
+Tiempo de corrida: 19.1346600056
+Tiempo de ejecucion: 19.1346690655
+Iteraciones: 502
+
+Corrida # 20
+Vector inicial: [1, 5, 6, 14, 15, 18, 23, 11, 2, 19, 21, 7, 25, 10, 24, 8, 9, 0, 17, 4, 20, 12, 3, 13, 16, 22]
+Vector final: [23, 18, 6, 5, 7, 15, 9, 1, 14, 2, 19, 25, 21, 11, 22, 24, 8, 0, 4, 17, 10, 12, 3, 13, 16, 20]
+Empezamos con valor: 6067214
+Mejor valor: 5564162
+Tiempo de corrida: 19.3255460262
+Tiempo de ejecucion: 19.3255529404
+Iteraciones: 502
+
+Corrida # 21
+Vector inicial: [7, 8, 12, 13, 19, 20, 25, 0, 14, 9, 1, 18, 11, 22, 6, 10, 5, 2, 23, 21, 4, 16, 24, 3, 17, 15]
+Vector final: [12, 2, 5, 21, 13, 23, 9, 4, 8, 0, 18, 19, 10, 25, 1, 16, 7, 14, 15, 22, 3, 6, 17, 11, 20, 24]
+Empezamos con valor: 6263934
+Mejor valor: 5606237
+Tiempo de corrida: 19.5329508781
+Tiempo de ejecucion: 19.5329589844
+Iteraciones: 502
+
+Corrida # 22
+Vector inicial: [2, 5, 6, 7, 8, 9, 17, 20, 10, 3, 23, 19, 1, 22, 12, 15, 4, 14, 25, 18, 0, 11, 21, 24, 16, 13]
+Vector final: [10, 20, 0, 23, 2, 21, 15, 11, 12, 17, 16, 8, 4, 1, 25, 22, 5, 18, 19, 9, 24, 14, 3, 6, 13, 7]
+Empezamos con valor: 6011175
+Mejor valor: 5526987
+Tiempo de corrida: 19.3908879757
+Tiempo de ejecucion: 19.3908960819
+Iteraciones: 502
+
+Corrida # 23
+Vector inicial: [0, 4, 8, 12, 15, 22, 23, 24, 20, 10, 1, 11, 13, 9, 14, 17, 6, 3, 21, 25, 5, 19, 18, 16, 7, 2]
+Vector final: [9, 8, 4, 15, 0, 12, 22, 11, 19, 13, 7, 20, 24, 2, 16, 5, 6, 18, 3, 1, 21, 14, 23, 25, 17, 10]
+Empezamos con valor: 6010960
+Mejor valor: 5618170
+Tiempo de corrida: 20.050301075
+Tiempo de ejecucion: 20.0503089428
+Iteraciones: 502
+
+Corrida # 24
+Vector inicial: [0, 3, 4, 9, 11, 12, 14, 15, 16, 5, 24, 6, 7, 22, 10, 19, 8, 20, 18, 23, 21, 17, 2, 1, 13, 25]
+Vector final: [3, 5, 15, 19, 8, 13, 23, 12, 25, 17, 1, 20, 4, 2, 16, 7, 22, 6, 18, 21, 14, 0, 10, 24, 11, 9]
+Empezamos con valor: 6034991
+Mejor valor: 5584718
+Tiempo de corrida: 19.6661109924
+Tiempo de ejecucion: 19.6661188602
+Iteraciones: 501
+
+Corrida # 25
+Vector inicial: [0, 5, 8, 12, 13, 15, 16, 17, 19, 2, 9, 3, 22, 1, 10, 23, 24, 21, 7, 6, 11, 4, 14, 18, 25, 20]
+Vector final: [0, 1, 2, 23, 5, 15, 10, 20, 18, 7, 4, 3, 9, 6, 24, 21, 25, 8, 17, 14, 22, 19, 12, 16, 13, 11]
+Empezamos con valor: 6266131
+Mejor valor: 5638857
+Tiempo de corrida: 19.6579511166
+Tiempo de ejecucion: 19.6579592228
+Iteraciones: 501
+
+Corrida # 26
+Vector inicial: [0, 2, 4, 6, 9, 13, 15, 17, 18, 19, 22, 24, 25, 8, 16, 5, 1, 7, 23, 21, 20, 3, 10, 12, 14, 11]
+Vector final: [13, 3, 1, 22, 17, 15, 20, 25, 2, 6, 11, 19, 7, 18, 10, 21, 4, 0, 8, 5, 16, 14, 23, 12, 24, 9]
+Empezamos con valor: 5892832
+Mejor valor: 5559679
+Tiempo de corrida: 20.8007919788
+Tiempo de ejecucion: 20.8008010387
+Iteraciones: 531
+
+Corrida # 27
+Vector inicial: [1, 3, 6, 10, 16, 18, 19, 21, 2, 20, 22, 13, 7, 0, 9, 23, 11, 12, 17, 8, 4, 14, 24, 25, 5, 15]
+Vector final: [25, 22, 7, 12, 11, 24, 16, 23, 6, 8, 4, 17, 20, 3, 10, 14, 2, 0, 13, 9, 18, 5, 1, 21, 19, 15]
+Empezamos con valor: 6004951
+Mejor valor: 5583261
+Tiempo de corrida: 19.5539062023
+Tiempo de ejecucion: 19.5539159775
+Iteraciones: 503
+
+Corrida # 28
+Vector inicial: [0, 5, 6, 11, 12, 17, 19, 20, 24, 25, 10, 16, 2, 3, 22, 9, 4, 18, 15, 21, 7, 1, 13, 14, 8, 23]
+Vector final: [2, 20, 16, 10, 19, 11, 24, 6, 13, 18, 5, 0, 4, 8, 23, 21, 17, 7, 1, 3, 14, 15, 22, 9, 25, 12]
+Empezamos con valor: 6007674
+Mejor valor: 5540163
+Tiempo de corrida: 23.0554380417
+Tiempo de ejecucion: 23.0554471016
+Iteraciones: 591
+
+Corrida # 29
+Vector inicial: [0, 3, 5, 8, 10, 11, 12, 13, 16, 17, 20, 21, 22, 15, 6, 7, 9, 4, 19, 18, 14, 2, 25, 24, 23, 1]
+Vector final: [22, 7, 16, 15, 10, 23, 12, 6, 11, 17, 0, 13, 4, 19, 1, 2, 18, 8, 20, 5, 25, 14, 24, 9, 21, 3]
+Empezamos con valor: 5824129
+Mejor valor: 5514125
+Tiempo de corrida: 31.7948510647
+Tiempo de ejecucion: 31.7948601246
+Iteraciones: 812
+
+Corrida # 30
+Vector inicial: [0, 1, 5, 6, 8, 12, 13, 14, 19, 20, 25, 23, 18, 15, 21, 2, 11, 22, 17, 3, 4, 9, 24, 7, 10, 16]
+Vector final: [1, 2, 5, 9, 11, 6, 16, 15, 22, 3, 10, 19, 20, 13, 12, 14, 0, 4, 18, 23, 24, 8, 17, 21, 25, 7]
+Empezamos con valor: 5887325
+Mejor valor: 5556336
+Tiempo de corrida: 21.2067279816
+Tiempo de ejecucion: 21.2067351341
+Iteraciones: 542
+
+Corrida # 31
+Vector inicial: [5, 6, 7, 10, 13, 15, 17, 18, 20, 21, 23, 8, 1, 12, 9, 19, 24, 25, 16, 0, 2, 4, 22, 11, 14, 3]
+Vector final: [2, 15, 25, 7, 1, 3, 5, 16, 18, 11, 4, 13, 17, 20, 10, 14, 6, 8, 0, 24, 19, 12, 21, 9, 22, 23]
+Empezamos con valor: 6094367
+Mejor valor: 5570657
+Tiempo de corrida: 19.6238729954
+Tiempo de ejecucion: 19.6238811016
+Iteraciones: 502
+
+Corrida # 32
+Vector inicial: [0, 5, 6, 9, 15, 17, 21, 22, 24, 25, 2, 18, 19, 12, 14, 8, 4, 16, 7, 11, 13, 20, 1, 3, 23, 10]
+Vector final: [10, 5, 9, 6, 17, 15, 22, 21, 24, 25, 18, 2, 19, 12, 16, 7, 14, 8, 4, 11, 13, 20, 1, 23, 3, 0]
+Empezamos con valor: 5884513
+Mejor valor: 5573993
+Tiempo de corrida: 19.4620940685
+Tiempo de ejecucion: 19.4621031284
+Iteraciones: 500
+
+Corrida # 33
+Vector inicial: [1, 5, 7, 8, 9, 11, 20, 24, 14, 4, 16, 3, 21, 13, 25, 23, 18, 6, 0, 15, 10, 19, 17, 12, 2, 22]
+Vector final: [1, 2, 9, 11, 10, 16, 24, 15, 7, 20, 19, 4, 14, 17, 12, 22, 0, 13, 18, 25, 5, 6, 3, 21, 8, 23]
+Empezamos con valor: 5792126
+Mejor valor: 5518465
+Tiempo de corrida: 19.4783461094
+Tiempo de ejecucion: 19.4783551693
+Iteraciones: 501
+
+Corrida # 34
+Vector inicial: [1, 2, 5, 10, 11, 17, 18, 23, 25, 22, 0, 14, 20, 9, 21, 24, 13, 3, 12, 8, 6, 7, 19, 4, 15, 16]
+Vector final: [0, 3, 8, 9, 4, 25, 15, 5, 12, 18, 14, 6, 20, 17, 21, 22, 2, 1, 19, 16, 7, 10, 23, 24, 13, 11]
+Empezamos con valor: 5994763
+Mejor valor: 5651469
+Tiempo de corrida: 19.7198531628
+Tiempo de ejecucion: 19.7198622227
+Iteraciones: 501
+
+Corrida # 35
+Vector inicial: [0, 2, 3, 7, 10, 13, 15, 20, 24, 16, 19, 22, 18, 5, 21, 12, 1, 11, 4, 14, 9, 23, 8, 17, 6, 25]
+Vector final: [10, 11, 12, 17, 18, 22, 21, 20, 14, 3, 5, 25, 6, 2, 13, 23, 0, 8, 4, 1, 9, 15, 16, 24, 19, 7]
+Empezamos con valor: 5855909
+Mejor valor: 5551372
+Tiempo de corrida: 19.3614058495
+Tiempo de ejecucion: 19.361413002
+Iteraciones: 501
+
+Corrida # 36
+Vector inicial: [1, 2, 6, 7, 9, 11, 16, 17, 20, 25, 19, 24, 22, 18, 23, 13, 21, 10, 0, 5, 3, 4, 14, 15, 12, 8]
+Vector final: [1, 7, 8, 9, 11, 24, 16, 14, 21, 25, 18, 20, 17, 3, 10, 5, 12, 4, 13, 15, 6, 23, 22, 19, 0, 2]
+Empezamos con valor: 5950195
+Mejor valor: 5622663
+Tiempo de corrida: 19.3148729801
+Tiempo de ejecucion: 19.3148810863
+Iteraciones: 501
+
+Corrida # 37
+Vector inicial: [7, 8, 9, 11, 13, 14, 16, 21, 23, 4, 25, 12, 3, 24, 15, 6, 20, 2, 5, 10, 18, 1, 19, 17, 22, 0]
+Vector final: [7, 4, 0, 16, 24, 9, 10, 1, 19, 17, 18, 5, 8, 22, 23, 2, 13, 20, 3, 25, 15, 14, 21, 6, 11, 12]
+Empezamos con valor: 5829854
+Mejor valor: 5637864
+Tiempo de corrida: 21.0196740627
+Tiempo de ejecucion: 21.0196838379
+Iteraciones: 551
+
+Corrida # 38
+Vector inicial: [3, 4, 7, 9, 14, 15, 16, 17, 19, 22, 1, 6, 24, 13, 18, 20, 5, 21, 10, 23, 8, 11, 12, 2, 25, 0]
+Vector final: [3, 22, 9, 1, 18, 21, 24, 20, 23, 0, 19, 17, 7, 13, 11, 15, 6, 4, 2, 10, 12, 14, 16, 5, 8, 25]
+Empezamos con valor: 6110562
+Mejor valor: 5584637
+Tiempo de corrida: 19.4918248653
+Tiempo de ejecucion: 19.4918329716
+Iteraciones: 502
+
+Corrida # 39
+Vector inicial: [2, 3, 5, 12, 13, 21, 23, 25, 19, 0, 11, 4, 8, 24, 16, 18, 7, 14, 9, 17, 6, 22, 15, 1, 20, 10]
+Vector final: [2, 3, 5, 12, 21, 13, 23, 19, 25, 0, 4, 11, 8, 24, 16, 7, 18, 14, 17, 9, 22, 15, 6, 20, 1, 10]
+Empezamos con valor: 5886643
+Mejor valor: 5606821
+Tiempo de corrida: 19.1062099934
+Tiempo de ejecucion: 19.1062190533
+Iteraciones: 500
+
+Corrida # 40
+Vector inicial: [5, 6, 17, 19, 20, 21, 22, 15, 24, 8, 16, 14, 4, 9, 23, 2, 3, 13, 18, 11, 25, 1, 7, 10, 12, 0]
+Vector final: [0, 1, 4, 14, 10, 21, 9, 5, 3, 17, 8, 19, 23, 20, 16, 11, 6, 13, 18, 25, 15, 2, 24, 22, 12, 7]
+Empezamos con valor: 5808737
+Mejor valor: 5599201
+Tiempo de corrida: 19.8481338024
+Tiempo de ejecucion: 19.8481450081
+Iteraciones: 521
+
+Corrida # 41
+Vector inicial: [0, 2, 4, 8, 11, 21, 24, 25, 7, 20, 6, 16, 12, 3, 13, 23, 19, 15, 10, 9, 5, 18, 14, 17, 1, 22]
+Vector final: [5, 8, 2, 14, 4, 11, 10, 1, 25, 13, 16, 20, 6, 7, 24, 21, 3, 19, 17, 22, 9, 15, 23, 0, 18, 12]
+Empezamos con valor: 6204625
+Mejor valor: 5626559
+Tiempo de corrida: 19.6480150223
+Tiempo de ejecucion: 19.6480228901
+Iteraciones: 501
+
+Corrida # 42
+Vector inicial: [0, 6, 9, 11, 12, 13, 14, 15, 16, 24, 10, 18, 5, 19, 4, 17, 21, 3, 20, 7, 23, 22, 25, 1, 8, 2]
+Vector final: [11, 8, 25, 19, 0, 23, 10, 22, 20, 5, 17, 9, 13, 2, 15, 3, 12, 18, 4, 16, 14, 1, 24, 21, 7, 6]
+Empezamos con valor: 5890647
+Mejor valor: 5585205
+Tiempo de corrida: 22.0843501091
+Tiempo de ejecucion: 22.0843589306
+Iteraciones: 581
+
+Corrida # 43
+Vector inicial: [2, 3, 5, 8, 10, 13, 15, 16, 18, 23, 22, 24, 25, 4, 7, 17, 19, 11, 9, 14, 21, 20, 1, 12, 6, 0]
+Vector final: [0, 3, 10, 5, 8, 13, 16, 15, 18, 22, 24, 23, 4, 7, 25, 11, 17, 19, 9, 14, 21, 20, 1, 6, 12, 2]
+Empezamos con valor: 5929259
+Mejor valor: 5651789
+Tiempo de corrida: 18.9288039207
+Tiempo de ejecucion: 18.9288110733
+Iteraciones: 500
+
+Corrida # 44
+Vector inicial: [3, 6, 15, 19, 20, 23, 24, 21, 9, 17, 7, 2, 18, 11, 8, 10, 13, 25, 12, 16, 0, 22, 5, 14, 1, 4]
+Vector final: [5, 11, 14, 15, 18, 21, 12, 2, 23, 25, 13, 17, 6, 7, 16, 0, 20, 8, 4, 9, 22, 24, 1, 10, 3, 19]
+Empezamos con valor: 5889019
+Mejor valor: 5572900
+Tiempo de corrida: 32.0387978554
+Tiempo de ejecucion: 32.0388088226
+Iteraciones: 841
+
+Corrida # 45
+Vector inicial: [1, 5, 7, 14, 16, 21, 23, 24, 25, 2, 20, 6, 10, 4, 12, 0, 13, 11, 17, 8, 22, 3, 18, 19, 9, 15]
+Vector final: [1, 12, 10, 21, 19, 23, 24, 14, 8, 25, 15, 11, 7, 17, 5, 9, 18, 4, 20, 13, 22, 3, 2, 16, 0, 6]
+Empezamos con valor: 5808680
+Mejor valor: 5541815
+Tiempo de corrida: 31.5063550472
+Tiempo de ejecucion: 31.5063631535
+Iteraciones: 822
+
+Corrida # 46
+Vector inicial: [1, 6, 9, 10, 19, 20, 23, 15, 5, 16, 3, 24, 12, 18, 13, 2, 17, 14, 0, 7, 21, 8, 22, 4, 25, 11]
+Vector final: [6, 10, 8, 12, 7, 14, 24, 2, 15, 11, 19, 13, 3, 17, 1, 23, 4, 20, 18, 22, 5, 16, 25, 21, 9, 0]
+Empezamos con valor: 6167208
+Mejor valor: 5555170
+Tiempo de corrida: 20.6379170418
+Tiempo de ejecucion: 20.6379258633
+Iteraciones: 541
+
+Corrida # 47
+Vector inicial: [2, 3, 7, 8, 11, 13, 16, 19, 21, 22, 23, 24, 14, 5, 1, 18, 12, 10, 4, 20, 6, 0, 25, 15, 9, 17]
+Vector final: [3, 5, 18, 16, 23, 12, 11, 21, 25, 13, 7, 4, 8, 19, 1, 9, 6, 0, 10, 22, 15, 24, 20, 14, 2, 17]
+Empezamos con valor: 5896158
+Mejor valor: 5567731
+Tiempo de corrida: 18.9360148907
+Tiempo de ejecucion: 18.9360229969
+Iteraciones: 501
+
+Corrida # 48
+Vector inicial: [3, 4, 8, 9, 10, 17, 19, 20, 22, 23, 24, 6, 14, 2, 1, 16, 7, 18, 5, 21, 13, 11, 15, 0, 12, 25]
+Vector final: [8, 10, 22, 3, 1, 13, 23, 12, 2, 19, 0, 4, 20, 25, 9, 21, 11, 18, 15, 14, 16, 6, 7, 24, 5, 17]
+Empezamos con valor: 6128362
+Mejor valor: 5588389
+Tiempo de corrida: 19.0911400318
+Tiempo de ejecucion: 19.0911490917
+Iteraciones: 501
+
+Corrida # 49
+Vector inicial: [4, 5, 11, 12, 13, 14, 16, 19, 25, 21, 17, 20, 1, 3, 0, 23, 8, 24, 22, 10, 9, 2, 15, 7, 18, 6]
+Vector final: [1, 6, 11, 12, 13, 20, 16, 5, 14, 23, 19, 10, 17, 25, 21, 24, 0, 8, 4, 22, 15, 9, 2, 18, 7, 3]
+Empezamos con valor: 6031772
+Mejor valor: 5533557
+Tiempo de corrida: 19.2109000683
+Tiempo de ejecucion: 19.2109110355
+Iteraciones: 502
+
+Corrida # 50
+Vector inicial: [0, 3, 5, 12, 15, 20, 24, 22, 18, 4, 19, 13, 6, 7, 17, 23, 14, 9, 10, 2, 11, 16, 25, 1, 21, 8]
+Vector final: [8, 3, 12, 15, 5, 20, 24, 4, 22, 18, 19, 13, 17, 6, 7, 9, 23, 14, 2, 16, 10, 11, 25, 1, 21, 0]
+Empezamos con valor: 5735399
+Mejor valor: 5637234
+Tiempo de corrida: 18.9551360607
+Tiempo de ejecucion: 18.9551441669
+Iteraciones: 500
+
+Corrida # 51
+Vector inicial: [0, 1, 2, 20, 22, 24, 25, 4, 3, 13, 16, 18, 8, 15, 19, 9, 7, 10, 12, 11, 17, 14, 6, 21, 5, 23]
+Vector final: [23, 1, 20, 22, 2, 24, 25, 4, 16, 3, 13, 18, 8, 19, 9, 15, 7, 10, 17, 11, 12, 14, 6, 21, 5, 0]
+Empezamos con valor: 5892349
+Mejor valor: 5657582
+Tiempo de corrida: 19.0889060497
+Tiempo de ejecucion: 19.0889151096
+Iteraciones: 500
+
+Corrida # 52
+Vector inicial: [1, 3, 8, 10, 12, 14, 17, 19, 20, 21, 25, 7, 23, 6, 0, 4, 13, 24, 11, 2, 9, 22, 5, 15, 16, 18]
+Vector final: [9, 25, 21, 14, 8, 15, 7, 11, 3, 18, 20, 17, 13, 10, 16, 6, 12, 4, 19, 24, 2, 22, 0, 23, 5, 1]
+Empezamos con valor: 5916817
+Mejor valor: 5565561
+Tiempo de corrida: 22.9668059349
+Tiempo de ejecucion: 22.9668159485
+Iteraciones: 601
+
+Corrida # 53
+Vector inicial: [1, 2, 4, 7, 9, 10, 11, 12, 17, 18, 23, 3, 24, 6, 22, 15, 16, 20, 5, 14, 8, 21, 13, 25, 0, 19]
+Vector final: [1, 5, 24, 10, 11, 18, 25, 16, 15, 17, 19, 0, 4, 20, 14, 23, 21, 8, 6, 22, 2, 9, 3, 12, 7, 13]
+Empezamos con valor: 6159388
+Mejor valor: 5598024
+Tiempo de corrida: 18.9835760593
+Tiempo de ejecucion: 18.9835851192
+Iteraciones: 501
+
+Corrida # 54
+Vector inicial: [3, 5, 8, 9, 11, 14, 16, 18, 6, 15, 20, 13, 7, 2, 17, 0, 23, 12, 22, 21, 24, 1, 10, 25, 4, 19]
+Vector final: [1, 12, 15, 9, 21, 3, 23, 14, 25, 11, 8, 13, 4, 18, 22, 6, 19, 0, 17, 10, 5, 24, 7, 20, 16, 2]
+Empezamos con valor: 5743025
+Mejor valor: 5497302
+Tiempo de corrida: 24.4927608967
+Tiempo de ejecucion: 24.4927690029
+Iteraciones: 641
+
+Corrida # 55
+Vector inicial: [1, 3, 4, 8, 9, 14, 17, 19, 24, 22, 20, 6, 23, 7, 0, 2, 13, 12, 25, 18, 15, 16, 10, 5, 21, 11]
+Vector final: [11, 15, 12, 1, 17, 9, 6, 14, 19, 25, 18, 8, 13, 10, 5, 3, 2, 4, 20, 24, 7, 21, 16, 22, 23, 0]
+Empezamos con valor: 5831937
+Mejor valor: 5501992
+Tiempo de corrida: 35.8047919273
+Tiempo de ejecucion: 35.8048009872
+Iteraciones: 941
+
+Corrida # 56
+Vector inicial: [1, 2, 3, 5, 14, 16, 17, 21, 23, 25, 12, 22, 0, 20, 18, 19, 4, 13, 10, 6, 9, 7, 11, 8, 24, 15]
+Vector final: [1, 2, 15, 5, 3, 7, 6, 21, 24, 25, 19, 4, 20, 13, 11, 8, 14, 17, 0, 9, 23, 16, 18, 12, 22, 10]
+Empezamos con valor: 5863915
+Mejor valor: 5566140
+Tiempo de corrida: 28.8916208744
+Tiempo de ejecucion: 28.8916289806
+Iteraciones: 751
+
+Corrida # 57
+Vector inicial: [3, 7, 9, 10, 17, 20, 23, 24, 25, 22, 5, 16, 8, 12, 6, 19, 13, 2, 11, 0, 18, 4, 21, 15, 1, 14]
+Vector final: [1, 15, 12, 3, 19, 20, 9, 22, 16, 18, 0, 8, 7, 6, 10, 24, 17, 13, 4, 25, 2, 5, 21, 23, 11, 14]
+Empezamos con valor: 6025522
+Mejor valor: 5558791
+Tiempo de corrida: 37.6952519417
+Tiempo de ejecucion: 37.6952598095
+Iteraciones: 992
+
+Corrida # 58
+Vector inicial: [0, 1, 3, 4, 5, 10, 12, 14, 15, 18, 24, 6, 16, 2, 25, 7, 8, 19, 11, 21, 20, 9, 17, 23, 13, 22]
+Vector final: [3, 19, 4, 16, 8, 23, 12, 18, 7, 13, 20, 2, 0, 5, 24, 10, 17, 11, 6, 21, 15, 14, 9, 25, 22, 1]
+Empezamos con valor: 5944486
+Mejor valor: 5640163
+Tiempo de corrida: 19.2327339649
+Tiempo de ejecucion: 19.2327418327
+Iteraciones: 501
+
+Corrida # 59
+Vector inicial: [2, 5, 6, 9, 20, 21, 22, 8, 15, 3, 10, 24, 1, 14, 13, 7, 17, 11, 19, 23, 4, 18, 16, 25, 12, 0]
+Vector final: [23, 18, 15, 5, 10, 16, 24, 1, 14, 17, 4, 13, 19, 11, 22, 25, 0, 20, 8, 9, 12, 3, 21, 7, 2, 6]
+Empezamos con valor: 5915151
+Mejor valor: 5561339
+Tiempo de corrida: 19.1332850456
+Tiempo de ejecucion: 19.1332931519
+Iteraciones: 502
+
+Corrida # 60
+Vector inicial: [6, 7, 9, 11, 15, 16, 17, 24, 8, 13, 18, 0, 25, 5, 23, 21, 1, 4, 3, 20, 2, 12, 22, 10, 19, 14]
+Vector final: [1, 8, 10, 9, 11, 20, 22, 16, 19, 3, 25, 23, 6, 17, 12, 14, 0, 4, 13, 15, 5, 7, 18, 21, 2, 24]
+Empezamos con valor: 5967005
+Mejor valor: 5590986
+Tiempo de corrida: 30.8760609627
+Tiempo de ejecucion: 30.8760690689
+Iteraciones: 811
+
+Corrida # 61
+Vector inicial: [0, 3, 6, 7, 9, 10, 11, 19, 22, 23, 20, 15, 24, 16, 14, 21, 1, 17, 25, 5, 18, 13, 8, 4, 12, 2]
+Vector final: [25, 5, 6, 21, 12, 15, 16, 22, 14, 20, 10, 8, 19, 13, 9, 23, 0, 17, 4, 18, 7, 24, 1, 11, 2, 3]
+Empezamos con valor: 6180618
+Mejor valor: 5548300
+Tiempo de corrida: 27.4650149345
+Tiempo de ejecucion: 27.4650230408
+Iteraciones: 712
+
+Corrida # 62
+Vector inicial: [1, 2, 7, 8, 10, 12, 13, 17, 18, 0, 4, 24, 5, 19, 11, 21, 3, 20, 22, 23, 16, 15, 14, 9, 6, 25]
+Vector final: [2, 9, 6, 21, 15, 16, 14, 10, 5, 18, 4, 17, 22, 7, 23, 24, 8, 13, 20, 12, 11, 3, 19, 1, 0, 25]
+Empezamos con valor: 5795955
+Mejor valor: 5566388
+Tiempo de corrida: 19.5034718513
+Tiempo de ejecucion: 19.5034811497
+Iteraciones: 501
+
+Corrida # 63
+Vector inicial: [3, 8, 9, 12, 13, 19, 21, 14, 5, 7, 16, 18, 15, 4, 22, 11, 6, 17, 25, 20, 1, 0, 2, 23, 24, 10]
+Vector final: [2, 24, 10, 14, 1, 22, 12, 9, 11, 17, 4, 19, 25, 0, 15, 21, 20, 8, 13, 16, 3, 18, 6, 5, 7, 23]
+Empezamos con valor: 5889458
+Mejor valor: 5542146
+Tiempo de corrida: 19.2136559486
+Tiempo de ejecucion: 19.2136659622
+Iteraciones: 502
+
+Corrida # 64
+Vector inicial: [1, 3, 5, 8, 9, 10, 11, 12, 13, 16, 19, 23, 25, 24, 0, 21, 15, 6, 22, 17, 20, 7, 18, 2, 4, 14]
+Vector final: [11, 10, 5, 16, 13, 14, 19, 23, 20, 0, 17, 6, 22, 18, 25, 9, 15, 4, 8, 21, 3, 24, 12, 7, 2, 1]
+Empezamos con valor: 6076388
+Mejor valor: 5549951
+Tiempo de corrida: 20.4874768257
+Tiempo de ejecucion: 20.4874849319
+Iteraciones: 534
+
+Corrida # 65
+Vector inicial: [0, 1, 7, 9, 11, 13, 14, 18, 19, 23, 17, 21, 4, 6, 2, 12, 8, 20, 25, 22, 3, 24, 15, 10, 16, 5]
+Vector final: [0, 2, 12, 11, 3, 24, 16, 21, 22, 10, 4, 20, 19, 17, 6, 1, 5, 13, 18, 14, 15, 9, 23, 25, 8, 7]
+Empezamos con valor: 5761449
+Mejor valor: 5550454
+Tiempo de corrida: 23.447589159
+Tiempo de ejecucion: 23.4475960732
+Iteraciones: 611
+
+Corrida # 66
+Vector inicial: [2, 3, 4, 7, 9, 11, 13, 15, 18, 19, 20, 1, 22, 17, 10, 25, 24, 23, 16, 8, 6, 0, 21, 5, 14, 12]
+Vector final: [2, 10, 5, 9, 21, 6, 12, 13, 18, 17, 4, 23, 20, 14, 15, 7, 25, 11, 3, 16, 1, 8, 0, 19, 24, 22]
+Empezamos con valor: 5976685
+Mejor valor: 5618761
+Tiempo de corrida: 19.5182878971
+Tiempo de ejecucion: 19.5182960033
+Iteraciones: 501
+
+Corrida # 67
+Vector inicial: [1, 2, 3, 8, 9, 13, 18, 25, 17, 4, 12, 6, 21, 11, 24, 16, 22, 23, 0, 15, 14, 19, 20, 5, 10, 7]
+Vector final: [1, 2, 3, 9, 8, 13, 18, 17, 25, 12, 6, 4, 21, 11, 24, 16, 23, 22, 0, 15, 14, 19, 20, 5, 10, 7]
+Empezamos con valor: 5851694
+Mejor valor: 5662981
+Tiempo de corrida: 19.0827898979
+Tiempo de ejecucion: 19.0827980042
+Iteraciones: 500
+
+Corrida # 68
+Vector inicial: [0, 1, 2, 3, 7, 12, 16, 18, 20, 25, 14, 11, 4, 6, 15, 10, 5, 19, 24, 23, 21, 22, 17, 8, 13, 9]
+Vector final: [16, 3, 7, 20, 9, 2, 12, 18, 25, 11, 4, 10, 6, 0, 24, 15, 1, 17, 19, 23, 5, 21, 14, 8, 13, 22]
+Empezamos con valor: 5912088
+Mejor valor: 5570325
+Tiempo de corrida: 19.6161499023
+Tiempo de ejecucion: 19.6161580086
+Iteraciones: 503
+
+Corrida # 69
+Vector inicial: [0, 1, 4, 6, 10, 12, 13, 16, 20, 21, 22, 3, 18, 25, 24, 7, 11, 5, 9, 15, 14, 8, 17, 23, 19, 2]
+Vector final: [1, 0, 2, 3, 11, 19, 20, 24, 6, 15, 7, 8, 18, 13, 21, 23, 22, 4, 17, 25, 16, 5, 12, 10, 9, 14]
+Empezamos con valor: 6123920
+Mejor valor: 5578022
+Tiempo de corrida: 28.8136479855
+Tiempo de ejecucion: 28.8136560917
+Iteraciones: 742
+
+Corrida # 70
+Vector inicial: [3, 5, 9, 10, 13, 14, 16, 21, 25, 0, 20, 7, 22, 18, 19, 1, 23, 2, 6, 24, 15, 12, 17, 11, 4, 8]
+Vector final: [0, 3, 2, 1, 4, 11, 21, 15, 22, 17, 8, 10, 20, 24, 16, 12, 7, 18, 19, 25, 6, 9, 23, 14, 13, 5]
+Empezamos con valor: 5760626
+Mejor valor: 5615758
+Tiempo de corrida: 22.2347929478
+Tiempo de ejecucion: 22.2348001003
+Iteraciones: 581
+
+Corrida # 71
+Vector inicial: [0, 1, 8, 9, 16, 17, 18, 20, 13, 2, 12, 14, 21, 7, 22, 15, 6, 4, 23, 3, 11, 19, 25, 24, 5, 10]
+Vector final: [7, 9, 16, 8, 17, 1, 21, 20, 2, 12, 18, 13, 14, 0, 22, 10, 6, 4, 19, 25, 5, 11, 23, 24, 3, 15]
+Empezamos con valor: 5883121
+Mejor valor: 5529914
+Tiempo de corrida: 19.1024780273
+Tiempo de ejecucion: 19.1024858952
+Iteraciones: 502
+
+Corrida # 72
+Vector inicial: [0, 7, 13, 14, 15, 18, 11, 4, 21, 6, 1, 19, 17, 25, 2, 5, 3, 23, 22, 10, 8, 20, 24, 9, 12, 16]
+Vector final: [16, 7, 13, 15, 18, 14, 4, 11, 21, 1, 19, 6, 17, 3, 5, 23, 25, 2, 8, 22, 10, 24, 20, 12, 9, 0]
+Empezamos con valor: 5909787
+Mejor valor: 5618512
+Tiempo de corrida: 18.6792290211
+Tiempo de ejecucion: 18.6792361736
+Iteraciones: 500
+
+Corrida # 73
+Vector inicial: [2, 3, 6, 10, 13, 15, 18, 21, 24, 9, 23, 25, 19, 16, 22, 4, 14, 5, 11, 8, 0, 7, 1, 12, 17, 20]
+Vector final: [0, 7, 8, 21, 13, 15, 1, 22, 23, 20, 14, 6, 10, 18, 24, 2, 11, 17, 4, 9, 3, 16, 5, 25, 12, 19]
+Empezamos con valor: 6013810
+Mejor valor: 5623569
+Tiempo de corrida: 18.8721940517
+Tiempo de ejecucion: 18.8722019196
+Iteraciones: 501
+
+Corrida # 74
+Vector inicial: [0, 1, 2, 4, 5, 6, 8, 13, 17, 20, 22, 7, 15, 24, 12, 21, 19, 25, 9, 18, 23, 14, 10, 3, 16, 11]
+Vector final: [5, 0, 4, 2, 15, 6, 17, 8, 7, 13, 20, 22, 24, 11, 25, 21, 19, 1, 18, 10, 23, 14, 9, 3, 16, 12]
+Empezamos con valor: 5912246
+Mejor valor: 5652788
+Tiempo de corrida: 19.4010341167
+Tiempo de ejecucion: 19.4010419846
+Iteraciones: 502
+
+Corrida # 75
+Vector inicial: [0, 4, 5, 8, 13, 14, 21, 23, 24, 20, 12, 9, 7, 22, 16, 3, 2, 25, 17, 15, 18, 19, 11, 6, 1, 10]
+Vector final: [1, 12, 8, 23, 19, 15, 22, 20, 25, 10, 2, 6, 24, 17, 9, 3, 18, 4, 0, 16, 11, 14, 21, 13, 7, 5]
+Empezamos con valor: 6183755
+Mejor valor: 5649694
+Tiempo de corrida: 21.7345900536
+Tiempo de ejecucion: 21.734598875
+Iteraciones: 572
+
+Corrida # 76
+Vector inicial: [2, 4, 7, 9, 12, 15, 16, 19, 21, 13, 0, 20, 3, 17, 11, 6, 10, 5, 22, 23, 1, 8, 18, 24, 25, 14]
+Vector final: [0, 15, 2, 16, 3, 21, 10, 13, 18, 7, 8, 1, 20, 4, 23, 22, 6, 17, 12, 14, 19, 9, 24, 25, 11, 5]
+Empezamos con valor: 5980237
+Mejor valor: 5523339
+Tiempo de corrida: 19.4157109261
+Tiempo de ejecucion: 19.415719986
+Iteraciones: 501
+
+Corrida # 77
+Vector inicial: [1, 7, 12, 14, 19, 20, 22, 23, 25, 3, 0, 10, 21, 24, 15, 9, 6, 8, 11, 17, 4, 5, 13, 18, 2, 16]
+Vector final: [23, 7, 12, 22, 20, 19, 9, 14, 0, 25, 5, 3, 16, 10, 24, 15, 6, 8, 4, 17, 18, 13, 21, 11, 2, 1]
+Empezamos con valor: 6194777
+Mejor valor: 5600378
+Tiempo de corrida: 18.6672570705
+Tiempo de ejecucion: 18.6672668457
+Iteraciones: 502
+
+Corrida # 78
+Vector inicial: [0, 10, 11, 12, 14, 17, 21, 9, 18, 7, 16, 25, 4, 20, 2, 5, 19, 6, 23, 24, 3, 13, 22, 15, 8, 1]
+Vector final: [19, 3, 21, 9, 4, 1, 6, 12, 11, 17, 0, 2, 10, 8, 24, 22, 13, 18, 7, 23, 15, 20, 16, 14, 25, 5]
+Empezamos con valor: 5862177
+Mejor valor: 5618989
+Tiempo de corrida: 18.7678720951
+Tiempo de ejecucion: 18.767881155
+Iteraciones: 502
+
+Corrida # 79
+Vector inicial: [0, 2, 10, 14, 17, 19, 20, 22, 23, 25, 7, 9, 3, 11, 6, 18, 5, 15, 21, 8, 4, 24, 1, 12, 13, 16]
+Vector final: [1, 9, 7, 23, 11, 20, 14, 3, 22, 10, 17, 4, 18, 13, 5, 6, 0, 2, 19, 24, 15, 25, 12, 21, 16, 8]
+Empezamos con valor: 6147412
+Mejor valor: 5522782
+Tiempo de corrida: 19.4426851273
+Tiempo de ejecucion: 19.4426929951
+Iteraciones: 522
+
+Corrida # 80
+Vector inicial: [1, 3, 5, 11, 12, 18, 19, 20, 21, 24, 0, 2, 15, 16, 8, 25, 23, 13, 10, 7, 17, 22, 9, 14, 4, 6]
+Vector final: [3, 10, 1, 16, 0, 23, 21, 11, 22, 7, 20, 8, 19, 4, 14, 5, 12, 17, 13, 2, 9, 15, 25, 24, 18, 6]
+Empezamos con valor: 6041369
+Mejor valor: 5520535
+Tiempo de corrida: 18.6094369888
+Tiempo de ejecucion: 18.6094460487
+Iteraciones: 501
+
+Corrida # 81
+Vector inicial: [2, 4, 10, 17, 20, 21, 23, 24, 25, 11, 5, 15, 22, 13, 8, 1, 18, 0, 12, 16, 7, 9, 14, 3, 6, 19]
+Vector final: [10, 5, 18, 17, 14, 22, 21, 2, 24, 20, 7, 0, 3, 12, 23, 15, 13, 19, 4, 6, 8, 25, 16, 9, 1, 11]
+Empezamos con valor: 6019521
+Mejor valor: 5587770
+Tiempo de corrida: 18.5873188972
+Tiempo de ejecucion: 18.5873270035
+Iteraciones: 501
+
+Corrida # 82
+Vector inicial: [3, 5, 8, 12, 14, 15, 17, 22, 21, 23, 4, 13, 0, 7, 2, 20, 19, 1, 10, 11, 9, 25, 6, 18, 24, 16]
+Vector final: [16, 5, 8, 14, 15, 12, 22, 17, 21, 23, 4, 13, 0, 20, 7, 2, 11, 1, 19, 9, 10, 25, 6, 24, 18, 3]
+Empezamos con valor: 5884288
+Mejor valor: 5561158
+Tiempo de corrida: 18.3797278404
+Tiempo de ejecucion: 18.3797361851
+Iteraciones: 500
+
+Corrida # 83
+Vector inicial: [3, 8, 13, 15, 18, 22, 24, 25, 2, 10, 4, 6, 7, 21, 9, 20, 17, 5, 19, 23, 14, 12, 16, 11, 1, 0]
+Vector final: [1, 3, 10, 13, 6, 16, 15, 4, 8, 14, 2, 19, 25, 17, 12, 5, 7, 0, 20, 11, 22, 18, 9, 21, 24, 23]
+Empezamos con valor: 5882594
+Mejor valor: 5565445
+Tiempo de corrida: 21.6727712154
+Tiempo de ejecucion: 21.6727800369
+Iteraciones: 582
+
+Corrida # 84
+Vector inicial: [4, 11, 16, 17, 18, 20, 22, 24, 19, 0, 10, 9, 8, 6, 21, 2, 1, 5, 15, 13, 14, 25, 12, 7, 3, 23]
+Vector final: [9, 4, 2, 14, 6, 13, 23, 12, 22, 25, 8, 20, 17, 19, 1, 7, 11, 3, 10, 0, 15, 21, 16, 24, 18, 5]
+Empezamos con valor: 6080522
+Mejor valor: 5628285
+Tiempo de corrida: 18.6484940052
+Tiempo de ejecucion: 18.6485030651
+Iteraciones: 501
+
+Corrida # 85
+Vector inicial: [2, 6, 7, 11, 15, 19, 23, 24, 25, 13, 4, 18, 1, 22, 0, 12, 9, 5, 17, 8, 3, 21, 20, 10, 16, 14]
+Vector final: [14, 7, 15, 6, 19, 11, 23, 24, 25, 13, 4, 18, 0, 1, 9, 12, 22, 5, 17, 8, 3, 20, 21, 16, 10, 2]
+Empezamos con valor: 5838894
+Mejor valor: 5678833
+Tiempo de corrida: 18.3966369629
+Tiempo de ejecucion: 18.396643877
+Iteraciones: 500
+
+Corrida # 86
+Vector inicial: [2, 3, 7, 10, 12, 14, 18, 19, 24, 25, 23, 16, 1, 13, 4, 0, 5, 17, 9, 6, 15, 8, 21, 20, 11, 22]
+Vector final: [3, 6, 7, 9, 20, 19, 12, 13, 21, 1, 18, 8, 23, 4, 16, 22, 11, 17, 0, 25, 15, 5, 24, 14, 10, 2]
+Empezamos con valor: 6055569
+Mejor valor: 5526373
+Tiempo de corrida: 40.982421875
+Tiempo de ejecucion: 40.9824311733
+Iteraciones: 1112
+
+Corrida # 87
+Vector inicial: [1, 6, 7, 11, 17, 18, 20, 25, 10, 23, 15, 21, 22, 0, 3, 13, 2, 14, 4, 12, 9, 5, 16, 24, 19, 8]
+Vector final: [10, 6, 7, 11, 17, 21, 23, 15, 20, 25, 8, 13, 18, 3, 22, 1, 2, 4, 14, 9, 12, 5, 16, 24, 19, 0]
+Empezamos con valor: 5928622
+Mejor valor: 5518710
+Tiempo de corrida: 18.4835751057
+Tiempo de ejecucion: 18.4835817814
+Iteraciones: 502
+
+Corrida # 88
+Vector inicial: [0, 2, 3, 4, 7, 12, 17, 19, 21, 23, 25, 24, 6, 8, 5, 14, 10, 11, 13, 18, 22, 20, 1, 16, 15, 9]
+Vector final: [1, 5, 7, 25, 12, 10, 15, 14, 24, 2, 8, 13, 18, 17, 21, 9, 3, 4, 0, 20, 22, 23, 11, 16, 6, 19]
+Empezamos con valor: 5941973
+Mejor valor: 5504213
+Tiempo de corrida: 22.225263834
+Tiempo de ejecucion: 22.2253119946
+Iteraciones: 602
+
+Corrida # 89
+Vector inicial: [0, 3, 4, 5, 18, 19, 22, 17, 23, 16, 9, 24, 12, 2, 1, 10, 6, 25, 13, 11, 7, 20, 15, 14, 21, 8]
+Vector final: [2, 15, 16, 24, 19, 25, 11, 7, 8, 18, 4, 13, 22, 0, 14, 9, 10, 3, 20, 5, 1, 12, 23, 21, 17, 6]
+Empezamos con valor: 5943198
+Mejor valor: 5596297
+Tiempo de corrida: 18.6147890091
+Tiempo de ejecucion: 18.6147971153
+Iteraciones: 502
+
+Corrida # 90
+Vector inicial: [1, 6, 8, 10, 14, 15, 13, 24, 2, 9, 16, 25, 18, 22, 21, 4, 23, 12, 5, 20, 7, 0, 17, 11, 3, 19]
+Vector final: [2, 16, 14, 10, 19, 21, 24, 23, 25, 7, 3, 17, 4, 6, 9, 1, 8, 13, 18, 12, 11, 5, 15, 22, 0, 20]
+Empezamos con valor: 5983526
+Mejor valor: 5553765
+Tiempo de corrida: 19.1013281345
+Tiempo de ejecucion: 19.101336956
+Iteraciones: 511
+
+Corrida # 91
+Vector inicial: [0, 1, 2, 3, 4, 13, 14, 15, 16, 17, 19, 24, 12, 22, 18, 5, 25, 10, 23, 9, 8, 11, 7, 21, 6, 20]
+Vector final: [1, 25, 6, 11, 17, 21, 8, 14, 24, 20, 19, 18, 0, 15, 22, 10, 3, 4, 7, 9, 12, 2, 23, 13, 5, 16]
+Empezamos con valor: 6165223
+Mejor valor: 5587763
+Tiempo de corrida: 18.5318748951
+Tiempo de ejecucion: 18.5318851471
+Iteraciones: 501
+
+Corrida # 92
+Vector inicial: [1, 2, 3, 4, 6, 8, 11, 12, 14, 19, 23, 20, 10, 7, 25, 5, 17, 15, 18, 22, 16, 13, 9, 0, 21, 24]
+Vector final: [0, 22, 5, 3, 7, 1, 20, 2, 15, 6, 8, 25, 13, 18, 16, 9, 11, 4, 19, 24, 17, 12, 21, 23, 10, 14]
+Empezamos con valor: 5953811
+Mejor valor: 5547529
+Tiempo de corrida: 18.7635600567
+Tiempo de ejecucion: 18.7635691166
+Iteraciones: 501
+
+Corrida # 93
+Vector inicial: [2, 6, 8, 13, 22, 20, 3, 14, 17, 23, 5, 1, 16, 25, 7, 24, 0, 21, 12, 9, 19, 4, 10, 15, 11, 18]
+Vector final: [3, 5, 10, 6, 11, 7, 17, 24, 23, 8, 18, 20, 4, 12, 25, 1, 13, 19, 0, 2, 14, 15, 16, 22, 9, 21]
+Empezamos con valor: 6141806
+Mejor valor: 5544448
+Tiempo de corrida: 26.1315910816
+Tiempo de ejecucion: 26.1315989494
+Iteraciones: 703
+
+Corrida # 94
+Vector inicial: [8, 9, 10, 11, 15, 18, 20, 21, 22, 24, 5, 17, 6, 0, 14, 19, 12, 13, 2, 3, 23, 4, 7, 1, 16, 25]
+Vector final: [0, 6, 2, 5, 3, 13, 10, 7, 16, 17, 4, 20, 8, 23, 24, 9, 11, 18, 19, 14, 12, 15, 25, 22, 1, 21]
+Empezamos con valor: 5939438
+Mejor valor: 5525050
+Tiempo de corrida: 19.8464939594
+Tiempo de ejecucion: 19.8465008736
+Iteraciones: 532
+
+Corrida # 95
+Vector inicial: [1, 4, 6, 7, 8, 10, 11, 12, 18, 23, 22, 25, 19, 14, 13, 3, 21, 2, 5, 0, 17, 9, 16, 20, 24, 15]
+Vector final: [24, 13, 10, 6, 17, 19, 23, 14, 16, 15, 1, 2, 22, 7, 25, 0, 20, 4, 8, 5, 11, 18, 12, 21, 9, 3]
+Empezamos con valor: 6163073
+Mejor valor: 5542396
+Tiempo de corrida: 18.6206009388
+Tiempo de ejecucion: 18.6206099987
+Iteraciones: 502
+
+Corrida # 96
+Vector inicial: [4, 6, 8, 9, 11, 14, 18, 19, 21, 25, 15, 7, 24, 2, 20, 12, 17, 13, 22, 16, 1, 5, 0, 3, 23, 10]
+Vector final: [24, 6, 8, 9, 14, 11, 25, 15, 21, 18, 4, 7, 20, 19, 10, 12, 17, 13, 3, 5, 1, 16, 0, 23, 22, 2]
+Empezamos con valor: 5862446
+Mejor valor: 5559112
+Tiempo de corrida: 18.4656500816
+Tiempo de ejecucion: 18.4656581879
+Iteraciones: 502
+
+Corrida # 97
+Vector inicial: [8, 9, 11, 12, 14, 20, 22, 4, 5, 3, 18, 15, 23, 19, 1, 21, 2, 24, 17, 6, 16, 10, 13, 0, 7, 25]
+Vector final: [21, 1, 3, 11, 13, 24, 23, 9, 14, 4, 17, 2, 6, 10, 22, 7, 20, 19, 0, 18, 5, 25, 12, 16, 8, 15]
+Empezamos con valor: 5928441
+Mejor valor: 5587938
+Tiempo de corrida: 18.7109000683
+Tiempo de ejecucion: 18.7109079361
+Iteraciones: 502
+
+Corrida # 98
+Vector inicial: [1, 2, 4, 8, 9, 12, 20, 22, 24, 6, 11, 15, 10, 19, 25, 17, 0, 23, 18, 7, 13, 14, 5, 16, 21, 3]
+Vector final: [12, 8, 5, 16, 10, 21, 22, 1, 25, 24, 19, 20, 7, 0, 9, 11, 6, 13, 18, 2, 14, 15, 23, 4, 17, 3]
+Empezamos con valor: 5959456
+Mejor valor: 5701700
+Tiempo de corrida: 18.5874960423
+Tiempo de ejecucion: 18.5875051022
+Iteraciones: 501
+
+Corrida # 99
+Vector inicial: [3, 4, 9, 12, 17, 19, 22, 25, 11, 8, 2, 7, 15, 5, 1, 21, 10, 20, 23, 18, 16, 14, 24, 13, 0, 6]
+Vector final: [5, 9, 7, 6, 11, 16, 24, 23, 25, 2, 3, 19, 1, 13, 22, 21, 8, 4, 17, 18, 14, 10, 12, 15, 0, 20]
+Empezamos con valor: 5991960
+Mejor valor: 5549229
+Tiempo de corrida: 18.7802169323
+Tiempo de ejecucion: 18.7802248001
+Iteraciones: 504
+
+
+Corrida VNS 
+
+Corrida # 0
+Vector inicial: [4, 5, 6, 10, 12, 15, 18, 20, 23, 21, 17, 1, 24, 0, 19, 13, 16, 3, 14, 7, 8, 22, 25, 9, 11, 2]
+Vector final: [7, 15, 6, 5, 10, 12, 21, 20, 1, 17, 4, 18, 2, 22, 0, 23, 13, 8, 19, 16, 25, 14, 24, 3, 11, 9]
+Empezamos con valor: 5996855
+Mejor valor: 5483298
+Tiempo de corrida: 11.1133680344
+Tiempo de ejecucion: 11.1133770943
+Iteraciones: 582
+
+Corrida # 1
+Vector inicial: [2, 3, 7, 8, 12, 14, 16, 19, 20, 23, 24, 22, 15, 10, 1, 9, 6, 17, 13, 25, 18, 11, 5, 21, 0, 4]
+Vector final: [20, 3, 22, 8, 7, 14, 16, 23, 24, 19, 6, 1, 12, 2, 10, 15, 4, 13, 17, 25, 18, 11, 5, 21, 0, 9]
+Empezamos con valor: 5826120
+Mejor valor: 5581843
+Tiempo de corrida: 10.0076470375
+Tiempo de ejecucion: 10.0076570511
+Iteraciones: 524
+
+Corrida # 2
+Vector inicial: [2, 3, 4, 6, 17, 18, 19, 21, 23, 24, 1, 11, 8, 14, 0, 7, 25, 16, 5, 22, 15, 20, 10, 13, 12, 9]
+Vector final: [8, 3, 24, 23, 6, 21, 1, 18, 11, 17, 4, 19, 14, 2, 0, 12, 5, 25, 22, 16, 15, 20, 10, 7, 13, 9]
+Empezamos con valor: 6155856
+Mejor valor: 5507163
+Tiempo de corrida: 10.7065508366
+Tiempo de ejecucion: 10.7065598965
+Iteraciones: 558
+
+Corrida # 3
+Vector inicial: [0, 2, 5, 8, 9, 10, 12, 13, 15, 16, 17, 7, 19, 1, 14, 25, 6, 3, 21, 23, 11, 18, 4, 24, 22, 20]
+Vector final: [20, 12, 9, 8, 10, 16, 5, 0, 14, 7, 19, 13, 2, 6, 17, 25, 3, 22, 4, 15, 1, 11, 23, 24, 18, 21]
+Empezamos con valor: 6116750
+Mejor valor: 5558926
+Tiempo de corrida: 11.0557870865
+Tiempo de ejecucion: 11.055795908
+Iteraciones: 568
+
+Corrida # 4
+Vector inicial: [0, 3, 5, 6, 9, 11, 13, 14, 25, 15, 17, 23, 7, 2, 12, 16, 1, 21, 10, 22, 19, 24, 18, 20, 4, 8]
+Vector final: [8, 5, 11, 7, 3, 14, 23, 9, 25, 15, 12, 13, 6, 2, 17, 16, 0, 19, 18, 21, 24, 22, 10, 20, 4, 1]
+Empezamos con valor: 6145778
+Mejor valor: 5601295
+Tiempo de corrida: 10.2236409187
+Tiempo de ejecucion: 10.223649025
+Iteraciones: 535
+
+Corrida # 5
+Vector inicial: [4, 8, 9, 12, 16, 17, 20, 21, 24, 25, 22, 3, 23, 0, 18, 14, 1, 13, 2, 19, 15, 5, 6, 11, 10, 7]
+Vector final: [7, 8, 20, 16, 9, 22, 12, 25, 21, 17, 4, 3, 14, 5, 0, 13, 10, 18, 19, 23, 15, 2, 6, 1, 11, 24]
+Empezamos con valor: 6064738
+Mejor valor: 5547016
+Tiempo de corrida: 10.45408988
+Tiempo de ejecucion: 10.4540970325
+Iteraciones: 544
+
+Corrida # 6
+Vector inicial: [3, 6, 7, 8, 11, 18, 22, 25, 1, 15, 24, 13, 19, 23, 12, 4, 16, 10, 0, 14, 5, 2, 17, 21, 20, 9]
+Vector final: [13, 12, 22, 1, 11, 7, 15, 24, 25, 18, 8, 6, 20, 21, 19, 10, 3, 4, 0, 14, 17, 2, 16, 23, 5, 9]
+Empezamos con valor: 5899000
+Mejor valor: 5531276
+Tiempo de corrida: 10.8780961037
+Tiempo de ejecucion: 10.8781030178
+Iteraciones: 562
+
+Corrida # 7
+Vector inicial: [3, 7, 10, 14, 16, 19, 20, 24, 25, 1, 2, 9, 23, 22, 13, 0, 15, 21, 8, 5, 17, 4, 6, 11, 18, 12]
+Vector final: [25, 23, 22, 16, 9, 14, 1, 20, 24, 19, 2, 0, 10, 7, 13, 3, 12, 8, 17, 5, 21, 11, 4, 18, 6, 15]
+Empezamos con valor: 6179448
+Mejor valor: 5647222
+Tiempo de corrida: 10.0591981411
+Tiempo de ejecucion: 10.0592050552
+Iteraciones: 528
+
+Corrida # 8
+Vector inicial: [1, 3, 4, 5, 8, 9, 10, 12, 14, 21, 23, 25, 22, 24, 11, 6, 16, 20, 19, 15, 18, 17, 13, 0, 2, 7]
+Vector final: [1, 3, 24, 9, 12, 8, 23, 25, 14, 5, 6, 10, 11, 16, 22, 7, 20, 18, 4, 2, 15, 17, 13, 19, 0, 21]
+Empezamos con valor: 6302717
+Mejor valor: 5565160
+Tiempo de corrida: 10.3770399094
+Tiempo de ejecucion: 10.3770470619
+Iteraciones: 538
+
+Corrida # 9
+Vector inicial: [2, 3, 5, 6, 10, 12, 13, 23, 25, 7, 15, 22, 9, 1, 19, 0, 11, 8, 20, 21, 24, 16, 18, 14, 4, 17]
+Vector final: [19, 12, 1, 2, 3, 15, 23, 20, 25, 10, 7, 17, 6, 24, 13, 0, 14, 8, 18, 21, 11, 5, 9, 22, 4, 16]
+Empezamos con valor: 6054343
+Mejor valor: 5545820
+Tiempo de corrida: 11.254625082
+Tiempo de ejecucion: 11.2546329498
+Iteraciones: 575
+
+Corrida # 10
+Vector inicial: [1, 2, 14, 17, 18, 19, 21, 23, 24, 3, 11, 12, 10, 0, 7, 9, 16, 15, 6, 4, 20, 25, 13, 5, 22, 8]
+Vector final: [6, 21, 18, 12, 17, 24, 23, 14, 9, 10, 19, 11, 2, 16, 3, 0, 8, 4, 7, 15, 13, 5, 25, 22, 20, 1]
+Empezamos con valor: 6200649
+Mejor valor: 5493754
+Tiempo de corrida: 10.6090390682
+Tiempo de ejecucion: 10.6090459824
+Iteraciones: 551
+
+Corrida # 11
+Vector inicial: [0, 3, 4, 6, 10, 15, 18, 23, 25, 13, 7, 11, 5, 21, 24, 9, 20, 16, 12, 22, 19, 1, 2, 14, 17, 8]
+Vector final: [0, 5, 15, 23, 4, 9, 25, 18, 6, 7, 11, 10, 21, 3, 13, 24, 19, 20, 8, 12, 22, 1, 2, 14, 17, 16]
+Empezamos con valor: 5926731
+Mejor valor: 5610542
+Tiempo de corrida: 10.2765829563
+Tiempo de ejecucion: 10.2765908241
+Iteraciones: 535
+
+Corrida # 12
+Vector inicial: [1, 4, 7, 14, 15, 16, 18, 19, 20, 22, 23, 24, 9, 10, 11, 8, 17, 3, 6, 2, 21, 5, 12, 25, 13, 0]
+Vector final: [11, 4, 7, 16, 14, 15, 23, 19, 22, 18, 8, 0, 10, 12, 20, 1, 2, 3, 17, 6, 9, 21, 25, 5, 13, 24]
+Empezamos con valor: 5920137
+Mejor valor: 5605932
+Tiempo de corrida: 10.1186130047
+Tiempo de ejecucion: 10.1186220646
+Iteraciones: 530
+
+Corrida # 13
+Vector inicial: [1, 3, 4, 8, 15, 17, 19, 22, 16, 6, 25, 9, 13, 14, 23, 7, 2, 10, 18, 21, 5, 0, 24, 20, 12, 11]
+Vector final: [25, 15, 4, 8, 14, 6, 16, 5, 22, 1, 17, 13, 9, 7, 2, 3, 11, 18, 19, 21, 10, 24, 0, 20, 12, 23]
+Empezamos con valor: 5911860
+Mejor valor: 5606967
+Tiempo de corrida: 10.6029679775
+Tiempo de ejecucion: 10.6029751301
+Iteraciones: 549
+
+Corrida # 14
+Vector inicial: [3, 4, 5, 6, 12, 14, 15, 17, 19, 20, 25, 0, 10, 21, 24, 18, 8, 7, 22, 9, 2, 16, 11, 13, 1, 23]
+Vector final: [7, 4, 25, 24, 6, 12, 15, 19, 10, 5, 20, 0, 14, 1, 17, 22, 18, 3, 8, 16, 2, 11, 9, 21, 13, 23]
+Empezamos con valor: 5884407
+Mejor valor: 5634581
+Tiempo de corrida: 10.4416899681
+Tiempo de ejecucion: 10.4416980743
+Iteraciones: 549
+
+Corrida # 15
+Vector inicial: [2, 4, 8, 11, 12, 16, 21, 22, 24, 25, 5, 1, 19, 15, 10, 7, 3, 0, 14, 9, 13, 20, 23, 6, 18, 17]
+Vector final: [17, 16, 24, 2, 15, 22, 25, 21, 5, 12, 11, 4, 19, 1, 8, 10, 13, 0, 7, 23, 14, 20, 9, 6, 18, 3]
+Empezamos con valor: 6038557
+Mejor valor: 5534452
+Tiempo de corrida: 10.9478039742
+Tiempo de ejecucion: 10.9478130341
+Iteraciones: 566
+
+Corrida # 16
+Vector inicial: [2, 7, 8, 9, 10, 11, 16, 18, 21, 24, 19, 14, 25, 3, 4, 23, 12, 0, 20, 13, 5, 1, 22, 17, 15, 6]
+Vector final: [6, 14, 8, 9, 10, 21, 16, 18, 24, 11, 19, 4, 2, 22, 7, 25, 12, 13, 0, 1, 23, 20, 5, 15, 17, 3]
+Empezamos con valor: 6086354
+Mejor valor: 5547466
+Tiempo de corrida: 9.95908498764
+Tiempo de ejecucion: 9.95909309387
+Iteraciones: 527
+
+Corrida # 17
+Vector inicial: [4, 6, 7, 8, 13, 24, 25, 3, 15, 16, 9, 5, 2, 20, 22, 0, 23, 21, 10, 14, 18, 12, 1, 17, 19, 11]
+Vector final: [3, 7, 24, 9, 16, 6, 25, 13, 5, 1, 8, 15, 20, 12, 4, 22, 10, 11, 18, 14, 21, 2, 0, 19, 17, 23]
+Empezamos con valor: 6175872
+Mejor valor: 5632001
+Tiempo de corrida: 10.4354171753
+Tiempo de ejecucion: 10.4354250431
+Iteraciones: 535
+
+Corrida # 18
+Vector inicial: [1, 2, 3, 4, 9, 11, 13, 21, 24, 12, 15, 20, 6, 7, 22, 19, 0, 17, 23, 14, 8, 18, 5, 10, 25, 16]
+Vector final: [13, 15, 2, 9, 22, 21, 11, 3, 20, 7, 0, 6, 24, 23, 4, 12, 17, 19, 8, 14, 25, 16, 10, 5, 18, 1]
+Empezamos con valor: 5918016
+Mejor valor: 5506829
+Tiempo de corrida: 10.934620142
+Tiempo de ejecucion: 10.9346301556
+Iteraciones: 563
+
+Corrida # 19
+Vector inicial: [2, 9, 10, 13, 17, 25, 23, 18, 12, 21, 5, 4, 19, 20, 8, 11, 7, 1, 14, 24, 22, 16, 6, 3, 15, 0]
+Vector final: [0, 23, 10, 21, 9, 5, 12, 18, 25, 17, 13, 4, 19, 1, 8, 7, 3, 11, 14, 22, 16, 15, 24, 20, 6, 2]
+Empezamos con valor: 5891921
+Mejor valor: 5522415
+Tiempo de corrida: 10.660323143
+Tiempo de ejecucion: 10.6603300571
+Iteraciones: 552
+
+Corrida # 20
+Vector inicial: [3, 5, 8, 9, 10, 18, 21, 23, 11, 16, 6, 25, 2, 14, 13, 15, 20, 0, 1, 19, 17, 4, 7, 22, 12, 24]
+Vector final: [20, 10, 25, 24, 23, 18, 9, 21, 6, 11, 16, 13, 8, 3, 14, 5, 17, 19, 2, 0, 22, 1, 4, 7, 12, 15]
+Empezamos con valor: 6311397
+Mejor valor: 5675959
+Tiempo de corrida: 10.428235054
+Tiempo de ejecucion: 10.4282431602
+Iteraciones: 545
+
+Corrida # 21
+Vector inicial: [1, 3, 6, 10, 12, 14, 16, 19, 20, 23, 25, 13, 7, 8, 4, 18, 17, 2, 15, 5, 0, 9, 21, 11, 24, 22]
+Vector final: [19, 25, 10, 3, 12, 14, 16, 6, 23, 20, 18, 13, 7, 8, 4, 15, 1, 2, 17, 21, 11, 24, 9, 5, 0, 22]
+Empezamos con valor: 5893220
+Mejor valor: 5531560
+Tiempo de corrida: 10.3978409767
+Tiempo de ejecucion: 10.3978490829
+Iteraciones: 542
+
+Corrida # 22
+Vector inicial: [1, 5, 6, 7, 11, 17, 19, 20, 21, 23, 4, 14, 12, 0, 18, 2, 13, 15, 24, 3, 16, 25, 22, 10, 8, 9]
+Vector final: [12, 0, 7, 5, 11, 20, 23, 17, 21, 14, 19, 4, 6, 9, 18, 24, 1, 2, 13, 3, 16, 10, 22, 25, 8, 15]
+Empezamos con valor: 5736208
+Mejor valor: 5546689
+Tiempo de corrida: 10.0927910805
+Tiempo de ejecucion: 10.0927989483
+Iteraciones: 532
+
+Corrida # 23
+Vector inicial: [0, 5, 11, 13, 20, 22, 23, 12, 10, 4, 24, 9, 7, 2, 21, 16, 1, 3, 8, 14, 18, 15, 6, 17, 25, 19]
+Vector final: [2, 22, 25, 11, 13, 9, 24, 20, 23, 4, 1, 10, 5, 15, 3, 21, 8, 14, 0, 6, 19, 18, 16, 17, 7, 12]
+Empezamos con valor: 5906015
+Mejor valor: 5638918
+Tiempo de corrida: 10.4985368252
+Tiempo de ejecucion: 10.4985480309
+Iteraciones: 547
+
+Corrida # 24
+Vector inicial: [3, 6, 8, 9, 13, 14, 15, 18, 22, 23, 25, 0, 5, 2, 24, 19, 17, 12, 1, 21, 10, 11, 20, 4, 16, 7]
+Vector final: [0, 6, 8, 23, 14, 18, 25, 13, 22, 7, 5, 2, 9, 1, 15, 12, 3, 17, 19, 10, 21, 16, 4, 20, 11, 24]
+Empezamos con valor: 6192692
+Mejor valor: 5630885
+Tiempo de corrida: 10.4427990913
+Tiempo de ejecucion: 10.4428069592
+Iteraciones: 541
+
+Corrida # 25
+Vector inicial: [4, 6, 7, 9, 11, 15, 16, 18, 19, 24, 25, 5, 0, 17, 2, 12, 23, 1, 8, 21, 14, 13, 10, 20, 3, 22]
+Vector final: [2, 0, 24, 6, 15, 11, 9, 5, 25, 18, 19, 4, 16, 17, 7, 22, 12, 8, 3, 1, 14, 20, 21, 10, 13, 23]
+Empezamos con valor: 5971851
+Mejor valor: 5570791
+Tiempo de corrida: 10.6028928757
+Tiempo de ejecucion: 10.6029012203
+Iteraciones: 555
+
+Corrida # 26
+Vector inicial: [0, 2, 3, 8, 9, 12, 15, 19, 20, 22, 24, 25, 5, 4, 17, 6, 16, 21, 14, 7, 11, 23, 13, 1, 18, 10]
+Vector final: [10, 3, 2, 9, 12, 8, 24, 20, 15, 25, 22, 6, 17, 0, 19, 16, 5, 14, 4, 11, 7, 1, 13, 18, 23, 21]
+Empezamos con valor: 6135192
+Mejor valor: 5628394
+Tiempo de corrida: 10.2361209393
+Tiempo de ejecucion: 10.2361299992
+Iteraciones: 531
+
+Corrida # 27
+Vector inicial: [8, 10, 12, 13, 18, 21, 23, 24, 20, 3, 22, 0, 6, 25, 14, 5, 1, 11, 17, 19, 15, 16, 2, 7, 9, 4]
+Vector final: [6, 21, 18, 12, 13, 10, 24, 0, 23, 20, 1, 11, 25, 15, 3, 14, 8, 4, 19, 2, 17, 16, 9, 22, 7, 5]
+Empezamos con valor: 5976035
+Mejor valor: 5495333
+Tiempo de corrida: 10.8188900948
+Tiempo de ejecucion: 10.8188989162
+Iteraciones: 560
+
+Corrida # 28
+Vector inicial: [0, 3, 7, 8, 10, 12, 18, 24, 11, 19, 6, 20, 13, 1, 5, 2, 16, 15, 23, 9, 21, 22, 4, 17, 25, 14]
+Vector final: [0, 10, 24, 8, 5, 12, 11, 3, 6, 19, 20, 18, 7, 13, 14, 2, 21, 1, 22, 15, 25, 4, 23, 9, 17, 16]
+Empezamos con valor: 6121143
+Mejor valor: 5642345
+Tiempo de corrida: 10.5115759373
+Tiempo de ejecucion: 10.5115828514
+Iteraciones: 551
+
+Corrida # 29
+Vector inicial: [0, 4, 7, 12, 14, 21, 25, 11, 19, 17, 20, 15, 2, 13, 3, 6, 5, 16, 10, 23, 1, 9, 8, 18, 24, 22]
+Vector final: [20, 4, 7, 16, 25, 12, 21, 11, 13, 17, 19, 0, 14, 2, 6, 22, 3, 5, 1, 23, 24, 9, 8, 10, 18, 15]
+Empezamos con valor: 5977085
+Mejor valor: 5620614
+Tiempo de corrida: 10.2973239422
+Tiempo de ejecucion: 10.2973330021
+Iteraciones: 538
+
+Corrida # 30
+Vector inicial: [0, 2, 3, 4, 6, 8, 12, 17, 18, 22, 1, 20, 25, 5, 15, 9, 21, 7, 24, 13, 19, 23, 16, 10, 11, 14]
+Vector final: [14, 15, 3, 4, 6, 1, 12, 17, 18, 8, 0, 20, 25, 5, 2, 22, 10, 7, 13, 23, 21, 19, 16, 24, 11, 9]
+Empezamos con valor: 6001627
+Mejor valor: 5640020
+Tiempo de corrida: 10.0261428356
+Tiempo de ejecucion: 10.0261521339
+Iteraciones: 530
+
+Corrida # 31
+Vector inicial: [0, 3, 4, 8, 11, 12, 13, 18, 20, 22, 23, 24, 19, 10, 5, 21, 2, 7, 6, 17, 16, 14, 15, 25, 9, 1]
+Vector final: [19, 3, 4, 23, 8, 12, 11, 22, 13, 18, 20, 10, 5, 21, 0, 1, 2, 6, 17, 7, 15, 14, 16, 9, 25, 24]
+Empezamos con valor: 5918019
+Mejor valor: 5615597
+Tiempo de corrida: 10.0761399269
+Tiempo de ejecucion: 10.076146841
+Iteraciones: 527
+
+Corrida # 32
+Vector inicial: [4, 5, 7, 10, 17, 18, 23, 24, 25, 12, 22, 2, 8, 6, 3, 16, 1, 0, 21, 11, 14, 19, 20, 9, 13, 15]
+Vector final: [4, 23, 6, 24, 7, 16, 2, 25, 22, 12, 18, 17, 10, 5, 8, 3, 1, 0, 19, 21, 11, 14, 9, 20, 13, 15]
+Empezamos con valor: 6006091
+Mejor valor: 5558763
+Tiempo de corrida: 10.380161047
+Tiempo de ejecucion: 10.3801698685
+Iteraciones: 541
+
+Corrida # 33
+Vector inicial: [3, 5, 6, 9, 12, 13, 15, 16, 18, 24, 25, 2, 22, 4, 17, 14, 20, 7, 8, 11, 19, 0, 23, 1, 21, 10]
+Vector final: [13, 9, 24, 15, 25, 6, 5, 12, 16, 18, 17, 14, 22, 10, 4, 3, 7, 19, 8, 11, 20, 0, 23, 21, 1, 2]
+Empezamos con valor: 5826855
+Mejor valor: 5543476
+Tiempo de corrida: 10.7999191284
+Tiempo de ejecucion: 10.7999269962
+Iteraciones: 555
+
+Corrida # 34
+Vector inicial: [0, 4, 7, 10, 11, 13, 16, 18, 25, 2, 20, 15, 14, 6, 19, 24, 17, 23, 9, 12, 21, 8, 5, 1, 22, 3]
+Vector final: [23, 4, 14, 7, 25, 13, 2, 10, 11, 19, 18, 0, 16, 22, 20, 15, 12, 3, 17, 21, 9, 8, 5, 6, 1, 24]
+Empezamos con valor: 5957054
+Mejor valor: 5647810
+Tiempo de corrida: 10.083137989
+Tiempo de ejecucion: 10.0831468105
+Iteraciones: 530
+
+Corrida # 35
+Vector inicial: [0, 1, 10, 11, 14, 15, 21, 23, 24, 12, 6, 18, 13, 8, 9, 16, 4, 5, 7, 19, 3, 20, 22, 2, 25, 17]
+Vector final: [19, 10, 23, 21, 11, 15, 12, 14, 24, 1, 6, 18, 17, 25, 8, 5, 13, 4, 0, 22, 7, 20, 3, 16, 2, 9]
+Empezamos con valor: 5910487
+Mejor valor: 5494910
+Tiempo de corrida: 10.3575251102
+Tiempo de ejecucion: 10.3575341702
+Iteraciones: 540
+
+Corrida # 36
+Vector inicial: [1, 7, 12, 13, 21, 3, 17, 6, 15, 25, 10, 14, 11, 2, 22, 9, 0, 24, 4, 8, 5, 23, 18, 19, 20, 16]
+Vector final: [11, 16, 13, 21, 12, 3, 15, 14, 10, 1, 6, 25, 7, 20, 17, 9, 2, 4, 8, 5, 0, 23, 18, 22, 19, 24]
+Empezamos con valor: 5887240
+Mejor valor: 5585491
+Tiempo de corrida: 10.3881800175
+Tiempo de ejecucion: 10.3881878853
+Iteraciones: 545
+
+Corrida # 37
+Vector inicial: [0, 3, 5, 10, 17, 22, 25, 20, 4, 21, 8, 11, 15, 6, 16, 13, 18, 24, 23, 14, 19, 12, 1, 2, 9, 7]
+Vector final: [11, 3, 15, 22, 17, 21, 25, 5, 20, 4, 8, 6, 10, 0, 13, 24, 7, 18, 14, 23, 19, 1, 12, 2, 9, 16]
+Empezamos con valor: 5807673
+Mejor valor: 5607392
+Tiempo de corrida: 9.83771896362
+Tiempo de ejecucion: 9.83772802353
+Iteraciones: 520
+
+Corrida # 38
+Vector inicial: [3, 8, 9, 14, 16, 17, 18, 20, 23, 24, 25, 12, 2, 4, 21, 1, 10, 11, 5, 19, 15, 13, 7, 22, 0, 6]
+Vector final: [11, 8, 9, 21, 17, 23, 16, 14, 24, 20, 18, 1, 25, 3, 10, 6, 2, 4, 19, 15, 5, 7, 13, 22, 0, 12]
+Empezamos con valor: 5995137
+Mejor valor: 5573986
+Tiempo de corrida: 11.0055398941
+Tiempo de ejecucion: 11.005548954
+Iteraciones: 575
+
+Corrida # 39
+Vector inicial: [2, 3, 4, 9, 10, 12, 14, 16, 18, 22, 15, 8, 0, 25, 24, 5, 17, 20, 19, 11, 23, 6, 1, 13, 7, 21]
+Vector final: [5, 4, 0, 9, 16, 25, 12, 10, 22, 18, 8, 15, 24, 7, 14, 11, 17, 3, 19, 20, 2, 23, 6, 1, 13, 21]
+Empezamos con valor: 6000277
+Mejor valor: 5620005
+Tiempo de corrida: 10.5314879417
+Tiempo de ejecucion: 10.5314970016
+Iteraciones: 553
+
+Corrida # 40
+Vector inicial: [1, 2, 16, 18, 20, 21, 23, 8, 25, 11, 19, 10, 9, 5, 6, 14, 0, 24, 4, 15, 12, 3, 22, 13, 17, 7]
+Vector final: [11, 5, 18, 23, 21, 16, 25, 8, 20, 10, 19, 1, 2, 9, 6, 14, 7, 0, 4, 15, 12, 22, 17, 13, 3, 24]
+Empezamos con valor: 5808078
+Mejor valor: 5533745
+Tiempo de corrida: 10.0673081875
+Tiempo de ejecucion: 10.0673160553
+Iteraciones: 530
+
+Corrida # 41
+Vector inicial: [3, 5, 6, 12, 18, 19, 20, 21, 2, 4, 17, 1, 9, 15, 7, 25, 8, 24, 23, 10, 22, 14, 11, 16, 0, 13]
+Vector final: [7, 21, 18, 5, 12, 19, 3, 2, 20, 6, 4, 17, 9, 15, 13, 24, 1, 8, 14, 16, 11, 23, 22, 25, 0, 10]
+Empezamos con valor: 5930452
+Mejor valor: 5574343
+Tiempo de corrida: 10.5997769833
+Tiempo de ejecucion: 10.5997850895
+Iteraciones: 551
+
+Corrida # 42
+Vector inicial: [0, 2, 6, 7, 8, 12, 17, 18, 20, 25, 22, 24, 1, 3, 15, 4, 10, 19, 14, 16, 13, 11, 5, 21, 23, 9]
+Vector final: [19, 22, 2, 1, 17, 20, 6, 8, 24, 7, 25, 3, 12, 9, 18, 14, 10, 0, 4, 13, 11, 5, 23, 21, 16, 15]
+Empezamos con valor: 5905122
+Mejor valor: 5501741
+Tiempo de corrida: 10.5952768326
+Tiempo de ejecucion: 10.5952858925
+Iteraciones: 548
+
+Corrida # 43
+Vector inicial: [3, 6, 15, 17, 18, 22, 23, 24, 25, 20, 16, 11, 14, 10, 19, 2, 7, 0, 12, 4, 21, 9, 13, 5, 1, 8]
+Vector final: [11, 23, 17, 22, 18, 24, 16, 15, 6, 20, 3, 19, 10, 14, 2, 0, 8, 4, 7, 12, 1, 13, 21, 5, 9, 25]
+Empezamos con valor: 6152964
+Mejor valor: 5478917
+Tiempo de corrida: 10.345580101
+Tiempo de ejecucion: 10.3455879688
+Iteraciones: 541
+
+Corrida # 44
+Vector inicial: [1, 2, 8, 9, 11, 14, 15, 17, 24, 22, 3, 25, 19, 21, 13, 20, 23, 4, 0, 5, 12, 6, 18, 16, 7, 10]
+Vector final: [17, 24, 2, 9, 11, 15, 10, 14, 25, 8, 13, 3, 1, 16, 19, 21, 20, 4, 0, 5, 6, 23, 18, 12, 7, 22]
+Empezamos con valor: 5793627
+Mejor valor: 5531631
+Tiempo de corrida: 10.5489509106
+Tiempo de ejecucion: 10.5489602089
+Iteraciones: 548
+
+Corrida # 45
+Vector inicial: [2, 3, 5, 8, 9, 10, 11, 20, 21, 0, 12, 13, 7, 23, 18, 19, 24, 22, 14, 15, 17, 25, 1, 16, 4, 6]
+Vector final: [18, 6, 5, 3, 8, 10, 0, 21, 20, 12, 11, 7, 9, 15, 13, 24, 2, 19, 14, 17, 25, 1, 16, 23, 4, 22]
+Empezamos con valor: 5828275
+Mejor valor: 5654757
+Tiempo de corrida: 10.0828061104
+Tiempo de ejecucion: 10.082816124
+Iteraciones: 526
+
+Corrida # 46
+Vector inicial: [1, 2, 3, 6, 7, 8, 11, 15, 25, 17, 16, 21, 5, 14, 20, 24, 19, 9, 23, 12, 10, 22, 18, 4, 0, 13]
+Vector final: [20, 3, 6, 9, 15, 8, 16, 21, 25, 7, 17, 11, 2, 1, 12, 5, 14, 13, 18, 22, 23, 10, 19, 4, 0, 24]
+Empezamos con valor: 6063435
+Mejor valor: 5717842
+Tiempo de corrida: 10.3119089603
+Tiempo de ejecucion: 10.3119180202
+Iteraciones: 533
+
+Corrida # 47
+Vector inicial: [0, 2, 7, 11, 13, 14, 16, 21, 22, 25, 20, 8, 1, 24, 15, 19, 3, 17, 10, 5, 23, 18, 9, 6, 12, 4]
+Vector final: [8, 14, 16, 24, 25, 21, 22, 11, 15, 13, 20, 4, 7, 2, 0, 5, 1, 17, 19, 3, 23, 18, 9, 6, 12, 10]
+Empezamos con valor: 5942083
+Mejor valor: 5507215
+Tiempo de corrida: 10.1373951435
+Tiempo de ejecucion: 10.137403965
+Iteraciones: 526
+
+Corrida # 48
+Vector inicial: [0, 3, 4, 5, 6, 10, 13, 15, 16, 20, 24, 1, 9, 2, 21, 17, 8, 12, 18, 11, 14, 23, 19, 25, 7, 22]
+Vector final: [13, 24, 4, 16, 10, 5, 3, 1, 15, 6, 2, 20, 22, 21, 0, 12, 17, 19, 8, 11, 18, 14, 23, 25, 7, 9]
+Empezamos con valor: 5799970
+Mejor valor: 5583417
+Tiempo de corrida: 10.8176789284
+Tiempo de ejecucion: 10.8176867962
+Iteraciones: 563
+
+Corrida # 49
+Vector inicial: [0, 2, 4, 5, 6, 15, 22, 20, 8, 23, 19, 3, 13, 12, 25, 10, 1, 11, 21, 17, 16, 7, 24, 9, 18, 14]
+Vector final: [0, 14, 23, 4, 15, 3, 5, 6, 22, 19, 13, 8, 12, 2, 20, 10, 1, 11, 17, 21, 9, 7, 16, 24, 18, 25]
+Empezamos con valor: 6075203
+Mejor valor: 5589951
+Tiempo de corrida: 10.0272841454
+Tiempo de ejecucion: 10.0272929668
+Iteraciones: 527
+
+Corrida # 50
+Vector inicial: [2, 4, 7, 8, 11, 13, 19, 21, 22, 23, 24, 20, 9, 6, 0, 12, 25, 15, 16, 10, 14, 17, 1, 5, 18, 3]
+Vector final: [6, 4, 8, 23, 7, 22, 21, 12, 13, 11, 19, 0, 24, 18, 20, 25, 3, 2, 1, 15, 14, 16, 10, 5, 17, 9]
+Empezamos con valor: 6088521
+Mejor valor: 5599093
+Tiempo de corrida: 10.366451025
+Tiempo de ejecucion: 10.3664600849
+Iteraciones: 538
+
+Corrida # 51
+Vector inicial: [3, 4, 7, 12, 13, 14, 17, 21, 23, 24, 25, 5, 1, 8, 2, 22, 11, 6, 20, 9, 18, 16, 19, 0, 15, 10]
+Vector final: [13, 22, 4, 21, 24, 14, 23, 1, 3, 7, 12, 17, 5, 10, 25, 6, 8, 18, 11, 9, 16, 0, 19, 15, 20, 2]
+Empezamos con valor: 6160254
+Mejor valor: 5619486
+Tiempo de corrida: 10.5202870369
+Tiempo de ejecucion: 10.5202960968
+Iteraciones: 537
+
+Corrida # 52
+Vector inicial: [0, 1, 3, 6, 7, 10, 11, 12, 13, 14, 17, 23, 24, 20, 21, 16, 22, 8, 4, 18, 25, 19, 9, 5, 2, 15]
+Vector final: [12, 21, 15, 10, 7, 6, 1, 0, 14, 20, 17, 13, 11, 16, 3, 24, 25, 4, 8, 23, 18, 19, 9, 5, 2, 22]
+Empezamos con valor: 5798584
+Mejor valor: 5584697
+Tiempo de corrida: 10.3102698326
+Tiempo de ejecucion: 10.3102800846
+Iteraciones: 540
+
+Corrida # 53
+Vector inicial: [1, 3, 8, 11, 18, 19, 20, 23, 25, 5, 2, 7, 15, 21, 6, 4, 14, 12, 17, 0, 22, 13, 16, 10, 24, 9]
+Vector final: [6, 3, 11, 5, 18, 23, 25, 8, 20, 7, 1, 19, 21, 15, 2, 9, 14, 0, 4, 17, 22, 13, 16, 24, 10, 12]
+Empezamos con valor: 5845807
+Mejor valor: 5530539
+Tiempo de corrida: 10.3042740822
+Tiempo de ejecucion: 10.3042831421
+Iteraciones: 541
+
+Corrida # 54
+Vector inicial: [1, 2, 9, 11, 12, 13, 14, 15, 18, 19, 20, 22, 23, 21, 7, 8, 6, 5, 16, 0, 17, 4, 25, 10, 3, 24]
+Vector final: [19, 23, 11, 12, 13, 9, 15, 14, 24, 20, 18, 5, 10, 7, 2, 22, 6, 4, 8, 25, 0, 17, 16, 1, 3, 21]
+Empezamos con valor: 6088568
+Mejor valor: 5552069
+Tiempo de corrida: 10.2355599403
+Tiempo de ejecucion: 10.2355690002
+Iteraciones: 535
+
+Corrida # 55
+Vector inicial: [0, 3, 10, 14, 17, 18, 21, 22, 24, 15, 2, 4, 20, 19, 7, 9, 13, 11, 8, 1, 6, 25, 23, 12, 16, 5]
+Vector final: [4, 20, 3, 14, 15, 22, 21, 18, 24, 17, 2, 0, 19, 10, 7, 5, 13, 11, 8, 1, 6, 25, 23, 16, 12, 9]
+Empezamos con valor: 5789753
+Mejor valor: 5518749
+Tiempo de corrida: 9.89210796356
+Tiempo de ejecucion: 9.89211702347
+Iteraciones: 523
+
+Corrida # 56
+Vector inicial: [1, 2, 4, 7, 8, 9, 10, 17, 19, 22, 18, 16, 5, 24, 21, 23, 20, 13, 3, 6, 15, 12, 25, 14, 11, 0]
+Vector final: [18, 7, 9, 16, 4, 2, 22, 5, 19, 17, 0, 10, 24, 21, 8, 12, 6, 13, 3, 25, 1, 20, 15, 14, 11, 23]
+Empezamos con valor: 5888784
+Mejor valor: 5588354
+Tiempo de corrida: 10.7415130138
+Tiempo de ejecucion: 10.74153018
+Iteraciones: 555
+
+Corrida # 57
+Vector inicial: [1, 11, 16, 19, 20, 21, 22, 23, 25, 6, 7, 13, 15, 10, 14, 5, 2, 0, 17, 3, 24, 18, 9, 12, 4, 8]
+Vector final: [13, 19, 20, 21, 22, 16, 23, 5, 25, 10, 7, 6, 11, 24, 8, 14, 0, 18, 17, 9, 3, 2, 15, 12, 4, 1]
+Empezamos con valor: 5788425
+Mejor valor: 5578050
+Tiempo de corrida: 10.7393820286
+Tiempo de ejecucion: 10.7393898964
+Iteraciones: 559
+
+Corrida # 58
+Vector inicial: [1, 3, 6, 10, 11, 16, 17, 19, 21, 23, 24, 25, 18, 7, 9, 4, 8, 15, 2, 12, 5, 0, 14, 13, 22, 20]
+Vector final: [17, 3, 1, 25, 11, 24, 16, 21, 23, 10, 7, 18, 6, 20, 19, 15, 8, 2, 4, 14, 5, 22, 12, 13, 0, 9]
+Empezamos con valor: 5894933
+Mejor valor: 5549573
+Tiempo de corrida: 10.6823830605
+Tiempo de ejecucion: 10.6823940277
+Iteraciones: 556
+
+Corrida # 59
+Vector inicial: [0, 2, 3, 4, 5, 8, 9, 10, 11, 14, 17, 7, 23, 18, 20, 6, 13, 22, 24, 1, 21, 12, 25, 16, 15, 19]
+Vector final: [18, 2, 3, 5, 4, 8, 9, 10, 11, 20, 14, 17, 0, 7, 19, 22, 1, 6, 13, 25, 12, 21, 24, 16, 15, 23]
+Empezamos con valor: 5955082
+Mejor valor: 5627387
+Tiempo de corrida: 9.94437003136
+Tiempo de ejecucion: 9.94437789917
+Iteraciones: 520
+
+Corrida # 60
+Vector inicial: [1, 10, 11, 12, 16, 18, 25, 9, 21, 2, 17, 15, 0, 13, 4, 5, 20, 19, 6, 14, 3, 8, 24, 22, 23, 7]
+Vector final: [7, 11, 10, 16, 9, 12, 15, 21, 18, 17, 4, 2, 0, 13, 20, 5, 1, 19, 3, 14, 23, 24, 8, 6, 22, 25]
+Empezamos con valor: 5992377
+Mejor valor: 5569497
+Tiempo de corrida: 10.4614219666
+Tiempo de ejecucion: 10.4614310265
+Iteraciones: 546
+
+Corrida # 61
+Vector inicial: [0, 1, 3, 4, 11, 15, 16, 17, 22, 23, 25, 14, 21, 6, 9, 13, 12, 7, 5, 18, 24, 8, 20, 2, 10, 19]
+Vector final: [17, 23, 4, 21, 15, 25, 3, 6, 22, 11, 13, 14, 16, 1, 0, 12, 18, 8, 19, 5, 20, 24, 2, 10, 7, 9]
+Empezamos con valor: 5980151
+Mejor valor: 5528653
+Tiempo de corrida: 11.3297879696
+Tiempo de ejecucion: 11.3297970295
+Iteraciones: 582
+
+Corrida # 62
+Vector inicial: [1, 2, 6, 12, 13, 16, 18, 23, 25, 4, 3, 21, 0, 9, 7, 8, 20, 15, 14, 17, 19, 22, 5, 11, 10, 24]
+Vector final: [7, 2, 6, 12, 13, 16, 23, 18, 25, 4, 21, 3, 9, 0, 1, 24, 8, 20, 14, 17, 19, 22, 5, 11, 10, 15]
+Empezamos con valor: 5767173
+Mejor valor: 5603896
+Tiempo de corrida: 9.62451815605
+Tiempo de ejecucion: 9.62452602386
+Iteraciones: 517
+
+Corrida # 63
+Vector inicial: [1, 2, 4, 5, 6, 8, 11, 14, 15, 17, 18, 23, 12, 9, 19, 3, 0, 13, 21, 20, 10, 24, 22, 25, 16, 7]
+Vector final: [11, 15, 4, 2, 5, 8, 6, 1, 14, 3, 17, 18, 12, 23, 19, 7, 20, 13, 0, 21, 10, 16, 22, 25, 24, 9]
+Empezamos con valor: 5821463
+Mejor valor: 5606921
+Tiempo de corrida: 10.7400009632
+Tiempo de ejecucion: 10.7400090694
+Iteraciones: 558
+
+Corrida # 64
+Vector inicial: [4, 5, 6, 7, 13, 16, 17, 20, 21, 22, 23, 24, 12, 19, 18, 25, 10, 15, 3, 2, 11, 9, 8, 0, 14, 1]
+Vector final: [4, 7, 12, 16, 6, 13, 22, 21, 24, 17, 23, 20, 19, 5, 18, 1, 2, 3, 8, 9, 15, 10, 14, 0, 11, 25]
+Empezamos con valor: 6264382
+Mejor valor: 5604361
+Tiempo de corrida: 9.90954899788
+Tiempo de ejecucion: 9.90955781937
+Iteraciones: 523
+
+Corrida # 65
+Vector inicial: [1, 2, 5, 9, 13, 14, 22, 24, 21, 7, 10, 20, 8, 4, 16, 19, 23, 18, 6, 25, 15, 12, 3, 0, 11, 17]
+Vector final: [7, 14, 2, 9, 21, 13, 22, 5, 24, 10, 8, 4, 16, 1, 20, 12, 17, 18, 19, 6, 0, 15, 25, 3, 11, 23]
+Empezamos con valor: 5857655
+Mejor valor: 5496737
+Tiempo de corrida: 10.4232900143
+Tiempo de ejecucion: 10.4232981205
+Iteraciones: 542
+
+Corrida # 66
+Vector inicial: [0, 1, 6, 7, 11, 13, 17, 18, 25, 10, 20, 8, 24, 15, 5, 4, 19, 16, 2, 9, 21, 3, 23, 12, 14, 22]
+Vector final: [4, 5, 25, 24, 6, 10, 18, 13, 1, 17, 20, 8, 7, 11, 0, 16, 3, 2, 19, 22, 9, 21, 23, 14, 12, 15]
+Empezamos con valor: 5890981
+Mejor valor: 5490125
+Tiempo de corrida: 10.1254920959
+Tiempo de ejecucion: 10.1255018711
+Iteraciones: 532
+
+Corrida # 67
+Vector inicial: [2, 5, 9, 10, 15, 16, 17, 18, 23, 24, 13, 22, 7, 12, 20, 0, 1, 4, 14, 25, 21, 8, 11, 19, 3, 6]
+Vector final: [20, 9, 2, 16, 15, 10, 6, 24, 23, 18, 13, 17, 5, 7, 14, 22, 12, 0, 4, 21, 11, 25, 8, 19, 3, 1]
+Empezamos con valor: 5780479
+Mejor valor: 5594562
+Tiempo de corrida: 10.5108859539
+Tiempo de ejecucion: 10.5108950138
+Iteraciones: 544
+
+Corrida # 68
+Vector inicial: [2, 3, 4, 7, 8, 10, 14, 17, 18, 23, 25, 6, 12, 5, 13, 11, 16, 22, 15, 24, 19, 20, 0, 9, 21, 1]
+Vector final: [14, 16, 7, 4, 8, 2, 25, 3, 13, 17, 15, 18, 10, 12, 5, 22, 6, 19, 11, 1, 9, 24, 20, 0, 21, 23]
+Empezamos con valor: 6142368
+Mejor valor: 5625136
+Tiempo de corrida: 10.611495018
+Tiempo de ejecucion: 10.6115038395
+Iteraciones: 548
+
+Corrida # 69
+Vector inicial: [0, 3, 4, 6, 8, 9, 12, 20, 21, 22, 23, 7, 24, 15, 1, 17, 19, 10, 5, 13, 2, 11, 16, 25, 18, 14]
+Vector final: [13, 9, 4, 22, 14, 21, 12, 3, 6, 7, 8, 17, 15, 5, 0, 1, 11, 19, 20, 2, 25, 24, 23, 16, 18, 10]
+Empezamos con valor: 6134605
+Mejor valor: 5547698
+Tiempo de corrida: 11.3718099594
+Tiempo de ejecucion: 11.3718178272
+Iteraciones: 579
+
+Corrida # 70
+Vector inicial: [0, 2, 5, 7, 8, 14, 19, 20, 22, 24, 25, 10, 16, 6, 13, 3, 12, 17, 9, 11, 23, 15, 18, 1, 4, 21]
+Vector final: [3, 8, 16, 10, 7, 14, 24, 5, 22, 0, 19, 20, 6, 2, 13, 25, 12, 18, 17, 15, 23, 11, 9, 1, 4, 21]
+Empezamos con valor: 6012060
+Mejor valor: 5620983
+Tiempo de corrida: 10.3798151016
+Tiempo de ejecucion: 10.3798251152
+Iteraciones: 547
+
+Corrida # 71
+Vector inicial: [1, 2, 4, 7, 8, 15, 19, 20, 22, 23, 9, 14, 6, 18, 24, 25, 5, 11, 13, 10, 17, 3, 21, 12, 0, 16]
+Vector final: [22, 15, 4, 2, 19, 8, 14, 7, 1, 18, 17, 20, 23, 24, 25, 16, 5, 6, 13, 11, 21, 10, 3, 12, 0, 9]
+Empezamos con valor: 6068647
+Mejor valor: 5697115
+Tiempo de corrida: 10.8406639099
+Tiempo de ejecucion: 10.8406720161
+Iteraciones: 561
+
+Corrida # 72
+Vector inicial: [2, 4, 6, 8, 9, 11, 13, 16, 17, 18, 20, 25, 15, 12, 5, 14, 10, 21, 24, 7, 3, 23, 1, 19, 0, 22]
+Vector final: [10, 4, 6, 16, 8, 18, 11, 13, 9, 17, 20, 14, 15, 12, 2, 5, 7, 22, 19, 23, 24, 25, 1, 0, 3, 21]
+Empezamos con valor: 6093259
+Mejor valor: 5628163
+Tiempo de corrida: 10.4653811455
+Tiempo de ejecucion: 10.4653890133
+Iteraciones: 553
+
+Corrida # 73
+Vector inicial: [4, 6, 7, 9, 11, 15, 16, 19, 23, 25, 22, 18, 20, 17, 8, 13, 3, 5, 10, 14, 12, 21, 2, 0, 24, 1]
+Vector final: [4, 7, 20, 16, 23, 22, 9, 15, 25, 11, 19, 18, 6, 17, 8, 12, 1, 13, 3, 21, 10, 24, 14, 0, 2, 5]
+Empezamos con valor: 5934332
+Mejor valor: 5523554
+Tiempo de corrida: 10.3212931156
+Tiempo de ejecucion: 10.3213019371
+Iteraciones: 540
+
+Corrida # 74
+Vector inicial: [0, 1, 5, 8, 18, 19, 20, 21, 25, 10, 15, 2, 17, 23, 12, 11, 9, 14, 16, 4, 7, 13, 3, 22, 24, 6]
+Vector final: [25, 19, 23, 1, 18, 8, 21, 20, 15, 10, 2, 6, 5, 0, 17, 9, 7, 14, 4, 11, 3, 13, 16, 22, 24, 12]
+Empezamos con valor: 6216567
+Mejor valor: 5584470
+Tiempo de corrida: 10.5005431175
+Tiempo de ejecucion: 10.500551939
+Iteraciones: 549
+
+Corrida # 75
+Vector inicial: [0, 4, 8, 9, 11, 12, 14, 15, 17, 19, 21, 3, 23, 7, 18, 25, 22, 6, 10, 24, 16, 1, 20, 5, 13, 2]
+Vector final: [18, 4, 8, 23, 15, 12, 21, 2, 19, 11, 17, 14, 9, 3, 0, 22, 7, 25, 6, 24, 16, 20, 1, 5, 13, 10]
+Empezamos con valor: 5851683
+Mejor valor: 5627844
+Tiempo de corrida: 10.331692934
+Tiempo de ejecucion: 10.3317010403
+Iteraciones: 540
+
+Corrida # 76
+Vector inicial: [2, 5, 6, 7, 8, 9, 11, 19, 21, 22, 24, 25, 14, 18, 17, 10, 3, 4, 0, 23, 16, 20, 15, 12, 1, 13]
+Vector final: [18, 1, 8, 7, 11, 6, 22, 9, 21, 19, 17, 13, 10, 5, 14, 3, 2, 4, 0, 16, 15, 20, 23, 24, 12, 25]
+Empezamos con valor: 5844779
+Mejor valor: 5525062
+Tiempo de corrida: 10.3485100269
+Tiempo de ejecucion: 10.3485200405
+Iteraciones: 540
+
+Corrida # 77
+Vector inicial: [0, 7, 8, 11, 16, 17, 19, 20, 22, 23, 25, 4, 18, 13, 1, 5, 24, 2, 6, 9, 15, 21, 14, 12, 10, 3]
+Vector final: [13, 8, 25, 16, 7, 22, 23, 20, 19, 11, 4, 17, 0, 3, 18, 6, 2, 14, 1, 24, 9, 15, 21, 10, 12, 5]
+Empezamos con valor: 5740285
+Mejor valor: 5533971
+Tiempo de corrida: 10.2334849834
+Tiempo de ejecucion: 10.2334938049
+Iteraciones: 534
+
+Corrida # 78
+Vector inicial: [2, 3, 4, 18, 20, 21, 22, 23, 7, 19, 9, 8, 1, 12, 6, 10, 25, 5, 11, 17, 24, 0, 13, 16, 15, 14]
+Vector final: [2, 23, 4, 22, 6, 1, 7, 12, 18, 19, 20, 8, 21, 3, 14, 9, 5, 17, 11, 24, 0, 16, 10, 15, 13, 25]
+Empezamos con valor: 6194758
+Mejor valor: 5601546
+Tiempo de corrida: 10.5364320278
+Tiempo de ejecucion: 10.536438942
+Iteraciones: 547
+
+Corrida # 79
+Vector inicial: [0, 4, 6, 7, 8, 11, 13, 14, 18, 23, 15, 22, 21, 12, 24, 9, 17, 25, 16, 5, 3, 20, 10, 2, 19, 1]
+Vector final: [5, 8, 4, 9, 14, 21, 6, 22, 11, 18, 13, 23, 15, 7, 0, 12, 3, 1, 17, 10, 20, 2, 25, 16, 19, 24]
+Empezamos con valor: 6049208
+Mejor valor: 5660459
+Tiempo de corrida: 11.0778591633
+Tiempo de ejecucion: 11.0778670311
+Iteraciones: 568
+
+Corrida # 80
+Vector inicial: [1, 4, 6, 7, 9, 12, 16, 17, 18, 20, 22, 15, 0, 23, 11, 21, 25, 3, 13, 14, 19, 10, 5, 8, 24, 2]
+Vector final: [11, 4, 22, 12, 7, 9, 16, 6, 15, 17, 20, 0, 23, 5, 18, 2, 1, 13, 19, 10, 14, 3, 25, 24, 8, 21]
+Empezamos con valor: 5915613
+Mejor valor: 5631709
+Tiempo de corrida: 10.5660800934
+Tiempo de ejecucion: 10.5660879612
+Iteraciones: 554
+
+Corrida # 81
+Vector inicial: [3, 9, 13, 14, 17, 20, 21, 23, 15, 8, 6, 22, 5, 24, 12, 7, 11, 4, 25, 2, 10, 0, 16, 18, 19, 1]
+Vector final: [3, 14, 13, 23, 17, 9, 15, 20, 21, 8, 22, 6, 5, 24, 11, 1, 7, 4, 0, 10, 25, 16, 2, 18, 19, 12]
+Empezamos con valor: 5803440
+Mejor valor: 5613692
+Tiempo de corrida: 9.75429105759
+Tiempo de ejecucion: 9.75429916382
+Iteraciones: 517
+
+Corrida # 82
+Vector inicial: [1, 3, 5, 9, 14, 18, 19, 21, 23, 25, 8, 6, 0, 13, 20, 2, 7, 15, 24, 12, 22, 11, 4, 16, 17, 10]
+Vector final: [10, 3, 5, 23, 14, 21, 9, 6, 2, 19, 8, 18, 0, 13, 20, 1, 12, 7, 11, 16, 15, 24, 4, 22, 17, 25]
+Empezamos con valor: 6034986
+Mejor valor: 5647637
+Tiempo de corrida: 10.0454440117
+Tiempo de ejecucion: 10.0454521179
+Iteraciones: 529
+
+Corrida # 83
+Vector inicial: [0, 4, 5, 7, 8, 15, 16, 19, 20, 9, 17, 25, 14, 23, 1, 3, 21, 6, 13, 18, 11, 22, 12, 10, 2, 24]
+Vector final: [20, 7, 4, 23, 15, 5, 9, 17, 25, 8, 19, 14, 16, 21, 0, 1, 13, 11, 18, 3, 6, 2, 10, 22, 12, 24]
+Empezamos con valor: 5949096
+Mejor valor: 5646510
+Tiempo de corrida: 10.1888620853
+Tiempo de ejecucion: 10.1888699532
+Iteraciones: 526
+
+Corrida # 84
+Vector inicial: [5, 6, 8, 14, 15, 16, 18, 19, 22, 25, 17, 1, 7, 11, 13, 10, 12, 0, 21, 24, 23, 4, 9, 2, 3, 20]
+Vector final: [20, 15, 5, 16, 14, 25, 22, 8, 18, 17, 13, 19, 10, 6, 11, 21, 1, 0, 7, 9, 2, 24, 4, 23, 3, 12]
+Empezamos con valor: 6002621
+Mejor valor: 5649151
+Tiempo de corrida: 10.437333107
+Tiempo de ejecucion: 10.4373419285
+Iteraciones: 541
+
+Corrida # 85
+Vector inicial: [0, 2, 6, 11, 12, 14, 15, 16, 17, 19, 24, 25, 3, 4, 10, 18, 21, 20, 8, 5, 9, 13, 1, 22, 7, 23]
+Vector final: [2, 21, 12, 6, 11, 16, 24, 25, 14, 15, 10, 19, 3, 0, 17, 20, 8, 18, 4, 5, 1, 13, 9, 22, 7, 23]
+Empezamos con valor: 5855980
+Mejor valor: 5492454
+Tiempo de corrida: 10.1963050365
+Tiempo de ejecucion: 10.1963121891
+Iteraciones: 533
+
+Corrida # 86
+Vector inicial: [0, 3, 4, 6, 8, 9, 10, 13, 14, 17, 21, 23, 15, 12, 25, 5, 1, 24, 19, 11, 18, 22, 20, 2, 7, 16]
+Vector final: [0, 9, 6, 4, 3, 8, 23, 13, 21, 17, 10, 14, 12, 24, 20, 25, 1, 11, 18, 5, 19, 22, 16, 2, 7, 15]
+Empezamos con valor: 5960458
+Mejor valor: 5672796
+Tiempo de corrida: 10.3180711269
+Tiempo de ejecucion: 10.3180799484
+Iteraciones: 540
+
+Corrida # 87
+Vector inicial: [1, 2, 3, 4, 5, 6, 9, 15, 17, 25, 20, 16, 22, 0, 19, 24, 23, 12, 7, 8, 18, 11, 14, 10, 21, 13]
+Vector final: [25, 3, 2, 6, 5, 4, 16, 9, 20, 15, 17, 1, 22, 0, 19, 23, 24, 18, 8, 13, 10, 21, 7, 11, 14, 12]
+Empezamos con valor: 6030594
+Mejor valor: 5597824
+Tiempo de corrida: 9.93845391273
+Tiempo de ejecucion: 9.93846201897
+Iteraciones: 517
+
+Corrida # 88
+Vector inicial: [3, 4, 5, 9, 11, 14, 19, 20, 21, 22, 7, 8, 10, 2, 17, 16, 25, 23, 0, 6, 13, 12, 24, 15, 1, 18]
+Vector final: [3, 22, 11, 10, 21, 14, 9, 5, 20, 8, 19, 7, 2, 4, 17, 16, 23, 18, 0, 25, 6, 13, 12, 1, 24, 15]
+Empezamos con valor: 6150249
+Mejor valor: 5568203
+Tiempo de corrida: 10.1109619141
+Tiempo de ejecucion: 10.1110110283
+Iteraciones: 532
+
+Corrida # 89
+Vector inicial: [5, 8, 10, 11, 14, 16, 24, 18, 17, 4, 20, 7, 12, 9, 3, 25, 0, 1, 6, 21, 19, 15, 23, 13, 22, 2]
+Vector final: [1, 18, 10, 9, 11, 24, 16, 14, 20, 4, 17, 3, 12, 2, 8, 5, 6, 19, 0, 22, 21, 23, 25, 13, 15, 7]
+Empezamos con valor: 5911274
+Mejor valor: 5577766
+Tiempo de corrida: 10.5582079887
+Tiempo de ejecucion: 10.558216095
+Iteraciones: 549
+
+Corrida # 90
+Vector inicial: [7, 10, 11, 14, 16, 18, 19, 23, 25, 17, 9, 0, 6, 24, 8, 5, 12, 1, 15, 13, 22, 20, 4, 3, 21, 2]
+Vector final: [5, 11, 14, 16, 23, 10, 25, 18, 19, 17, 8, 2, 24, 6, 0, 12, 7, 13, 1, 15, 22, 20, 4, 3, 21, 9]
+Empezamos con valor: 6099657
+Mejor valor: 5679797
+Tiempo de corrida: 10.0266139507
+Tiempo de ejecucion: 10.0266218185
+Iteraciones: 529
+
+Corrida # 91
+Vector inicial: [0, 4, 9, 11, 12, 15, 18, 23, 24, 22, 3, 21, 5, 10, 17, 20, 7, 1, 25, 14, 13, 6, 16, 8, 19, 2]
+Vector final: [1, 11, 5, 2, 9, 15, 24, 4, 23, 7, 3, 17, 12, 10, 18, 21, 20, 14, 0, 6, 16, 25, 13, 19, 8, 22]
+Empezamos con valor: 6365078
+Mejor valor: 5616309
+Tiempo de corrida: 10.3682780266
+Tiempo de ejecucion: 10.3682870865
+Iteraciones: 536
+
+Corrida # 92
+Vector inicial: [8, 9, 12, 13, 14, 18, 19, 10, 2, 21, 25, 17, 1, 22, 24, 0, 11, 15, 3, 5, 4, 16, 23, 7, 6, 20]
+Vector final: [11, 14, 18, 9, 12, 13, 21, 10, 2, 25, 19, 8, 22, 1, 17, 15, 0, 3, 4, 16, 20, 23, 6, 7, 5, 24]
+Empezamos con valor: 6014515
+Mejor valor: 5593136
+Tiempo de corrida: 10.270157814
+Tiempo de ejecucion: 10.2701661587
+Iteraciones: 536
+
+Corrida # 93
+Vector inicial: [2, 3, 5, 14, 20, 21, 23, 24, 9, 17, 0, 15, 10, 4, 22, 25, 13, 7, 11, 8, 6, 16, 18, 1, 12, 19]
+Vector final: [19, 15, 14, 2, 3, 9, 23, 21, 5, 17, 0, 20, 24, 12, 4, 7, 13, 18, 8, 6, 10, 16, 1, 22, 11, 25]
+Empezamos con valor: 5799985
+Mejor valor: 5471218
+Tiempo de corrida: 11.1320660114
+Tiempo de ejecucion: 11.1320750713
+Iteraciones: 576
+
+Corrida # 94
+Vector inicial: [0, 2, 15, 17, 18, 19, 23, 24, 1, 14, 5, 4, 25, 3, 11, 6, 9, 22, 7, 8, 16, 20, 12, 10, 21, 13]
+Vector final: [13, 2, 23, 15, 19, 5, 1, 14, 24, 18, 17, 4, 25, 3, 11, 22, 7, 8, 0, 12, 16, 20, 10, 21, 6, 9]
+Empezamos con valor: 5925504
+Mejor valor: 5532377
+Tiempo de corrida: 10.5117537975
+Tiempo de ejecucion: 10.5117630959
+Iteraciones: 547
+
+Corrida # 95
+Vector inicial: [0, 2, 3, 7, 9, 23, 25, 11, 20, 1, 10, 14, 8, 21, 6, 16, 18, 17, 12, 19, 4, 22, 5, 24, 13, 15]
+Vector final: [8, 23, 3, 9, 25, 7, 15, 11, 1, 10, 20, 0, 21, 6, 2, 16, 18, 17, 19, 12, 4, 22, 5, 24, 13, 14]
+Empezamos con valor: 5920698
+Mejor valor: 5633646
+Tiempo de corrida: 10.1469659805
+Tiempo de ejecucion: 10.1469750404
+Iteraciones: 530
+
+Corrida # 96
+Vector inicial: [1, 9, 16, 18, 19, 20, 22, 25, 6, 0, 23, 3, 5, 2, 11, 12, 10, 14, 4, 13, 7, 8, 21, 15, 17, 24]
+Vector final: [6, 18, 9, 16, 25, 5, 22, 19, 23, 3, 0, 10, 20, 2, 1, 12, 11, 13, 4, 14, 21, 8, 7, 17, 15, 24]
+Empezamos con valor: 5948197
+Mejor valor: 5626174
+Tiempo de corrida: 9.80634188652
+Tiempo de ejecucion: 9.80635118484
+Iteraciones: 517
+
+Corrida # 97
+Vector inicial: [0, 2, 7, 8, 10, 19, 21, 25, 24, 1, 9, 5, 22, 16, 18, 17, 11, 14, 3, 12, 4, 6, 23, 20, 15, 13]
+Vector final: [18, 22, 7, 10, 19, 8, 9, 21, 24, 25, 11, 17, 5, 2, 1, 0, 14, 13, 4, 3, 12, 6, 23, 15, 20, 16]
+Empezamos con valor: 5948842
+Mejor valor: 5573750
+Tiempo de corrida: 9.91730499268
+Tiempo de ejecucion: 9.91731286049
+Iteraciones: 520
+
+Corrida # 98
+Vector inicial: [0, 1, 4, 5, 9, 13, 15, 22, 6, 20, 7, 12, 25, 2, 19, 23, 3, 10, 21, 24, 11, 14, 17, 18, 16, 8]
+Vector final: [8, 25, 4, 9, 5, 13, 22, 6, 12, 7, 20, 2, 19, 1, 0, 23, 11, 3, 18, 24, 10, 16, 21, 14, 17, 15]
+Empezamos con valor: 6085473
+Mejor valor: 5579842
+Tiempo de corrida: 10.4494111538
+Tiempo de ejecucion: 10.4494199753
+Iteraciones: 546
+
+Corrida # 99
+Vector inicial: [5, 6, 8, 9, 11, 17, 19, 1, 3, 21, 15, 2, 7, 22, 23, 13, 4, 25, 24, 0, 10, 20, 12, 18, 14, 16]
+Vector final: [22, 6, 23, 11, 17, 8, 1, 5, 15, 7, 19, 2, 9, 24, 3, 25, 0, 20, 4, 12, 10, 18, 16, 13, 14, 21]
+Empezamos con valor: 5947837
+Mejor valor: 5533089
+Tiempo de corrida: 10.5739519596
+Tiempo de ejecucion: 10.5739600658
+Iteraciones: 550
+
+
+Corrida GRASP 
+
+Corrida # 0
+Vector inicial: [1, 4, 5, 7, 9, 11, 12, 16, 19, 20, 22, 15, 23, 21, 0, 25, 3, 6, 14, 24, 10, 2, 13, 17, 18, 8]
+Vector final: [5, 16, 2, 23, 12, 14, 3, 8, 24, 9, 1, 22, 18, 7, 11, 20, 19, 17, 4, 6, 13, 25, 10, 21, 15, 0]
+Empezamos con valor: 6082308
+Mejor valor: 5583327
+Tiempo de corrida: 9.86675214767
+Tiempo de ejecucion: 9.86806797981
+Iteraciones: 500
+
+Corrida # 1
+Vector inicial: [5, 8, 9, 11, 15, 16, 17, 18, 25, 24, 3, 7, 14, 13, 0, 19, 12, 21, 20, 1, 23, 2, 22, 10, 4, 6]
+Vector final: [15, 16, 1, 23, 21, 25, 2, 22, 14, 24, 3, 5, 18, 13, 7, 19, 8, 20, 4, 6, 17, 9, 12, 11, 10, 0]
+Empezamos con valor: 5970562
+Mejor valor: 5560967
+Tiempo de corrida: 10.8425779343
+Tiempo de ejecucion: 10.8437409401
+Iteraciones: 543
+
+Corrida # 2
+Vector inicial: [3, 8, 9, 10, 12, 13, 15, 17, 18, 24, 25, 6, 14, 5, 20, 1, 23, 11, 22, 7, 21, 4, 0, 19, 16, 2]
+Vector final: [5, 16, 25, 23, 11, 2, 21, 15, 9, 3, 13, 19, 17, 8, 22, 6, 18, 4, 20, 7, 1, 12, 14, 24, 10, 0]
+Empezamos con valor: 5970052
+Mejor valor: 5550847
+Tiempo de corrida: 9.93433403969
+Tiempo de ejecucion: 9.93549203873
+Iteraciones: 506
+
+Corrida # 3
+Vector inicial: [5, 9, 13, 14, 15, 16, 17, 18, 21, 23, 22, 1, 0, 6, 3, 20, 12, 2, 8, 4, 24, 11, 25, 7, 19, 10]
+Vector final: [16, 11, 21, 9, 22, 23, 18, 6, 8, 7, 3, 15, 12, 5, 2, 24, 4, 14, 20, 19, 13, 10, 17, 1, 25, 0]
+Empezamos con valor: 5967868
+Mejor valor: 5622374
+Tiempo de corrida: 10.2517108917
+Tiempo de ejecucion: 10.2528700829
+Iteraciones: 509
+
+Corrida # 4
+Vector inicial: [3, 4, 5, 10, 11, 13, 15, 17, 25, 8, 12, 2, 19, 14, 21, 0, 6, 7, 1, 22, 16, 18, 20, 23, 24, 9]
+Vector final: [15, 16, 23, 9, 10, 21, 2, 11, 24, 5, 6, 19, 17, 13, 12, 22, 4, 14, 8, 7, 20, 18, 3, 1, 25, 0]
+Empezamos con valor: 5777486
+Mejor valor: 5595286
+Tiempo de corrida: 10.2604019642
+Tiempo de ejecucion: 10.261644125
+Iteraciones: 516
+
+Corrida # 5
+Vector inicial: [0, 1, 4, 5, 9, 12, 19, 20, 22, 10, 16, 24, 17, 2, 6, 14, 15, 23, 21, 11, 25, 13, 7, 8, 18, 3]
+Vector final: [16, 2, 15, 3, 13, 23, 22, 7, 24, 6, 10, 8, 20, 5, 1, 14, 19, 18, 4, 11, 9, 21, 12, 17, 25, 0]
+Empezamos con valor: 6297757
+Mejor valor: 5612610
+Tiempo de corrida: 10.4259650707
+Tiempo de ejecucion: 10.4271361828
+Iteraciones: 520
+
+Corrida # 6
+Vector inicial: [1, 3, 4, 11, 14, 17, 18, 20, 24, 10, 7, 5, 0, 16, 6, 21, 8, 22, 19, 2, 9, 13, 12, 25, 15, 23]
+Vector final: [15, 5, 16, 9, 23, 25, 2, 6, 24, 1, 3, 8, 4, 18, 7, 21, 19, 13, 17, 11, 10, 20, 12, 22, 14, 0]
+Empezamos con valor: 5992332
+Mejor valor: 5577709
+Tiempo de corrida: 14.414277792
+Tiempo de ejecucion: 14.4154458046
+Iteraciones: 736
+
+Corrida # 7
+Vector inicial: [1, 2, 6, 9, 10, 11, 12, 23, 24, 18, 19, 5, 25, 21, 22, 0, 20, 17, 16, 3, 4, 8, 15, 7, 13, 14]
+Vector final: [5, 23, 9, 24, 11, 10, 16, 18, 2, 6, 13, 4, 3, 17, 22, 15, 8, 14, 19, 12, 21, 7, 25, 1, 20, 0]
+Empezamos con valor: 6069759
+Mejor valor: 5575067
+Tiempo de corrida: 12.889772892
+Tiempo de ejecucion: 12.8909409046
+Iteraciones: 654
+
+Corrida # 8
+Vector inicial: [7, 9, 10, 13, 15, 18, 19, 20, 21, 24, 6, 11, 16, 25, 4, 1, 8, 3, 5, 12, 23, 14, 0, 2, 17, 22]
+Vector final: [0, 2, 9, 23, 15, 12, 13, 25, 10, 1, 4, 18, 8, 7, 5, 21, 11, 19, 3, 14, 6, 20, 24, 22, 17, 16]
+Empezamos con valor: 5916002
+Mejor valor: 5545947
+Tiempo de corrida: 10.0011920929
+Tiempo de ejecucion: 10.0024111271
+Iteraciones: 506
+
+Corrida # 9
+Vector inicial: [1, 2, 4, 17, 18, 19, 22, 9, 25, 24, 23, 20, 0, 12, 6, 13, 8, 3, 10, 11, 15, 21, 16, 5, 14, 7]
+Vector final: [2, 24, 5, 9, 3, 23, 16, 11, 10, 8, 13, 4, 17, 6, 12, 25, 1, 20, 18, 19, 21, 22, 14, 15, 7, 0]
+Empezamos con valor: 5863508
+Mejor valor: 5587071
+Tiempo de corrida: 10.0671370029
+Tiempo de ejecucion: 10.068308115
+Iteraciones: 508
+
+Corrida # 10
+Vector inicial: [1, 4, 6, 7, 10, 11, 13, 15, 19, 22, 23, 25, 17, 21, 24, 9, 18, 16, 5, 12, 0, 3, 14, 20, 2, 8]
+Vector final: [2, 19, 21, 9, 6, 14, 16, 23, 1, 8, 18, 5, 7, 25, 15, 20, 4, 17, 13, 11, 24, 22, 12, 3, 10, 0]
+Empezamos con valor: 5997022
+Mejor valor: 5567184
+Tiempo de corrida: 9.79425883293
+Tiempo de ejecucion: 9.79544901848
+Iteraciones: 500
+
+Corrida # 11
+Vector inicial: [2, 6, 9, 11, 18, 22, 24, 25, 17, 23, 20, 19, 1, 15, 7, 10, 8, 5, 21, 3, 4, 13, 0, 16, 12, 14]
+Vector final: [15, 7, 5, 9, 22, 19, 16, 2, 24, 1, 17, 23, 18, 8, 21, 14, 20, 13, 4, 11, 3, 25, 6, 10, 12, 0]
+Empezamos con valor: 6177902
+Mejor valor: 5558665
+Tiempo de corrida: 16.6333301067
+Tiempo de ejecucion: 16.6345059872
+Iteraciones: 847
+
+Corrida # 12
+Vector inicial: [3, 4, 5, 8, 10, 11, 14, 21, 22, 24, 1, 0, 13, 7, 9, 16, 18, 25, 23, 12, 17, 2, 6, 15, 19, 20]
+Vector final: [13, 15, 9, 22, 1, 23, 16, 8, 24, 2, 18, 6, 19, 3, 12, 5, 17, 20, 4, 25, 11, 14, 10, 7, 21, 0]
+Empezamos con valor: 6098657
+Mejor valor: 5561347
+Tiempo de corrida: 11.339977026
+Tiempo de ejecucion: 11.3411409855
+Iteraciones: 574
+
+Corrida # 13
+Vector inicial: [4, 5, 7, 8, 10, 18, 24, 12, 20, 6, 21, 22, 3, 2, 14, 15, 19, 0, 9, 25, 17, 16, 13, 1, 23, 11]
+Vector final: [1, 15, 23, 9, 3, 22, 16, 2, 24, 8, 19, 18, 4, 13, 10, 14, 7, 20, 17, 12, 25, 5, 21, 11, 6, 0]
+Empezamos con valor: 6176861
+Mejor valor: 5546826
+Tiempo de corrida: 10.3207108974
+Tiempo de ejecucion: 10.3218889236
+Iteraciones: 519
+
+Corrida # 14
+Vector inicial: [4, 6, 9, 10, 11, 12, 16, 21, 23, 1, 19, 7, 13, 25, 15, 18, 3, 8, 14, 2, 22, 20, 0, 24, 17, 5]
+Vector final: [16, 2, 1, 9, 6, 21, 23, 15, 24, 7, 17, 8, 19, 14, 5, 25, 18, 13, 4, 12, 22, 3, 20, 11, 10, 0]
+Empezamos con valor: 5773630
+Mejor valor: 5544424
+Tiempo de corrida: 18.4213359356
+Tiempo de ejecucion: 18.4224939346
+Iteraciones: 944
+
+Corrida # 15
+Vector inicial: [4, 6, 7, 8, 12, 16, 19, 20, 23, 15, 14, 0, 2, 5, 22, 25, 9, 11, 24, 1, 10, 13, 18, 3, 17, 21]
+Vector final: [18, 16, 9, 5, 7, 23, 15, 2, 24, 20, 3, 4, 17, 8, 10, 21, 19, 13, 11, 25, 14, 12, 1, 6, 22, 0]
+Empezamos con valor: 6188697
+Mejor valor: 5577011
+Tiempo de corrida: 16.856221199
+Tiempo de ejecucion: 16.8573958874
+Iteraciones: 857
+
+Corrida # 16
+Vector inicial: [1, 2, 6, 7, 9, 15, 16, 24, 25, 13, 21, 23, 8, 17, 4, 18, 5, 3, 10, 0, 12, 19, 11, 20, 14, 22]
+Vector final: [21, 2, 9, 16, 11, 23, 15, 20, 24, 1, 13, 19, 10, 3, 22, 6, 8, 4, 17, 12, 25, 7, 5, 18, 14, 0]
+Empezamos con valor: 6036715
+Mejor valor: 5581179
+Tiempo de corrida: 11.9885451794
+Tiempo de ejecucion: 11.989716053
+Iteraciones: 608
+
+Corrida # 17
+Vector inicial: [0, 1, 2, 3, 10, 12, 16, 17, 19, 24, 25, 11, 4, 6, 8, 7, 20, 14, 21, 22, 23, 18, 5, 13, 15, 9]
+Vector final: [11, 24, 23, 9, 21, 20, 16, 2, 1, 5, 10, 3, 22, 6, 18, 12, 8, 4, 19, 25, 7, 13, 17, 15, 14, 0]
+Empezamos con valor: 5964302
+Mejor valor: 5566832
+Tiempo de corrida: 9.98840308189
+Tiempo de ejecucion: 9.98957705498
+Iteraciones: 502
+
+Corrida # 18
+Vector inicial: [6, 7, 12, 14, 17, 19, 21, 22, 23, 13, 5, 9, 1, 8, 15, 18, 10, 16, 20, 4, 0, 25, 3, 11, 2, 24]
+Vector final: [8, 23, 1, 9, 24, 19, 16, 15, 6, 5, 7, 11, 13, 2, 12, 3, 17, 4, 14, 21, 18, 25, 20, 10, 22, 0]
+Empezamos con valor: 6112223
+Mejor valor: 5628651
+Tiempo de corrida: 10.2605659962
+Tiempo de ejecucion: 10.2617340088
+Iteraciones: 519
+
+Corrida # 19
+Vector inicial: [0, 1, 2, 6, 8, 18, 22, 23, 24, 21, 11, 19, 12, 15, 7, 14, 9, 13, 3, 20, 4, 16, 25, 5, 10, 17]
+Vector final: [12, 23, 21, 16, 2, 8, 15, 20, 6, 10, 7, 17, 19, 3, 18, 9, 11, 4, 5, 22, 13, 24, 1, 25, 14, 0]
+Empezamos con valor: 5969898
+Mejor valor: 5576971
+Tiempo de corrida: 12.2092900276
+Tiempo de ejecucion: 12.2104618549
+Iteraciones: 612
+
+Corrida # 20
+Vector inicial: [0, 2, 3, 5, 7, 8, 9, 11, 18, 20, 22, 6, 17, 25, 24, 12, 21, 23, 13, 15, 16, 4, 19, 10, 14, 1]
+Vector final: [17, 15, 25, 16, 2, 8, 23, 6, 24, 20, 5, 3, 11, 22, 9, 21, 10, 19, 4, 1, 14, 18, 12, 13, 7, 0]
+Empezamos con valor: 5996686
+Mejor valor: 5630354
+Tiempo de corrida: 9.87282514572
+Tiempo de ejecucion: 9.87399220467
+Iteraciones: 500
+
+Corrida # 21
+Vector inicial: [11, 13, 14, 17, 18, 20, 21, 22, 24, 25, 6, 7, 4, 10, 2, 15, 16, 3, 5, 19, 9, 23, 8, 1, 0, 12]
+Vector final: [15, 6, 9, 23, 16, 24, 5, 2, 1, 19, 11, 7, 13, 17, 18, 20, 8, 4, 3, 21, 12, 10, 25, 22, 14, 0]
+Empezamos con valor: 6075874
+Mejor valor: 5548377
+Tiempo de corrida: 10.6573059559
+Tiempo de ejecucion: 10.6584699154
+Iteraciones: 532
+
+Corrida # 22
+Vector inicial: [2, 3, 7, 9, 11, 16, 17, 18, 20, 21, 19, 0, 5, 14, 10, 22, 15, 25, 23, 13, 12, 1, 6, 24, 4, 8]
+Vector final: [18, 15, 1, 9, 21, 2, 16, 22, 14, 3, 13, 20, 17, 6, 7, 25, 8, 19, 4, 12, 24, 23, 10, 11, 5, 0]
+Empezamos con valor: 5995993
+Mejor valor: 5505797
+Tiempo de corrida: 18.251953125
+Tiempo de ejecucion: 18.2531130314
+Iteraciones: 926
+
+Corrida # 23
+Vector inicial: [2, 5, 9, 13, 17, 19, 24, 25, 22, 20, 23, 3, 15, 10, 16, 0, 18, 6, 4, 8, 1, 7, 11, 21, 14, 12]
+Vector final: [15, 21, 9, 16, 12, 23, 14, 2, 24, 1, 3, 18, 19, 11, 7, 5, 20, 17, 4, 10, 22, 6, 13, 25, 8, 0]
+Empezamos con valor: 5779082
+Mejor valor: 5548697
+Tiempo de corrida: 15.8554878235
+Tiempo de ejecucion: 15.8566608429
+Iteraciones: 793
+
+Corrida # 24
+Vector inicial: [7, 9, 10, 11, 12, 13, 18, 20, 22, 24, 5, 8, 0, 15, 3, 21, 6, 2, 17, 1, 4, 25, 14, 16, 23, 19]
+Vector final: [11, 12, 16, 23, 1, 5, 15, 20, 24, 9, 2, 17, 8, 13, 3, 14, 7, 4, 19, 21, 18, 10, 22, 25, 6, 0]
+Empezamos con valor: 5886517
+Mejor valor: 5562893
+Tiempo de corrida: 19.4979801178
+Tiempo de ejecucion: 19.4991669655
+Iteraciones: 985
+
+Corrida # 25
+Vector inicial: [7, 8, 9, 12, 13, 15, 16, 17, 19, 23, 24, 2, 4, 14, 6, 25, 10, 0, 11, 18, 1, 3, 20, 21, 5, 22]
+Vector final: [23, 13, 21, 16, 11, 2, 15, 8, 9, 5, 3, 18, 6, 19, 1, 24, 4, 20, 17, 7, 12, 10, 22, 25, 14, 0]
+Empezamos con valor: 5972541
+Mejor valor: 5523058
+Tiempo de corrida: 27.945045948
+Tiempo de ejecucion: 27.9462039471
+Iteraciones: 1417
+
+Corrida # 26
+Vector inicial: [5, 7, 8, 11, 19, 20, 21, 22, 1, 9, 3, 10, 14, 2, 13, 16, 18, 17, 12, 23, 0, 15, 25, 24, 4, 6]
+Vector final: [0, 1, 15, 9, 23, 13, 16, 14, 2, 18, 4, 24, 19, 8, 7, 22, 12, 21, 3, 25, 10, 6, 20, 5, 11, 17]
+Empezamos con valor: 5883387
+Mejor valor: 5607982
+Tiempo de corrida: 9.82674884796
+Tiempo de ejecucion: 9.82791090012
+Iteraciones: 500
+
+Corrida # 27
+Vector inicial: [2, 6, 8, 10, 11, 12, 15, 17, 21, 22, 23, 24, 25, 5, 20, 19, 3, 7, 4, 13, 18, 9, 16, 14, 0, 1]
+Vector final: [16, 7, 21, 23, 10, 2, 15, 6, 24, 8, 11, 3, 20, 13, 12, 14, 4, 9, 19, 18, 25, 22, 5, 17, 1, 0]
+Empezamos con valor: 5888119
+Mejor valor: 5593784
+Tiempo de corrida: 18.7406511307
+Tiempo de ejecucion: 18.7418100834
+Iteraciones: 948
+
+Corrida # 28
+Vector inicial: [1, 3, 7, 8, 11, 15, 18, 21, 23, 16, 17, 19, 22, 24, 12, 0, 2, 9, 5, 25, 4, 13, 14, 6, 20, 10]
+Vector final: [22, 3, 23, 15, 19, 9, 16, 8, 24, 6, 11, 12, 4, 13, 21, 7, 20, 17, 18, 5, 1, 10, 2, 25, 14, 0]
+Empezamos con valor: 6284007
+Mejor valor: 5554205
+Tiempo de corrida: 12.2596790791
+Tiempo de ejecucion: 12.2608470917
+Iteraciones: 622
+
+Corrida # 29
+Vector inicial: [0, 1, 2, 4, 6, 8, 14, 17, 23, 25, 13, 24, 15, 22, 18, 3, 10, 11, 12, 7, 21, 5, 20, 9, 19, 16]
+Vector final: [16, 23, 5, 9, 6, 2, 15, 1, 24, 20, 3, 17, 22, 8, 7, 14, 18, 13, 4, 19, 11, 12, 21, 10, 25, 0]
+Empezamos con valor: 5949354
+Mejor valor: 5584067
+Tiempo de corrida: 11.5508470535
+Tiempo de ejecucion: 11.5520141125
+Iteraciones: 588
+
+Corrida # 30
+Vector inicial: [1, 2, 6, 8, 10, 13, 16, 17, 19, 23, 24, 12, 22, 21, 11, 20, 5, 14, 15, 0, 4, 9, 25, 7, 18, 3]
+Vector final: [13, 3, 10, 6, 1, 23, 16, 12, 9, 24, 7, 19, 18, 25, 15, 20, 4, 5, 8, 11, 2, 21, 22, 17, 14, 0]
+Empezamos con valor: 6071447
+Mejor valor: 5567397
+Tiempo de corrida: 13.8811590672
+Tiempo de ejecucion: 13.8823099136
+Iteraciones: 702
+
+Corrida # 31
+Vector inicial: [0, 4, 5, 6, 9, 12, 13, 14, 15, 18, 23, 20, 11, 24, 25, 7, 2, 21, 3, 19, 16, 1, 8, 22, 10, 17]
+Vector final: [18, 21, 5, 9, 15, 8, 16, 23, 24, 2, 3, 19, 20, 11, 7, 22, 17, 4, 14, 12, 1, 10, 13, 6, 25, 0]
+Empezamos con valor: 5892676
+Mejor valor: 5574640
+Tiempo de corrida: 10.583160162
+Tiempo de ejecucion: 10.5843241215
+Iteraciones: 536
+
+Corrida # 32
+Vector inicial: [2, 3, 5, 8, 11, 13, 15, 17, 18, 20, 1, 14, 10, 0, 21, 9, 23, 16, 6, 19, 4, 24, 22, 25, 12, 7]
+Vector final: [15, 5, 2, 9, 12, 18, 16, 22, 23, 1, 6, 8, 17, 4, 24, 7, 14, 19, 13, 11, 21, 3, 25, 10, 20, 0]
+Empezamos con valor: 5942528
+Mejor valor: 5592755
+Tiempo de corrida: 10.9781548977
+Tiempo de ejecucion: 10.9793138504
+Iteraciones: 551
+
+Corrida # 33
+Vector inicial: [1, 6, 13, 15, 18, 19, 21, 24, 7, 2, 4, 0, 17, 9, 5, 20, 16, 22, 12, 8, 11, 3, 25, 23, 14, 10]
+Vector final: [13, 1, 23, 9, 5, 7, 16, 15, 24, 10, 18, 19, 20, 3, 2, 14, 8, 11, 4, 17, 21, 6, 12, 22, 25, 0]
+Empezamos con valor: 5994110
+Mejor valor: 5565086
+Tiempo de corrida: 15.7539708614
+Tiempo de ejecucion: 15.7551310062
+Iteraciones: 795
+
+Corrida # 34
+Vector inicial: [0, 1, 2, 3, 4, 6, 7, 12, 14, 17, 18, 21, 9, 5, 22, 24, 16, 11, 15, 23, 13, 19, 20, 25, 8, 10]
+Vector final: [18, 15, 8, 24, 20, 23, 16, 1, 2, 19, 6, 14, 17, 11, 7, 9, 4, 13, 25, 21, 3, 5, 10, 22, 12, 0]
+Empezamos con valor: 6014179
+Mejor valor: 5602918
+Tiempo de corrida: 11.3239459991
+Tiempo de ejecucion: 11.3251199722
+Iteraciones: 576
+
+Corrida # 35
+Vector inicial: [1, 2, 7, 10, 12, 15, 22, 25, 3, 0, 21, 18, 8, 4, 13, 16, 23, 11, 20, 24, 5, 14, 9, 6, 19, 17]
+Vector final: [11, 23, 21, 15, 6, 24, 16, 2, 22, 1, 3, 4, 18, 8, 25, 20, 19, 13, 17, 5, 10, 12, 9, 7, 14, 0]
+Empezamos con valor: 5811207
+Mejor valor: 5537201
+Tiempo de corrida: 12.4666810036
+Tiempo de ejecucion: 12.4678549767
+Iteraciones: 630
+
+Corrida # 36
+Vector inicial: [5, 7, 9, 12, 16, 19, 21, 22, 23, 24, 4, 11, 1, 17, 2, 20, 13, 8, 6, 18, 3, 15, 14, 0, 25, 10]
+Vector final: [0, 15, 2, 16, 14, 21, 23, 3, 12, 19, 8, 20, 4, 11, 10, 13, 5, 18, 25, 24, 22, 9, 1, 6, 17, 7]
+Empezamos con valor: 5774996
+Mejor valor: 5564632
+Tiempo de corrida: 9.90979003906
+Tiempo de ejecucion: 9.91095399857
+Iteraciones: 502
+
+Corrida # 37
+Vector inicial: [0, 5, 6, 9, 13, 14, 17, 25, 22, 1, 12, 24, 15, 8, 16, 21, 10, 4, 11, 7, 23, 20, 3, 18, 2, 19]
+Vector final: [7, 10, 15, 24, 25, 23, 16, 2, 9, 6, 13, 17, 18, 19, 21, 14, 4, 1, 8, 22, 11, 5, 3, 12, 20, 0]
+Empezamos con valor: 5871106
+Mejor valor: 5524525
+Tiempo de corrida: 9.93982505798
+Tiempo de ejecucion: 9.94098901749
+Iteraciones: 505
+
+Corrida # 38
+Vector inicial: [1, 4, 5, 6, 14, 15, 19, 21, 25, 13, 24, 2, 3, 9, 23, 12, 8, 0, 17, 10, 18, 11, 22, 7, 16, 20]
+Vector final: [0, 9, 23, 2, 15, 12, 5, 20, 24, 7, 6, 13, 4, 17, 1, 11, 19, 8, 3, 21, 18, 14, 25, 22, 10, 16]
+Empezamos con valor: 5926603
+Mejor valor: 5582762
+Tiempo de corrida: 10.5526089668
+Tiempo de ejecucion: 10.5537719727
+Iteraciones: 531
+
+Corrida # 39
+Vector inicial: [0, 6, 7, 8, 10, 11, 16, 17, 20, 21, 22, 24, 25, 9, 19, 15, 2, 3, 5, 1, 13, 23, 12, 14, 18, 4]
+Vector final: [24, 5, 16, 9, 10, 2, 23, 15, 6, 20, 8, 13, 19, 17, 7, 22, 4, 18, 3, 25, 12, 1, 21, 11, 14, 0]
+Empezamos con valor: 6018842
+Mejor valor: 5542822
+Tiempo de corrida: 11.4036080837
+Tiempo de ejecucion: 11.4047641754
+Iteraciones: 580
+
+Corrida # 40
+Vector inicial: [2, 7, 10, 14, 15, 21, 22, 23, 13, 1, 19, 25, 9, 3, 6, 12, 18, 8, 0, 4, 17, 16, 11, 24, 5, 20]
+Vector final: [25, 2, 5, 24, 3, 23, 16, 18, 22, 10, 13, 4, 17, 19, 15, 7, 14, 6, 1, 9, 20, 12, 21, 11, 8, 0]
+Empezamos con valor: 5982693
+Mejor valor: 5599577
+Tiempo de corrida: 10.7230498791
+Tiempo de ejecucion: 10.7242400646
+Iteraciones: 542
+
+Corrida # 41
+Vector inicial: [6, 7, 13, 17, 18, 22, 23, 24, 11, 3, 20, 0, 12, 2, 10, 4, 1, 9, 14, 25, 8, 19, 15, 16, 21, 5]
+Vector final: [25, 17, 23, 5, 20, 24, 16, 1, 2, 11, 13, 22, 8, 18, 10, 14, 6, 19, 4, 7, 12, 15, 9, 21, 3, 0]
+Empezamos con valor: 5945666
+Mejor valor: 5533848
+Tiempo de corrida: 14.6564369202
+Tiempo de ejecucion: 14.6576080322
+Iteraciones: 749
+
+Corrida # 42
+Vector inicial: [0, 1, 3, 5, 9, 10, 13, 17, 18, 19, 20, 21, 15, 8, 24, 11, 7, 25, 16, 2, 6, 12, 23, 22, 4, 14]
+Vector final: [0, 23, 25, 21, 10, 19, 16, 2, 24, 1, 8, 20, 17, 15, 22, 5, 12, 13, 4, 6, 7, 18, 11, 3, 9, 14]
+Empezamos con valor: 6093883
+Mejor valor: 5598775
+Tiempo de corrida: 9.91474890709
+Tiempo de ejecucion: 9.91591000557
+Iteraciones: 504
+
+Corrida # 43
+Vector inicial: [1, 2, 3, 4, 6, 7, 10, 11, 16, 21, 22, 23, 13, 18, 0, 24, 5, 14, 9, 12, 25, 20, 19, 15, 8, 17]
+Vector final: [19, 23, 16, 9, 2, 7, 15, 22, 24, 21, 6, 18, 13, 3, 14, 20, 8, 1, 4, 5, 11, 17, 25, 12, 10, 0]
+Empezamos con valor: 6010250
+Mejor valor: 5601161
+Tiempo de corrida: 11.2427799702
+Tiempo de ejecucion: 11.2439529896
+Iteraciones: 569
+
+Corrida # 44
+Vector inicial: [3, 8, 9, 12, 13, 17, 24, 11, 1, 20, 10, 15, 22, 19, 5, 7, 18, 21, 6, 23, 0, 4, 25, 2, 14, 16]
+Vector final: [21, 18, 16, 9, 7, 2, 15, 1, 19, 8, 3, 23, 4, 11, 10, 5, 14, 17, 13, 6, 12, 24, 25, 22, 20, 0]
+Empezamos con valor: 5998306
+Mejor valor: 5603704
+Tiempo de corrida: 9.81164193153
+Tiempo de ejecucion: 9.81280994415
+Iteraciones: 501
+
+Corrida # 45
+Vector inicial: [0, 1, 3, 8, 10, 13, 19, 21, 25, 24, 6, 22, 5, 12, 2, 9, 23, 15, 11, 18, 16, 17, 4, 20, 7, 14]
+Vector final: [22, 15, 25, 16, 5, 23, 2, 8, 1, 24, 19, 3, 17, 11, 6, 14, 4, 9, 13, 12, 10, 21, 18, 7, 20, 0]
+Empezamos con valor: 6250108
+Mejor valor: 5537959
+Tiempo de corrida: 9.80357789993
+Tiempo de ejecucion: 9.80474209785
+Iteraciones: 500
+
+Corrida # 46
+Vector inicial: [1, 2, 3, 5, 7, 12, 14, 15, 16, 21, 23, 25, 11, 17, 18, 8, 4, 19, 9, 24, 0, 13, 6, 22, 10, 20]
+Vector final: [0, 16, 23, 1, 19, 11, 2, 18, 24, 3, 4, 8, 20, 7, 10, 25, 21, 9, 5, 14, 6, 12, 15, 22, 13, 17]
+Empezamos con valor: 5818136
+Mejor valor: 5605205
+Tiempo de corrida: 9.81256914139
+Tiempo de ejecucion: 9.81373405457
+Iteraciones: 500
+
+Corrida # 47
+Vector inicial: [2, 3, 4, 7, 11, 12, 14, 15, 25, 5, 22, 8, 16, 13, 18, 1, 21, 17, 23, 20, 24, 9, 0, 6, 19, 10]
+Vector final: [23, 16, 0, 9, 21, 2, 5, 15, 24, 3, 20, 13, 4, 8, 19, 12, 17, 18, 11, 10, 25, 14, 7, 1, 6, 22]
+Empezamos con valor: 6004869
+Mejor valor: 5559526
+Tiempo de corrida: 11.1263298988
+Tiempo de ejecucion: 11.1274888515
+Iteraciones: 564
+
+Corrida # 48
+Vector inicial: [1, 3, 7, 11, 13, 18, 19, 20, 21, 24, 9, 25, 6, 22, 2, 15, 12, 0, 8, 5, 14, 16, 23, 10, 17, 4]
+Vector final: [20, 15, 23, 12, 1, 2, 22, 16, 24, 17, 3, 6, 4, 18, 14, 21, 13, 8, 11, 7, 25, 9, 5, 10, 19, 0]
+Empezamos con valor: 5962126
+Mejor valor: 5596112
+Tiempo de corrida: 9.77180314064
+Tiempo de ejecucion: 9.7729678154
+Iteraciones: 500
+
+Corrida # 49
+Vector inicial: [1, 9, 10, 11, 16, 19, 22, 25, 24, 18, 6, 23, 2, 15, 5, 20, 21, 17, 0, 13, 14, 12, 7, 3, 4, 8]
+Vector final: [10, 16, 9, 21, 25, 23, 2, 20, 24, 1, 18, 13, 8, 19, 12, 5, 4, 6, 17, 15, 11, 7, 22, 3, 14, 0]
+Empezamos con valor: 5981311
+Mejor valor: 5531274
+Tiempo de corrida: 18.6893470287
+Tiempo de ejecucion: 18.6905260086
+Iteraciones: 948
+
+Corrida # 50
+Vector inicial: [5, 7, 10, 15, 16, 17, 20, 23, 25, 8, 18, 22, 6, 0, 21, 2, 19, 3, 4, 11, 13, 9, 14, 1, 12, 24]
+Vector final: [19, 5, 15, 9, 25, 22, 16, 23, 24, 2, 6, 3, 14, 17, 12, 10, 11, 4, 8, 21, 18, 7, 1, 13, 20, 0]
+Empezamos con valor: 5741766
+Mejor valor: 5592350
+Tiempo de corrida: 13.2899911404
+Tiempo de ejecucion: 13.2911579609
+Iteraciones: 677
+
+Corrida # 51
+Vector inicial: [1, 2, 3, 8, 13, 14, 15, 16, 21, 19, 23, 5, 12, 11, 20, 6, 7, 0, 25, 17, 9, 22, 4, 24, 10, 18]
+Vector final: [25, 16, 9, 15, 2, 7, 23, 3, 24, 8, 17, 20, 10, 12, 1, 21, 18, 14, 4, 11, 22, 19, 13, 6, 5, 0]
+Empezamos con valor: 6258800
+Mejor valor: 5620709
+Tiempo de corrida: 10.6610438824
+Tiempo de ejecucion: 10.6622109413
+Iteraciones: 538
+
+Corrida # 52
+Vector inicial: [4, 5, 8, 10, 12, 20, 21, 23, 24, 11, 1, 17, 22, 25, 3, 2, 14, 15, 7, 9, 6, 16, 0, 18, 19, 13]
+Vector final: [19, 1, 9, 16, 6, 14, 23, 4, 24, 5, 3, 13, 8, 17, 7, 22, 18, 2, 20, 21, 25, 15, 12, 11, 10, 0]
+Empezamos con valor: 5963100
+Mejor valor: 5568184
+Tiempo de corrida: 9.78560996056
+Tiempo de ejecucion: 9.78677988052
+Iteraciones: 500
+
+Corrida # 53
+Vector inicial: [0, 3, 5, 7, 13, 18, 20, 12, 17, 6, 23, 15, 2, 21, 22, 8, 9, 14, 19, 24, 10, 25, 16, 1, 11, 4]
+Vector final: [21, 16, 25, 9, 22, 6, 18, 23, 2, 3, 17, 14, 13, 8, 15, 5, 1, 4, 19, 12, 20, 11, 7, 24, 10, 0]
+Empezamos con valor: 6027212
+Mejor valor: 5577779
+Tiempo de corrida: 10.0273079872
+Tiempo de ejecucion: 10.0284759998
+Iteraciones: 504
+
+Corrida # 54
+Vector inicial: [0, 2, 4, 6, 7, 9, 12, 15, 16, 24, 21, 10, 1, 22, 20, 13, 18, 23, 19, 3, 25, 14, 11, 5, 17, 8]
+Vector final: [15, 11, 25, 10, 1, 6, 16, 2, 24, 20, 3, 7, 19, 18, 23, 14, 17, 4, 8, 5, 13, 12, 22, 21, 9, 0]
+Empezamos con valor: 5899757
+Mejor valor: 5502735
+Tiempo de corrida: 10.0964148045
+Tiempo de ejecucion: 10.0975809097
+Iteraciones: 509
+
+Corrida # 55
+Vector inicial: [6, 8, 9, 12, 15, 16, 19, 20, 21, 25, 5, 0, 11, 13, 3, 22, 24, 1, 14, 10, 7, 2, 4, 18, 17, 23]
+Vector final: [16, 18, 24, 23, 17, 2, 14, 15, 22, 5, 8, 3, 19, 12, 25, 1, 6, 4, 13, 10, 7, 21, 9, 11, 20, 0]
+Empezamos con valor: 6144104
+Mejor valor: 5547376
+Tiempo de corrida: 19.2579548359
+Tiempo de ejecucion: 19.2591149807
+Iteraciones: 976
+
+Corrida # 56
+Vector inicial: [1, 3, 7, 8, 13, 16, 17, 19, 20, 24, 25, 4, 0, 5, 12, 22, 23, 9, 14, 10, 15, 18, 21, 2, 6, 11]
+Vector final: [16, 15, 13, 10, 5, 23, 14, 2, 6, 20, 3, 7, 17, 12, 22, 24, 8, 4, 1, 18, 25, 11, 21, 9, 19, 0]
+Empezamos con valor: 5942797
+Mejor valor: 5545592
+Tiempo de corrida: 10.3461639881
+Tiempo de ejecucion: 10.3473260403
+Iteraciones: 526
+
+Corrida # 57
+Vector inicial: [6, 7, 8, 9, 15, 16, 24, 13, 1, 22, 5, 3, 21, 20, 14, 12, 23, 4, 18, 25, 17, 2, 11, 19, 10, 0]
+Vector final: [22, 16, 9, 1, 20, 23, 6, 11, 2, 17, 13, 4, 18, 3, 21, 5, 14, 19, 8, 12, 15, 25, 10, 7, 24, 0]
+Empezamos con valor: 5857677
+Mejor valor: 5561240
+Tiempo de corrida: 17.9899530411
+Tiempo de ejecucion: 17.9911131859
+Iteraciones: 912
+
+Corrida # 58
+Vector inicial: [1, 3, 5, 6, 9, 14, 16, 18, 19, 20, 22, 10, 15, 13, 11, 12, 23, 25, 4, 7, 0, 24, 2, 17, 8, 21]
+Vector final: [25, 23, 16, 10, 8, 2, 14, 21, 24, 3, 17, 11, 18, 6, 7, 1, 19, 13, 4, 12, 20, 5, 9, 15, 22, 0]
+Empezamos con valor: 5922911
+Mejor valor: 5570472
+Tiempo de corrida: 9.93113517761
+Tiempo de ejecucion: 9.93229317665
+Iteraciones: 501
+
+Corrida # 59
+Vector inicial: [3, 4, 5, 6, 7, 9, 13, 14, 18, 21, 23, 24, 12, 2, 1, 0, 10, 15, 22, 20, 11, 8, 25, 17, 19, 16]
+Vector final: [3, 16, 23, 22, 25, 2, 15, 5, 24, 1, 18, 8, 13, 17, 10, 20, 4, 21, 19, 11, 14, 7, 6, 12, 9, 0]
+Empezamos con valor: 6134478
+Mejor valor: 5601601
+Tiempo de corrida: 10.8129010201
+Tiempo de ejecucion: 10.8140602112
+Iteraciones: 551
+
+Corrida # 60
+Vector inicial: [4, 5, 6, 8, 10, 11, 12, 13, 14, 16, 21, 24, 25, 9, 0, 22, 3, 17, 7, 23, 15, 18, 1, 2, 19, 20]
+Vector final: [21, 1, 22, 9, 20, 23, 16, 15, 24, 8, 11, 14, 13, 19, 3, 2, 4, 6, 17, 10, 5, 18, 7, 12, 25, 0]
+Empezamos con valor: 5870512
+Mejor valor: 5567604
+Tiempo de corrida: 19.9358730316
+Tiempo de ejecucion: 19.9370448589
+Iteraciones: 1010
+
+Corrida # 61
+Vector inicial: [5, 6, 8, 9, 12, 13, 14, 15, 19, 20, 22, 25, 17, 21, 23, 18, 24, 0, 11, 10, 3, 2, 1, 16, 4, 7]
+Vector final: [16, 2, 9, 23, 17, 1, 15, 20, 24, 6, 12, 13, 19, 14, 22, 7, 18, 8, 4, 5, 21, 3, 11, 25, 10, 0]
+Empezamos con valor: 5975067
+Mejor valor: 5562566
+Tiempo de corrida: 15.9386029243
+Tiempo de ejecucion: 15.9397730827
+Iteraciones: 807
+
+Corrida # 62
+Vector inicial: [0, 3, 4, 5, 9, 21, 24, 1, 22, 16, 7, 15, 25, 8, 19, 12, 6, 2, 13, 11, 20, 23, 14, 17, 10, 18]
+Vector final: [16, 11, 22, 21, 25, 23, 15, 8, 24, 20, 17, 1, 19, 13, 10, 14, 4, 9, 2, 18, 5, 3, 6, 7, 12, 0]
+Empezamos con valor: 5974179
+Mejor valor: 5614018
+Tiempo de corrida: 12.8907530308
+Tiempo de ejecucion: 12.8919460773
+Iteraciones: 657
+
+Corrida # 63
+Vector inicial: [5, 7, 9, 12, 14, 15, 17, 18, 19, 24, 25, 1, 16, 6, 21, 20, 4, 2, 0, 22, 10, 3, 11, 23, 13, 8]
+Vector final: [21, 15, 25, 9, 17, 23, 2, 8, 1, 24, 7, 10, 11, 20, 6, 14, 4, 19, 13, 5, 3, 18, 22, 12, 16, 0]
+Empezamos con valor: 6022219
+Mejor valor: 5575950
+Tiempo de corrida: 14.689661026
+Tiempo de ejecucion: 14.6908240318
+Iteraciones: 741
+
+Corrida # 64
+Vector inicial: [3, 4, 11, 13, 14, 18, 21, 22, 23, 25, 15, 19, 1, 16, 0, 17, 12, 2, 7, 24, 5, 20, 10, 8, 6, 9]
+Vector final: [12, 9, 16, 1, 13, 20, 2, 3, 24, 15, 6, 8, 19, 10, 7, 14, 18, 17, 4, 11, 5, 25, 23, 21, 22, 0]
+Empezamos con valor: 6038521
+Mejor valor: 5577873
+Tiempo de corrida: 11.3266861439
+Tiempo de ejecucion: 11.3278419971
+Iteraciones: 575
+
+Corrida # 65
+Vector inicial: [7, 8, 9, 13, 20, 21, 22, 10, 18, 17, 1, 0, 12, 14, 3, 2, 19, 15, 11, 6, 5, 4, 16, 24, 23, 25]
+Vector final: [5, 25, 15, 9, 6, 2, 16, 21, 22, 20, 7, 12, 4, 17, 1, 14, 8, 13, 19, 3, 18, 10, 11, 23, 24, 0]
+Empezamos con valor: 5980503
+Mejor valor: 5561906
+Tiempo de corrida: 10.0996649265
+Tiempo de ejecucion: 10.1008448601
+Iteraciones: 511
+
+Corrida # 66
+Vector inicial: [0, 3, 5, 11, 14, 15, 18, 19, 24, 22, 9, 12, 21, 10, 1, 7, 2, 4, 25, 8, 17, 13, 16, 20, 6, 23]
+Vector final: [16, 2, 5, 9, 19, 14, 23, 18, 24, 8, 4, 25, 12, 1, 3, 17, 6, 13, 20, 10, 11, 22, 21, 15, 7, 0]
+Empezamos con valor: 5981212
+Mejor valor: 5585635
+Tiempo de corrida: 9.74195504189
+Tiempo de ejecucion: 9.74311804771
+Iteraciones: 500
+
+Corrida # 67
+Vector inicial: [0, 6, 7, 9, 11, 12, 16, 20, 23, 24, 25, 18, 13, 10, 3, 8, 19, 21, 22, 2, 14, 4, 5, 1, 15, 17]
+Vector final: [10, 15, 21, 16, 7, 2, 23, 20, 22, 5, 11, 8, 19, 14, 24, 3, 18, 4, 17, 12, 6, 9, 13, 1, 25, 0]
+Empezamos con valor: 6028715
+Mejor valor: 5600230
+Tiempo de corrida: 9.81326603889
+Tiempo de ejecucion: 9.81443500519
+Iteraciones: 500
+
+Corrida # 68
+Vector inicial: [1, 2, 4, 11, 12, 13, 14, 19, 22, 23, 24, 20, 21, 18, 7, 9, 15, 17, 0, 16, 3, 10, 5, 6, 25, 8]
+Vector final: [16, 15, 1, 9, 11, 2, 23, 4, 6, 25, 13, 18, 17, 8, 7, 14, 19, 5, 20, 12, 3, 22, 21, 10, 24, 0]
+Empezamos con valor: 5870522
+Mejor valor: 5568104
+Tiempo de corrida: 11.9712100029
+Tiempo de ejecucion: 11.9723730087
+Iteraciones: 589
+
+Corrida # 69
+Vector inicial: [1, 3, 4, 6, 14, 20, 21, 24, 12, 2, 18, 8, 7, 0, 15, 13, 5, 16, 23, 25, 11, 22, 19, 10, 9, 17]
+Vector final: [19, 15, 23, 9, 10, 2, 16, 8, 24, 3, 13, 18, 4, 14, 20, 25, 5, 11, 6, 21, 7, 12, 1, 22, 17, 0]
+Empezamos con valor: 5935598
+Mejor valor: 5618857
+Tiempo de corrida: 10.4812688828
+Tiempo de ejecucion: 10.482517004
+Iteraciones: 508
+
+Corrida # 70
+Vector inicial: [4, 5, 9, 11, 12, 14, 17, 18, 19, 21, 22, 20, 10, 23, 0, 7, 2, 3, 6, 8, 24, 25, 16, 1, 13, 15]
+Vector final: [5, 23, 9, 21, 7, 2, 16, 15, 24, 12, 18, 11, 8, 13, 10, 14, 19, 20, 4, 3, 17, 25, 22, 1, 6, 0]
+Empezamos con valor: 5918854
+Mejor valor: 5527807
+Tiempo de corrida: 12.6546220779
+Tiempo de ejecucion: 12.655782938
+Iteraciones: 639
+
+Corrida # 71
+Vector inicial: [3, 7, 9, 13, 18, 19, 21, 22, 25, 8, 15, 11, 17, 2, 20, 6, 14, 10, 23, 0, 1, 5, 16, 4, 24, 12]
+Vector final: [2, 0, 5, 23, 8, 20, 16, 10, 22, 3, 1, 25, 15, 18, 9, 6, 11, 4, 19, 12, 24, 13, 17, 21, 14, 7]
+Empezamos con valor: 6157149
+Mejor valor: 5660399
+Tiempo de corrida: 9.89253997803
+Tiempo de ejecucion: 9.89371609688
+Iteraciones: 500
+
+Corrida # 72
+Vector inicial: [8, 13, 14, 16, 17, 18, 20, 21, 23, 25, 4, 3, 5, 19, 6, 10, 7, 11, 22, 0, 12, 15, 2, 9, 24, 1]
+Vector final: [6, 23, 21, 15, 20, 7, 16, 14, 24, 11, 3, 8, 18, 19, 2, 25, 17, 4, 13, 5, 9, 12, 22, 1, 10, 0]
+Empezamos con valor: 5918690
+Mejor valor: 5572486
+Tiempo de corrida: 17.1967270374
+Tiempo de ejecucion: 17.1979050636
+Iteraciones: 868
+
+Corrida # 73
+Vector inicial: [0, 6, 7, 12, 14, 18, 20, 23, 16, 1, 8, 25, 13, 2, 24, 21, 19, 4, 11, 3, 15, 22, 9, 5, 10, 17]
+Vector final: [16, 5, 15, 9, 6, 2, 23, 14, 24, 10, 13, 3, 18, 8, 20, 19, 17, 4, 11, 12, 22, 25, 21, 7, 1, 0]
+Empezamos con valor: 5801411
+Mejor valor: 5544418
+Tiempo de corrida: 18.2375040054
+Tiempo de ejecucion: 18.2386591434
+Iteraciones: 921
+
+Corrida # 74
+Vector inicial: [3, 4, 6, 10, 12, 13, 16, 17, 23, 24, 7, 1, 5, 25, 19, 18, 8, 22, 14, 0, 20, 15, 11, 21, 2, 9]
+Vector final: [18, 23, 1, 16, 22, 2, 15, 5, 24, 8, 13, 17, 25, 19, 10, 3, 6, 11, 4, 9, 21, 7, 20, 12, 14, 0]
+Empezamos con valor: 5928578
+Mejor valor: 5597500
+Tiempo de corrida: 10.7604959011
+Tiempo de ejecucion: 10.7616739273
+Iteraciones: 544
+
+Corrida # 75
+Vector inicial: [2, 6, 8, 13, 15, 21, 24, 25, 16, 23, 14, 3, 7, 22, 5, 9, 19, 1, 12, 20, 17, 11, 4, 18, 0, 10]
+Vector final: [22, 16, 21, 25, 13, 2, 23, 15, 24, 14, 18, 12, 11, 10, 1, 3, 6, 4, 8, 9, 17, 20, 5, 7, 19, 0]
+Empezamos con valor: 6384488
+Mejor valor: 5579744
+Tiempo de corrida: 9.8017179966
+Tiempo de ejecucion: 9.80288004875
+Iteraciones: 500
+
+Corrida # 76
+Vector inicial: [1, 5, 11, 13, 17, 18, 22, 23, 24, 20, 16, 7, 9, 19, 8, 10, 14, 4, 2, 25, 3, 21, 0, 6, 12, 15]
+Vector final: [12, 15, 24, 9, 5, 23, 16, 8, 6, 3, 13, 18, 4, 20, 11, 1, 19, 17, 2, 10, 7, 25, 22, 21, 14, 0]
+Empezamos con valor: 5878925
+Mejor valor: 5546228
+Tiempo de corrida: 17.9532608986
+Tiempo de ejecucion: 17.9544248581
+Iteraciones: 914
+
+Corrida # 77
+Vector inicial: [3, 4, 6, 8, 17, 18, 21, 22, 23, 24, 10, 0, 12, 9, 25, 15, 20, 1, 19, 14, 5, 7, 2, 13, 16, 11]
+Vector final: [7, 25, 9, 23, 15, 14, 16, 2, 24, 5, 3, 12, 19, 18, 21, 20, 4, 17, 8, 10, 11, 1, 13, 6, 22, 0]
+Empezamos con valor: 6172776
+Mejor valor: 5505849
+Tiempo de corrida: 12.7570080757
+Tiempo de ejecucion: 12.758177042
+Iteraciones: 644
+
+Corrida # 78
+Vector inicial: [2, 5, 11, 16, 20, 22, 23, 24, 6, 14, 8, 15, 7, 9, 21, 25, 18, 17, 4, 13, 12, 3, 19, 10, 0, 1]
+Vector final: [0, 15, 23, 22, 24, 2, 16, 6, 3, 14, 18, 13, 4, 19, 10, 11, 17, 8, 5, 21, 7, 9, 25, 1, 12, 20]
+Empezamos con valor: 5734210
+Mejor valor: 5552988
+Tiempo de corrida: 10.7084820271
+Tiempo de ejecucion: 10.709651947
+Iteraciones: 540
+
+Corrida # 79
+Vector inicial: [2, 14, 15, 16, 18, 20, 21, 24, 3, 10, 4, 1, 6, 11, 13, 25, 7, 23, 5, 8, 9, 19, 17, 12, 22, 0]
+Vector final: [21, 15, 9, 16, 5, 23, 14, 2, 1, 20, 18, 19, 8, 11, 3, 25, 4, 6, 13, 12, 22, 7, 17, 10, 24, 0]
+Empezamos con valor: 6078534
+Mejor valor: 5505129
+Tiempo de corrida: 16.1355659962
+Tiempo de ejecucion: 16.1367168427
+Iteraciones: 812
+
+Corrida # 80
+Vector inicial: [0, 5, 9, 10, 11, 13, 14, 15, 16, 19, 25, 20, 2, 4, 17, 7, 6, 3, 12, 18, 21, 1, 23, 22, 24, 8]
+Vector final: [13, 17, 5, 23, 6, 2, 16, 15, 14, 3, 1, 19, 18, 10, 7, 25, 4, 20, 8, 9, 24, 21, 12, 11, 22, 0]
+Empezamos con valor: 5848139
+Mejor valor: 5513870
+Tiempo de corrida: 22.6196811199
+Tiempo de ejecucion: 22.6208460331
+Iteraciones: 1155
+
+Corrida # 81
+Vector inicial: [1, 6, 8, 11, 18, 20, 21, 23, 9, 19, 2, 25, 7, 4, 5, 15, 0, 12, 17, 14, 3, 16, 10, 13, 22, 24]
+Vector final: [5, 23, 9, 21, 3, 2, 16, 15, 14, 24, 7, 1, 18, 17, 12, 19, 8, 11, 4, 25, 13, 10, 6, 22, 20, 0]
+Empezamos con valor: 5882781
+Mejor valor: 5557776
+Tiempo de corrida: 12.2251000404
+Tiempo de ejecucion: 12.2262670994
+Iteraciones: 618
+
+Corrida # 82
+Vector inicial: [4, 12, 13, 20, 21, 22, 23, 25, 11, 2, 15, 9, 6, 5, 0, 8, 16, 1, 14, 17, 10, 18, 7, 3, 24, 19]
+Vector final: [16, 22, 5, 9, 15, 6, 23, 10, 24, 2, 8, 17, 13, 18, 11, 3, 7, 19, 4, 1, 12, 21, 25, 20, 14, 0]
+Empezamos con valor: 6191932
+Mejor valor: 5534122
+Tiempo de corrida: 16.6595311165
+Tiempo de ejecucion: 16.6606960297
+Iteraciones: 849
+
+Corrida # 83
+Vector inicial: [4, 5, 8, 9, 15, 16, 18, 21, 22, 23, 25, 10, 2, 13, 20, 19, 7, 24, 1, 12, 11, 0, 3, 6, 17, 14]
+Vector final: [0, 14, 22, 15, 6, 18, 23, 2, 24, 17, 8, 4, 19, 1, 5, 25, 13, 12, 20, 21, 9, 3, 10, 7, 11, 16]
+Empezamos con valor: 6028346
+Mejor valor: 5525426
+Tiempo de corrida: 15.3063249588
+Tiempo de ejecucion: 15.3075008392
+Iteraciones: 773
+
+Corrida # 84
+Vector inicial: [0, 2, 6, 10, 14, 17, 19, 20, 24, 25, 5, 21, 22, 15, 13, 12, 4, 18, 23, 8, 3, 11, 7, 16, 9, 1]
+Vector final: [16, 0, 9, 24, 8, 2, 6, 23, 12, 11, 5, 14, 13, 19, 1, 3, 20, 4, 17, 22, 25, 18, 7, 10, 21, 15]
+Empezamos con valor: 6014834
+Mejor valor: 5584850
+Tiempo de corrida: 9.82411599159
+Tiempo de ejecucion: 9.82528185844
+Iteraciones: 500
+
+Corrida # 85
+Vector inicial: [2, 5, 6, 9, 13, 14, 17, 18, 21, 19, 16, 11, 20, 0, 25, 1, 23, 10, 22, 15, 7, 12, 24, 8, 3, 4]
+Vector final: [15, 16, 9, 5, 20, 2, 23, 1, 24, 3, 6, 17, 18, 13, 10, 14, 4, 25, 8, 7, 11, 12, 21, 22, 19, 0]
+Empezamos con valor: 6140297
+Mejor valor: 5548069
+Tiempo de corrida: 10.941639185
+Tiempo de ejecucion: 10.9428060055
+Iteraciones: 545
+
+Corrida # 86
+Vector inicial: [2, 5, 6, 12, 15, 17, 20, 23, 24, 9, 22, 8, 4, 11, 13, 0, 19, 10, 18, 25, 16, 21, 14, 1, 3, 7]
+Vector final: [13, 10, 15, 23, 7, 2, 16, 5, 24, 3, 17, 12, 18, 14, 11, 1, 8, 19, 4, 9, 21, 22, 6, 25, 20, 0]
+Empezamos con valor: 5772856
+Mejor valor: 5539987
+Tiempo de corrida: 9.96439099312
+Tiempo de ejecucion: 9.96556901932
+Iteraciones: 509
+
+Corrida # 87
+Vector inicial: [0, 1, 3, 6, 7, 8, 12, 13, 19, 23, 21, 14, 24, 10, 18, 9, 5, 16, 2, 11, 17, 20, 15, 22, 4, 25]
+Vector final: [19, 16, 15, 12, 17, 14, 21, 23, 9, 24, 2, 5, 20, 7, 11, 22, 18, 4, 8, 3, 10, 6, 13, 1, 25, 0]
+Empezamos con valor: 6057759
+Mejor valor: 5625601
+Tiempo de corrida: 9.78492307663
+Tiempo de ejecucion: 9.78608608246
+Iteraciones: 500
+
+Corrida # 88
+Vector inicial: [0, 1, 2, 3, 7, 8, 9, 10, 14, 16, 18, 25, 24, 15, 13, 11, 6, 21, 22, 23, 5, 20, 17, 12, 4, 19]
+Vector final: [16, 12, 1, 9, 11, 2, 14, 23, 22, 24, 3, 17, 19, 8, 6, 10, 20, 13, 18, 15, 25, 21, 7, 5, 4, 0]
+Empezamos con valor: 6099927
+Mejor valor: 5566939
+Tiempo de corrida: 11.7080099583
+Tiempo de ejecucion: 11.7091760635
+Iteraciones: 591
+
+Corrida # 89
+Vector inicial: [3, 6, 7, 8, 9, 11, 15, 16, 17, 19, 22, 24, 2, 13, 12, 21, 18, 4, 0, 14, 23, 1, 10, 5, 20, 25]
+Vector final: [15, 0, 25, 16, 2, 6, 8, 23, 24, 20, 3, 4, 13, 19, 12, 7, 17, 18, 5, 10, 21, 11, 22, 1, 9, 14]
+Empezamos con valor: 5806932
+Mejor valor: 5573319
+Tiempo de corrida: 10.2358870506
+Tiempo de ejecucion: 10.237044096
+Iteraciones: 513
+
+Corrida # 90
+Vector inicial: [0, 1, 2, 4, 8, 15, 16, 17, 19, 20, 21, 10, 18, 3, 24, 9, 7, 14, 23, 12, 5, 11, 25, 13, 22, 6]
+Vector final: [10, 25, 15, 22, 1, 23, 16, 2, 24, 8, 3, 12, 4, 13, 7, 20, 18, 17, 14, 21, 11, 5, 6, 19, 9, 0]
+Empezamos con valor: 6135389
+Mejor valor: 5601471
+Tiempo de corrida: 13.4663250446
+Tiempo de ejecucion: 13.4675028324
+Iteraciones: 686
+
+Corrida # 91
+Vector inicial: [3, 6, 7, 12, 16, 20, 22, 23, 5, 9, 0, 21, 2, 14, 17, 18, 10, 25, 1, 19, 15, 4, 11, 8, 24, 13]
+Vector final: [7, 5, 23, 9, 24, 2, 16, 10, 6, 11, 3, 17, 4, 19, 14, 20, 8, 18, 13, 22, 12, 15, 25, 1, 21, 0]
+Empezamos con valor: 6226057
+Mejor valor: 5571581
+Tiempo de corrida: 10.1266739368
+Tiempo de ejecucion: 10.1278400421
+Iteraciones: 513
+
+Corrida # 92
+Vector inicial: [5, 11, 13, 15, 18, 22, 25, 10, 1, 7, 17, 8, 21, 16, 14, 23, 3, 20, 24, 2, 12, 19, 0, 9, 4, 6]
+Vector final: [19, 13, 5, 16, 17, 6, 23, 14, 21, 24, 2, 22, 1, 3, 9, 20, 8, 4, 15, 12, 10, 25, 11, 18, 7, 0]
+Empezamos con valor: 5982361
+Mejor valor: 5585048
+Tiempo de corrida: 9.73347592354
+Tiempo de ejecucion: 9.73465180397
+Iteraciones: 500
+
+Corrida # 93
+Vector inicial: [0, 2, 6, 9, 10, 15, 18, 20, 5, 14, 4, 21, 22, 23, 16, 11, 7, 8, 13, 12, 25, 19, 17, 24, 3, 1]
+Vector final: [0, 16, 23, 9, 7, 17, 1, 3, 2, 10, 4, 19, 20, 6, 5, 21, 15, 12, 8, 14, 24, 18, 22, 25, 11, 13]
+Empezamos con valor: 5735317
+Mejor valor: 5617331
+Tiempo de corrida: 9.92277479172
+Tiempo de ejecucion: 9.9239358902
+Iteraciones: 500
+
+Corrida # 94
+Vector inicial: [1, 3, 8, 9, 10, 12, 13, 18, 23, 22, 20, 24, 25, 0, 17, 21, 6, 11, 4, 7, 19, 5, 15, 14, 2, 16]
+Vector final: [12, 23, 3, 16, 13, 2, 15, 1, 24, 21, 6, 14, 19, 18, 22, 25, 4, 17, 8, 11, 20, 10, 7, 9, 5, 0]
+Empezamos con valor: 5750920
+Mejor valor: 5555877
+Tiempo de corrida: 10.4326729774
+Tiempo de ejecucion: 10.4338431358
+Iteraciones: 527
+
+Corrida # 95
+Vector inicial: [2, 3, 7, 8, 10, 12, 14, 19, 23, 24, 25, 18, 9, 17, 5, 20, 4, 15, 13, 1, 21, 0, 6, 11, 22, 16]
+Vector final: [25, 9, 15, 1, 5, 23, 16, 11, 24, 2, 3, 8, 6, 13, 18, 20, 19, 17, 4, 12, 10, 7, 22, 21, 14, 0]
+Empezamos con valor: 5770553
+Mejor valor: 5511703
+Tiempo de corrida: 10.5885639191
+Tiempo de ejecucion: 10.5897529125
+Iteraciones: 529
+
+Corrida # 96
+Vector inicial: [2, 6, 10, 14, 16, 18, 21, 25, 0, 8, 17, 11, 20, 15, 5, 9, 12, 7, 24, 3, 23, 4, 22, 1, 13, 19]
+Vector final: [12, 15, 23, 9, 21, 14, 16, 2, 10, 8, 25, 6, 20, 1, 7, 24, 4, 19, 13, 11, 3, 5, 18, 17, 22, 0]
+Empezamos con valor: 5915064
+Mejor valor: 5593484
+Tiempo de corrida: 15.7117338181
+Tiempo de ejecucion: 15.7129278183
+Iteraciones: 803
+
+Corrida # 97
+Vector inicial: [2, 3, 6, 10, 11, 12, 17, 18, 21, 22, 25, 7, 16, 24, 8, 14, 1, 13, 23, 20, 5, 19, 4, 15, 0, 9]
+Vector final: [15, 2, 1, 9, 12, 25, 16, 23, 24, 3, 6, 5, 13, 14, 19, 11, 18, 4, 8, 22, 21, 10, 20, 17, 7, 0]
+Empezamos con valor: 6033206
+Mejor valor: 5575141
+Tiempo de corrida: 16.3132731915
+Tiempo de ejecucion: 16.3144350052
+Iteraciones: 827
+
+Corrida # 98
+Vector inicial: [5, 9, 11, 14, 15, 16, 17, 18, 19, 22, 20, 25, 3, 7, 8, 12, 6, 10, 2, 24, 13, 23, 0, 4, 1, 21]
+Vector final: [1, 16, 23, 9, 5, 20, 15, 3, 24, 7, 10, 2, 11, 18, 12, 6, 8, 19, 4, 22, 17, 13, 25, 21, 14, 0]
+Empezamos con valor: 6010115
+Mejor valor: 5513171
+Tiempo de corrida: 13.9580979347
+Tiempo de ejecucion: 13.9592690468
+Iteraciones: 709
+
+Corrida # 99
+Vector inicial: [0, 1, 2, 3, 4, 5, 10, 14, 15, 16, 19, 22, 17, 21, 23, 6, 8, 7, 18, 20, 24, 11, 25, 13, 12, 9]
+Vector final: [19, 15, 9, 21, 20, 23, 16, 2, 24, 5, 3, 18, 17, 11, 7, 1, 8, 13, 4, 22, 25, 12, 6, 10, 14, 0]
+Empezamos con valor: 6027994
+Mejor valor: 5531431
+Tiempo de corrida: 10.8252420425
+Tiempo de ejecucion: 10.8264510632
+Iteraciones: 542
