@@ -495,8 +495,6 @@ def main(argv):
                 # break
         # except:
             # print 'Por favor un numero'
-
-    
     # ValueOLD = first_solutionValue
     pruebas = 100
     options = {

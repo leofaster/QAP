@@ -311,8 +311,8 @@ def agregar_hijos_lista(
     for solucion in lista_soliciones:
         if solucion not in soluciones:
             soluciones.append(solucion)
-        else:
-            soluciones.remove(solucion)
+        # else:
+            # soluciones.remove(solucion)
 
 
 def seleccionador_crianza(
@@ -326,18 +326,18 @@ def seleccionador_crianza(
 ):
     lista = []
     valor_padre1 = val(size, padre1, flow, distance)
-    lista.append((valor_padre1, padre1))
+    lista.append((valor_padre1, padre1, 'padre'))
     valor_padre2 = val(size, padre2, flow, distance)
-    lista.append((valor_padre2, padre2))
+    lista.append((valor_padre2, padre2, 'padre'))
 
     valor_hijo1 = val(size, hijo1, flow, distance)
-    lista.append((valor_hijo1, hijo1))
+    lista.append((valor_hijo1, hijo1, 'hijo'))
 
     valor_hijo2 = val(size, hijo2, flow, distance)
-    lista.append((valor_hijo2, hijo2))
+    lista.append((valor_hijo2, hijo2, 'hijo'))
     lista.sort()
     # print lista
-    return lista[0][1], lista[1][1]
+    return lista
 
 
 def ciclo_genetico_con_selector(
@@ -363,7 +363,7 @@ def ciclo_genetico_con_selector(
             soluciones[index_padre1],
             soluciones[index_padre2]
         )
-        criaje1, criaje2 = seleccionador_crianza(
+        criajes = seleccionador_crianza(
             soluciones[index_padre1],
             soluciones[index_padre2],
             hijo1,
@@ -372,13 +372,18 @@ def ciclo_genetico_con_selector(
             flow,
             distance
         )
-        lista_soluciones = [
-            soluciones[index_padre1],
-            soluciones[index_padre2],
-            hijo1,
-            hijo2
-        ]
-        agregar_hijos_lista(lista_soluciones, soluciones)
+        # lista_criaje = []
+        delete = 0
+        for counter, criaje in enumerate(criajes):
+            if criaje[2] == 'hijo':
+                if counter < 2:
+                    soluciones.append(criaje[1])
+                    delete += 1
+            if criaje[2] == 'padre':
+                if delete > 0:
+                    if counter > 1:
+                        soluciones.remove(criaje[1])
+        # print 'numero' + str(len(soluciones))
         ciclo += 1
     return min(resultados)
 
@@ -418,7 +423,7 @@ def ciclo_genetico_sin_selector(
     return min(resultados)
 
 
-def main_program(archivo, cantidad, selector):
+def main_program(archivo, cantidad, selector, potencia=2):
     f = open(archivo, 'r')
     pruebas = int(cantidad)
     size = int(f.readline().strip())
@@ -442,7 +447,7 @@ def main_program(archivo, cantidad, selector):
     flow = matrix[:size]
     distance = matrix[size:]
     # tamano de la poblacion a buscar
-    sizevalue = size ** 3
+    sizevalue = size ** potencia
     soluciones = generador_poblacional_random(size, sizevalue)
     minimo = -1
     if selector == 1:
@@ -462,7 +467,6 @@ def main_program(archivo, cantidad, selector):
             distance
         )
     print minimo
-
 
 
 def main(argv):
