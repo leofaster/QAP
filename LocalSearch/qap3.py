@@ -372,7 +372,6 @@ def ciclo_genetico_con_selector(
             flow,
             distance
         )
-        # lista_criaje = []
         delete = 0
         for counter, criaje in enumerate(criajes):
             if criaje[2] == 'hijo':
@@ -383,7 +382,6 @@ def ciclo_genetico_con_selector(
                 if delete > 0:
                     if counter > 1:
                         soluciones.remove(criaje[1])
-        # print 'numero' + str(len(soluciones))
         ciclo += 1
     return min(resultados)
 
@@ -423,9 +421,7 @@ def ciclo_genetico_sin_selector(
     return min(resultados)
 
 
-def main_program(archivo, cantidad, selector, potencia=2):
-    f = open(archivo, 'r')
-    pruebas = int(cantidad)
+def obtener_datos(f):
     size = int(f.readline().strip())
 
     f.readline()  # We read and leave this line
@@ -444,6 +440,14 @@ def main_program(archivo, cantidad, selector, potencia=2):
             matrix[-1].append(int(z))
             i += 1
     assert i == 2 * size * size
+    return matrix, size
+
+
+def main_genetic(archivo, selector, cantidad, potencia=2):
+    f = open(archivo, 'r')
+    pruebas = int(cantidad)
+    matrix, size = obtener_datos(f)
+    f.close()
     flow = matrix[:size]
     distance = matrix[size:]
     # tamano de la poblacion a buscar
@@ -469,75 +473,218 @@ def main_program(archivo, cantidad, selector, potencia=2):
     print minimo
 
 
-def main(argv):
-    if len(argv) > 1:
-        f = open(sys.argv[1], 'r')
-    else:
-        f = sys.stdin
-    if len(argv) > 2:
-        pruebas = int(sys.argv[2])
-    else:
-        pruebas = 50
-
-    size = int(f.readline().strip())
-
-    f.readline()  # We read and leave this line
-
-    # Initializate the variables
-    # vicinity = [0 for x in range(size)]
-    i = 0
-    matrix = []
-    for line in f:
-        y = line.strip()
-        if y == '':
-            continue
-        for z in y.split():
-            if i % size == 0:
-                matrix.append([])
-            matrix[-1].append(int(z))
-            i += 1
-    assert i == 2 * size * size
+def main_ss(archivo, iteraciones, potencia=2):
+    f = open(archivo, 'r')
+    matrix, size = obtener_datos(f)
     flow = matrix[:size]
     distance = matrix[size:]
     # tamano de la poblacion a buscar
-    sizevalue = size ** 3
+    sizevalue = size ** potencia
     # EMPIEZA EL CICLO
     soluciones = generador_poblacional_random(size, sizevalue)
-    ciclo = 0
-    resultados = []
-    while ciclo < pruebas:
-        resultados = evaluador_poblacional(soluciones, size, flow, distance)
-        fitnes, sumatotal = evaluador_fitnes(resultados)
-        selector_padre1, selector_padre2 = random_padres(sumatotal)
-        index_padre1 = obtener_index_padre(selector_padre1, fitnes)
-        index_padre2 = obtener_index_padre(selector_padre2, fitnes)
-        hijo1 = operador_voto1(
-            soluciones[index_padre1],
-            soluciones[index_padre2]
+    lista_ss = []
+    for solucion in soluciones:
+        lista_ss.append(
+            (
+                val(
+                    size,
+                    solucion,
+                    flow,
+                    distance
+                ),
+                solucion
+            )
         )
-        hijo2 = operador_voto2(
-            soluciones[index_padre1],
-            soluciones[index_padre2]
+    lista_ss.sort()
+    lista_elite = []
+    i = 0
+    while i < 5:
+        lista_elite.append(lista_ss[i])
+        lista_elite.append(
+            (
+                val(
+                    size,
+                    lista_ss[i][1][::-1],
+                    flow,
+                    distance
+                ),
+                lista_ss[i][1][::-1]
+            )
         )
-        criaje1, criaje2 = seleccionador_crianza(
-            soluciones[index_padre1],
-            soluciones[index_padre2],
-            hijo1,
-            hijo2,
-            size,
-            flow,
-            distance
+        i += 1
+    lista_elite.sort()
+    lista_mezcla = []
+    p = 0
+    while p < iteraciones:
+        for e in lista_elite:
+            for j in lista_elite[::-1]:
+                if e != j:
+                    hijo1 = operador_voto1(e[1], j[1])
+                    hijo2 = operador_voto2(e[1], j[1])
+                    lista_mezcla.append(
+                        (
+                            val(
+                                size,
+                                hijo1,
+                                flow,
+                                distance
+                            ),
+                            hijo1
+                        )
+                    )
+                    lista_mezcla.append(
+                        (
+                            val(
+                                size,
+                                hijo2,
+                                flow,
+                                distance
+                            ),
+                            hijo2
+                        )
+                    )
+        lista_mezcla.sort()
+        # ELIMINAR DUPLICADOS
+        new_lista_mezcla = list(
+            lista_mezcla for lista_mezcla,
+            _ in groupby(lista_mezcla)
         )
-        lista_soluciones = [
-            soluciones[index_padre1],
-            soluciones[index_padre2],
-            hijo1,
-            hijo2
-        ]
-        agregar_hijos_lista(lista_soluciones, soluciones)
-        ciclo += 1
-    print min(resultados)
+        # ELIMINAR DUPLICADOS
+        if new_lista_mezcla[0][0] < lista_elite[-1][0]:
+            lista_elite.remove(lista_elite[-1])
+            lista_elite.append(new_lista_mezcla[0])
+        lista_elite.sort()
+        lista_elite = list(
+            lista_elite for lista_elite,
+            _ in groupby(lista_elite)
+        )
+        p += 1
+    print min(lista_elite)[0]
 
+
+def main(argv):
+    if len(argv) < 2:
+        print "USO: archivo [#pruebas d:50] [#potencia d:3] [selector d: 0 - 0 genetico sin selector, 1 genetico con selector, 2 scatter search]"
+    else:
+        if len(argv) > 1:
+            f = sys.argv[1]
+        else:
+            f = sys.stdin
+        if len(argv) > 2:
+            pruebas = int(sys.argv[2])
+        else:
+            pruebas = 50
+        if len(argv) > 3:
+            potencia = int(sys.argv[3])
+        else:
+            potencia = 3
+        if len(argv) > 4:
+            selector = int(sys.argv[4])
+        else:
+            selector = 0
+
+        options = {
+            0: main_genetic,
+            1: main_genetic,
+        }
+        if selector < 2:
+            options[selector](
+                f,
+                selector,
+                pruebas,
+                potencia
+            )
+        else:
+            main_ss(
+                f,
+                pruebas,
+                potencia
+            )
+    # matrix, size = obtener_datos(f)
+    # flow = matrix[:size]
+    # distance = matrix[size:]
+    # # tamano de la poblacion a buscar
+    # sizevalue = size ** potencia
+    # # EMPIEZA EL CICLO
+    # soluciones = generador_poblacional_random(size, sizevalue)
+    # lista_ss = []
+    # for solucion in soluciones:
+    #     lista_ss.append(
+    #         (
+    #             val(
+    #                 size,
+    #                 solucion,
+    #                 flow,
+    #                 distance
+    #             ),
+    #             solucion
+    #         )
+    #     )
+    # lista_ss.sort()
+    # lista_elite = []
+    # i = 0
+    # while i < 5:
+    #     lista_elite.append(lista_ss[i])
+    #     lista_elite.append(
+    #         (
+    #             val(
+    #                 size,
+    #                 lista_ss[i][1][::-1],
+    #                 flow,
+    #                 distance
+    #             ),
+    #             lista_ss[i][1][::-1]
+    #         )
+    #     )
+    #     i += 1
+    # lista_elite.sort()
+    # lista_mezcla = []
+    # p = 0
+    # while p < pruebas:
+    #     for e in lista_elite:
+    #         for j in lista_elite[::-1]:
+    #             if e != j:
+    #                 hijo1 = operador_voto1(e[1], j[1])
+    #                 hijo2 = operador_voto2(e[1], j[1])
+    #                 lista_mezcla.append(
+    #                     (
+    #                         val(
+    #                             size,
+    #                             hijo1,
+    #                             flow,
+    #                             distance
+    #                         ),
+    #                         hijo1
+    #                     )
+    #                 )
+    #                 lista_mezcla.append(
+    #                     (
+    #                         val(
+    #                             size,
+    #                             hijo2,
+    #                             flow,
+    #                             distance
+    #                         ),
+    #                         hijo2
+    #                     )
+    #                 )
+    #     lista_mezcla.sort()
+    #     # ELIMINAR DUPLICADOS
+    #     new_lista_mezcla = list(
+    #         lista_mezcla for lista_mezcla,
+    #         _ in groupby(lista_mezcla)
+    #     )
+    #     # ELIMINAR DUPLICADOS
+    #     if new_lista_mezcla[0][0] < lista_elite[-1][0]:
+    #         lista_elite.remove(lista_elite[-1])
+    #         lista_elite.append(new_lista_mezcla[0])
+    #     lista_elite.sort()
+    #     lista_elite = list(
+    #         lista_elite for lista_elite,
+    #         _ in groupby(lista_elite)
+    #     )
+    #     p += 1
+    # print min(lista_elite)[0]
 
 if __name__ == "__main__":
     main(sys.argv)
